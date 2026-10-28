@@ -73,7 +73,7 @@
   "name": "Anthropic",
   "type": "greenhouse",
   "status": "ok",
-  "count": 678,
+  "count": 680,
   "error": ""
  },
  {
@@ -101,7 +101,7 @@
   "name": "OpenAI",
   "type": "ashby",
   "status": "ok",
-  "count": 808,
+  "count": 806,
   "error": ""
  },
  {
@@ -213,7 +213,7 @@
   "name": "CSET",
   "type": "page",
   "status": "ok",
-  "count": 39,
+  "count": 38,
   "error": ""
  },
  {
@@ -283,7 +283,7 @@
   "name": "Pinterest",
   "type": "greenhouse",
   "status": "ok",
-  "count": 161,
+  "count": 162,
   "error": ""
  },
  {
@@ -382,7 +382,7 @@
   "type": "page",
   "status": "error",
   "count": 0,
-  "error": "HTTP 403 from https://www.haqcrc.org/careers/"
+  "error": "HTTPSConnectionPool(host='www.haqcrc.org', port=443): Max retries exceeded with url: /careers/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.haqcrc.org', port=443) at 0x7fc01cc8fe60>, 'Con"
  },
  {
   "name": "CRY India",

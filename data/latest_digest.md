@@ -1,124 +1,124 @@
-Job digest 2026-10-28: 30 shown (41 more held for tomorrow)
+Job digest 2026-10-28: 30 shown (11 more held for tomorrow)
 
-Tech Editor - Youth AI Safety Institute - Common Sense Media
-[rules 7] location unspecified; title: ai safety, youth
-https://www.paycomonline.net/v4/ats/web.php/portal/4AA7E7402507528EEEA6308617BB1F08/jobs/170932
-
-Youth AI Safety Institute - Common Sense Media
-[rules 7] location unspecified; title: ai safety, youth
-https://institute.commonsensemedia.org/
-
-Model Policy Manager, Agentic Safety  - OpenAI (San Francisco)
-[rules 6] remote; title: policy
-https://jobs.ashbyhq.com/openai/b5a022bb-f7a5-47d9-b5e8-9d1575493dcf
-
-Product Data Scientist - Youth, Families and Learning - OpenAI (San Francisco)
-[rules 6] remote; title: youth
-https://jobs.ashbyhq.com/openai/1f148786-2e00-472a-96b9-0b29015980e1
-
-Public Policy - Partnership on AI
-[rules 6] location unspecified; title: policy, public policy
-https://partnershiponai.org/program/policy/
-
-EdTech & AI - CSF (India)
-[rules 6] location: india; title: edtech
-https://www.centralsquarefoundation.org/edtech-and-ai
-
-Bharat Survey for EdTech (BaSE) - CSF (India)
-[rules 6] location: india; title: edtech
-http://edtechbase.centralsquarefoundation.org/
-
-Privacy Policy - CSF (India)
-[rules 6] location: india; title: policy
-https://www.centralsquarefoundation.org/privacy-policy
-
-Web Developer (Fresh graduate welcome, WFH policy, on-job-training) - HR Plus (Anywhere in the World)
-[rules 5] remote; title: policy
-https://weworkremotely.com/remote-jobs/hr-plus-web-developer-fresh-graduate-welcome-wfh-policy-on-job-training
-
-Applied Risk Standards Architect - OpenAI (San Francisco)
-[rules 5] remote
-https://jobs.ashbyhq.com/openai/74b9aa04-0b9d-459a-9e2d-0e43fae67a79
-
-School Governance - CSF (India)
-[rules 5] location: india; title: governance
-https://www.centralsquarefoundation.org/school-governance
-
-Communications Intern - Keeper Security (Anywhere in the World)
-[rules 4] remote; title: intern
-https://weworkremotely.com/remote-jobs/keeper-security-communications-intern
-
-Research Program Manager, Frontier Assurance - OpenAI (San Francisco)
-[rules 4] remote; title: research
-https://jobs.ashbyhq.com/openai/356c5dca-472d-458e-826e-51d923e93eaa
-
-technical AI governance - Centre for the Governance of AI
-[rules 4] location unspecified; title: governance
-https://www.governance.ai/research-paper/open-problems-in-technical-ai-governance
-
-privacy policy - Ada Lovelace Institute
+Policy and Research - Future of Life Institute
 [rules 4] location unspecified; title: policy
-https://www.adalovelaceinstitute.org/digital-best-practices-policy/
+https://futureoflife.org/our-work/policy-and-research/
 
-privacy policy. - AlgorithmWatch
-[rules 4] location unspecified; title: policy
-https://algorithmwatch.org/en/privacy/#jobapplications
-
-Decolonising digital rights - EDRi
-[rules 4] location unspecified; title: digital rights
-https://edri.org/what-we-do/decolonising-digital-rights/
-
-Privacy policy - EDRi
-[rules 4] location unspecified; title: policy
-https://edri.org/privacy-policy/
-
-Policy officer EEAS - European External Action Service Port Moresby Mid - Impactpool
-[rules 4] location unspecified; title: policy
-https://www.impactpool.org/jobs/1243422
-
-Internship - Policy Engagement - Programme Policy Team, WFP Beijing Office, China WFP - World Food Programme Beijing Internship - Internship - Impactpool
-[rules 4] location unspecified; title: policy
-https://www.impactpool.org/jobs/1243256
-
-Programme Policy Officer - Coordination and Engagement (Maternity Coverage) WFP - World Food Programme Amman Mid - Impactpool
-[rules 4] location unspecified; title: policy
-https://www.impactpool.org/jobs/1243257
-
-Policy Officer EC - European Commission Brussels AD 5 - AD 7 - Impactpool
-[rules 4] location unspecified; title: policy
-https://www.impactpool.org/jobs/1243201
-
-Health Promotion and Policy Coordination Officer UNV - United Nations Volunteers Philippines Mid - Impactpool
-[rules 4] location unspecified; title: policy
-https://www.impactpool.org/jobs/1214141
-
-Policy Officer - Policy Officer - MCM innovation and funding EC - European Commission Brussels AD 5 - AD 7 - Impactpool
-[rules 4] location unspecified; title: policy
-https://www.impactpool.org/jobs/1242968
-
-Legal and Policy Officer EC - European Commission Brussels AD 5 - AD 7 - Impactpool
-[rules 4] location unspecified; title: policy
-https://www.impactpool.org/jobs/1242642
-
-Legal and Policy Assistant EC - European Commission Brussels AST 1 - AST 3 - Impactpool
-[rules 4] location unspecified; title: policy
-https://www.impactpool.org/jobs/1244211
-
-Policy Assistant - Policy Assistant - Scientific/Technical EC - European Commission Brussels AST 1 - AST 3 - Impactpool
-[rules 4] location unspecified; title: policy
-https://www.impactpool.org/jobs/1244212
-
-Privacy policy - Impactpool
-[rules 4] location unspecified; title: policy
-https://www.impactpool.org/about/privacy
-
-AI Safety - Partnership on AI
+FLI AI Safety Index: Summer 2026 Edition - Future of Life Institute
 [rules 4] location unspecified; title: ai safety
-https://new.partnershiponai.org/program/safety-critical-ai/
+https://futureoflife.org/index
 
-Privacy Policy - Partnership on AI
+Policy & Research - Future of Life Institute
 [rules 4] location unspecified; title: policy
-https://new.partnershiponai.org/privacy-policy/
+https://futureoflife.org/fli-area/policy-and-research/
+
+AI Governance - CSET
+[rules 4] location unspecified; title: governance
+https://cset.georgetown.edu/research-area/assessment/
+
+Safeguarding - ARTICLE 19
+[rules 4] location unspecified; title: safeguarding
+https://www.article19.org/wp-content/uploads/2019/06/Safeguarding-Policy-May-2019.pdf
+
+Privacy Policy - Save the Children
+[rules 4] location unspecified; title: policy
+https://www.savethechildren.net/privacy
+
+Recruitment Privacy Policy - Save the Children
+[rules 4] location unspecified; title: policy
+https://www.savethechildren.net/recruitment-privacy-statement
+
+Commissions Analyst (Permanent work from home) - Lightspeed Commerce (Philippines)
+[rules 3] remote; title: analyst
+https://jobicy.com/jobs/157613-commissions-analyst-permanent-work-from-home
+
+Software Engineering Internship Program (2027) - Wikimedia Foundation (Remote)
+[rules 3] remote; title: internship
+https://job-boards.greenhouse.io/wikimedia/jobs/8268853
+
+Cookie Policy - Centre for the Governance of AI
+[rules 3] location unspecified; title: policy
+https://www.governance.ai/cookie-policy
+
+Content governance - Access Now
+[rules 3] location unspecified; title: governance
+https://www.accessnow.org/issue/content-governance/
+
+Manager - Operational Policy AIIB - Asian Infrastructure Investment Bank Beijing Executive - Impactpool
+[rules 3] location unspecified; title: policy
+https://www.impactpool.org/jobs/1242784
+
+Policy Advisor – Drugs and addictions COE - Council of Europe Strasbourg Mid - Impactpool
+[rules 3] location unspecified; title: policy
+https://www.impactpool.org/jobs/1243553
+
+Advisor, Strategy and Policy - GL D - Defined Duration until December 2029 TGF - The Global Fund Geneva GL D - Impactpool
+[rules 3] location unspecified; title: policy
+https://www.impactpool.org/jobs/1243828
+
+Transparency and Governance - Partnership on AI
+[rules 3] location unspecified; title: governance
+https://partnershiponai.org/transparency-governance
+
+Law and policy - ARTICLE 19
+[rules 3] location unspecified; title: policy
+https://www.article19.org/law-and-policy/
+
+Our governance - ARTICLE 19
+[rules 3] location unspecified; title: governance
+https://www.article19.org/our-governance/
+
+Solutions Engineer Intern 2027 (USA) - Pinterest (San Francisco, CA, US; Remote, US)
+[rules 3] remote; title: intern
+https://www.pinterestcareers.com/jobs/?gh_jid=8214788
+
+UNICEF UNV Youth on the Move Programme - UNICEF
+[rules 3] location unspecified; title: youth
+https://www.unv.org/index.php/news/unicef-unv-youth-move-programme
+
+Cookie Policy - Save the Children
+[rules 3] location unspecified; title: policy
+https://www.savethechildren.net/cookie-policy
+
+Research - Centre for the Governance of AI
+[rules 1] location unspecified; title: research
+https://www.governance.ai/research
+
+Research Scholar - Centre for the Governance of AI
+[rules 1] location unspecified; title: research, scholar
+https://www.governance.ai/opportunities/research-scholar
+
+DC Fellowship - Centre for the Governance of AI
+[rules 1] location unspecified; title: fellowship
+https://www.governance.ai/post/dc-summer-fellowship-2027
+
+Hiring Associate - Centre for the Governance of AI
+[rules 1] location unspecified; title: associate
+https://www.governance.ai/post/hiring-associate
+
+Fellowship - AlgorithmWatch
+[rules 1] location unspecified; title: fellowship
+https://algorithmwatch.org/en/fellowship/
+
+All our research - 80,000 Hours board
+[rules 1] location unspecified; title: research
+https://80000hours.org/research/
+
+Fellowship - Impactpool
+[rules 1] location unspecified; title: fellowship
+https://www.impactpool.org/fellows
+
+RESEARCH - Partnership on AI
+[rules 1] location unspecified; title: research
+https://new.partnershiponai.org/work
+
+Foundational Research Grants - CSET
+[rules 1] location unspecified; title: research
+https://cset.georgetown.edu/foundational-research-grants/
+
+Research Areas - CSET
+[rules 1] location unspecified; title: research
+https://cset.georgetown.edu/research-areas
 
 Sources: 36/62 returned listings
 Problems: Google DeepMind (error), Mistral AI (error), Tech Policy Press (empty), CDT (error), CIGI (error), Centre for Internet and Society (error), Observer Research Foundation (error), Takshashila Institution (error), IT for Change (error), 5Rights Foundation (error), Internet Watch Foundation (error), ECPAT International (error), WeProtect Global Alliance (error), Fairplay (error), Childnet (error), Save the Children India (empty), HAQ Centre for Child Rights (error), CRY India (empty), Aarambh India (error), Cyber Peace Foundation (error), Internet Freedom Foundation (error), Teach For India (error), Pratham (error)
