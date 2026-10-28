@@ -1,0 +1,261 @@
+[
+ {
+  "name": "Remotive",
+  "type": "remotive",
+  "status": "ok",
+  "count": 11,
+  "error": ""
+ },
+ {
+  "name": "Arbeitnow",
+  "type": "arbeitnow",
+  "status": "ok",
+  "count": 600,
+  "error": ""
+ },
+ {
+  "name": "RemoteOK",
+  "type": "remoteok",
+  "status": "ok",
+  "count": 99,
+  "error": ""
+ },
+ {
+  "name": "Himalayas",
+  "type": "himalayas",
+  "status": "ok",
+  "count": 20,
+  "error": ""
+ },
+ {
+  "name": "Jobicy",
+  "type": "jobicy",
+  "status": "error",
+  "count": 0,
+  "error": "HTTP 400 from https://jobicy.com/api/v2/remote-jobs"
+ },
+ {
+  "name": "Working Nomads",
+  "type": "workingnomads",
+  "status": "ok",
+  "count": 41,
+  "error": ""
+ },
+ {
+  "name": "The Muse",
+  "type": "themuse",
+  "status": "ok",
+  "count": 40,
+  "error": ""
+ },
+ {
+  "name": "HN Who is hiring",
+  "type": "hn_whoishiring",
+  "status": "ok",
+  "count": 263,
+  "error": ""
+ },
+ {
+  "name": "We Work Remotely",
+  "type": "rss",
+  "status": "ok",
+  "count": 96,
+  "error": ""
+ },
+ {
+  "name": "ReliefWeb",
+  "type": "reliefweb",
+  "status": "skipped",
+  "count": 0,
+  "error": "set RELIEFWEB_APPNAME (free, request one at reliefweb.int/help/api)"
+ },
+ {
+  "name": "Adzuna India",
+  "type": "adzuna",
+  "status": "skipped",
+  "count": 0,
+  "error": "set ADZUNA_APP_ID and ADZUNA_APP_KEY (free at developer.adzuna.com)"
+ },
+ {
+  "name": "Jooble",
+  "type": "jooble",
+  "status": "skipped",
+  "count": 0,
+  "error": "set JOOBLE_API_KEY (free at jooble.org/api/about)"
+ },
+ {
+  "name": "Anthropic",
+  "type": "greenhouse",
+  "status": "ok",
+  "count": 678,
+  "error": ""
+ },
+ {
+  "name": "Google DeepMind",
+  "type": "greenhouse",
+  "status": "error",
+  "count": 0,
+  "error": "HTTP 404 from https://boards-api.greenhouse.io/v1/boards/deepmind/jobs"
+ },
+ {
+  "name": "Scale AI",
+  "type": "greenhouse",
+  "status": "ok",
+  "count": 170,
+  "error": ""
+ },
+ {
+  "name": "Mozilla",
+  "type": "greenhouse",
+  "status": "ok",
+  "count": 119,
+  "error": ""
+ },
+ {
+  "name": "Wikimedia",
+  "type": "greenhouse",
+  "status": "ok",
+  "count": 16,
+  "error": ""
+ },
+ {
+  "name": "Open Philanthropy",
+  "type": "greenhouse",
+  "status": "error",
+  "count": 0,
+  "error": "HTTP 404 from https://boards-api.greenhouse.io/v1/boards/openphilanthropy/jobs"
+ },
+ {
+  "name": "OpenAI",
+  "type": "ashby",
+  "status": "ok",
+  "count": 808,
+  "error": ""
+ },
+ {
+  "name": "Cohere",
+  "type": "ashby",
+  "status": "ok",
+  "count": 118,
+  "error": ""
+ },
+ {
+  "name": "Perplexity",
+  "type": "ashby",
+  "status": "ok",
+  "count": 133,
+  "error": ""
+ },
+ {
+  "name": "ElevenLabs",
+  "type": "ashby",
+  "status": "ok",
+  "count": 157,
+  "error": ""
+ },
+ {
+  "name": "Mistral AI",
+  "type": "lever",
+  "status": "empty",
+  "count": 0,
+  "error": ""
+ },
+ {
+  "name": "Palantir",
+  "type": "lever",
+  "status": "ok",
+  "count": 303,
+  "error": ""
+ },
+ {
+  "name": "GovAI",
+  "type": "page",
+  "status": "ok",
+  "count": 19,
+  "error": ""
+ },
+ {
+  "name": "Ada Lovelace Institute",
+  "type": "page",
+  "status": "ok",
+  "count": 19,
+  "error": ""
+ },
+ {
+  "name": "Access Now",
+  "type": "page",
+  "status": "ok",
+  "count": 61,
+  "error": ""
+ },
+ {
+  "name": "AlgorithmWatch",
+  "type": "page",
+  "status": "ok",
+  "count": 18,
+  "error": ""
+ },
+ {
+  "name": "EDRi",
+  "type": "page",
+  "status": "ok",
+  "count": 27,
+  "error": ""
+ },
+ {
+  "name": "80,000 Hours Jobs",
+  "type": "page",
+  "status": "ok",
+  "count": 41,
+  "error": ""
+ },
+ {
+  "name": "jobs.ac.uk Research Assistant",
+  "type": "page",
+  "status": "empty",
+  "count": 0,
+  "error": ""
+ },
+ {
+  "name": "Impactpool",
+  "type": "page",
+  "status": "ok",
+  "count": 46,
+  "error": ""
+ },
+ {
+  "name": "TokyoDev",
+  "type": "page",
+  "status": "ok",
+  "count": 201,
+  "error": ""
+ },
+ {
+  "name": "Japan Dev",
+  "type": "page",
+  "status": "ok",
+  "count": 104,
+  "error": ""
+ },
+ {
+  "name": "GaijinPot Jobs",
+  "type": "page",
+  "status": "error",
+  "count": 0,
+  "error": "HTTP 403 from https://jobs.gaijinpot.com/"
+ },
+ {
+  "name": "Wantedly",
+  "type": "page",
+  "status": "ok",
+  "count": 27,
+  "error": ""
+ },
+ {
+  "name": "OECD Careers",
+  "type": "page",
+  "status": "error",
+  "count": 0,
+  "error": "HTTP 403 from https://www.oecd.org/en/about/careers.html"
+ }
+]
