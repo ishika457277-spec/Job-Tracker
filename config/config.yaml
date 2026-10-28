@@ -5,45 +5,118 @@
 max_digest: 30            # most jobs sent per day; the rest wait until tomorrow
 
 profile:
-  # A job must have one of these words in its TITLE ...
+  # 1) Domain words: a match in the TITLE is enough on its own.
   include_title_any:
     - policy
     - governance
     - "ai safety"
     - "responsible ai"
     - "ai ethics"
+    - ethics
     - "trust and safety"
     - "digital rights"
+    - "human rights"
+    - "technology policy"
+    - "tech policy"
+    - "digital policy"
+    - "public policy"
+    - regulation
+    - "program officer"
+    - "programme officer"
+    - misinformation
+    - disinformation
+    - "media literacy"
+    - "child safety"
+    - "child protection"
+    - "child rights"
+    - "children's rights"
+    - "online safety"
+    - safeguarding
+    - child
+    - children
+    - youth
+    - edtech
+    - "education policy"
+    - "digital literacy"
+  # 2) Generic role words: count only if the listing also mentions a domain phrase below
+  #    (or has no description at all, as on title-only careers pages).
+  generic_title_any:
     - research
     - researcher
     - analyst
-    - "program officer"
-    - "programme officer"
+    - associate
+    - assistant
     - fellow
     - fellowship
-    - associate
-    - "research assistant"
-    - "technology policy"
-    - "tech policy"
+    - scholar
     - consultant
-    - "interactive narrative"
-    - "narrative designer"
-  # ... or at least `min_text_hits` of these in the title + description.
+    - coordinator
+    - officer
+    - intern
+    - internship
+    - trainee
+    - junior
+    - "entry level"
+    - "entry-level"
+    - graduate
+    - "early career"
+    - "early-career"
+    - apprentice
+    - teacher
+    - educator
+    - curriculum
+    - "learning designer"
+    - "instructional designer"
+    - "learning experience"
+    - trainer
+    - "content designer"
+    - moderator
+  generic_min_text_hits: 1
+  # 3) Domain phrases looked for in title + description.
   include_text_any:
     - "ai governance"
+    - "ai policy"
+    - "ai safety"
     - "tech policy"
     - "technology policy"
+    - "digital policy"
     - "digital rights"
     - "responsible ai"
-    - "ai policy"
-    - "human-computer interaction"
-    - hci
-    - "computational creativity"
-    - "generative ai"
-    - "interactive narrative"
-    - "media literacy"
+    - "ai ethics"
+    - "trust and safety"
+    - "human rights"
+    - "algorithmic accountability"
     - "algorithmic"
-  min_text_hits: 3
+    - "online safety"
+    - "data protection"
+    - privacy
+    - "internet governance"
+    - "media literacy"
+    - misinformation
+    - disinformation
+    - "human-computer interaction"
+    - "generative ai"
+    - "child rights"
+    - "children's rights"
+    - "child safety"
+    - "child protection"
+    - "child online"
+    - "online child"
+    - "child sexual"
+    - "age-appropriate"
+    - "age assurance"
+    - "age verification"
+    - safeguarding
+    - "online harms"
+    - "digital wellbeing"
+    - "digital well-being"
+    - edtech
+    - "education technology"
+    - "digital literacy"
+    - "children and technology"
+    - "children's privacy"
+    - "young people"
+  min_text_hits: 3        # a listing with no domain word in its title needs this many phrases
   # Dealbreakers (matched as whole words)
   exclude_title_any:
     - senior
@@ -56,16 +129,31 @@ profile:
     - chief
     - staff
     - lead
-    - "phd required"
+    - ii
+    - iii
+    - iv
+    - postdoc
+    - postdoctoral
+    - professor
     - "software engineer"
     - "machine learning engineer"
-    - "sales"
+    - sales
     - "account executive"
   exclude_text_any:
     - "security clearance"
     - "must be a us citizen"
     - "u.s. citizenship required"
-  # Where you'd work. Remote listings also pass unless restricted to a region below.
+    - "5+ years"
+    - "6+ years"
+    - "7+ years"
+    - "8+ years"
+    - "10+ years"
+    - "at least 5 years"
+    - "minimum 5 years"
+    - "minimum of 5 years"
+    - "phd required"
+    - "doctorate required"
+  # Where you would work. Remote listings also pass unless restricted to a region below.
   locations_any:
     - japan
     - tokyo
@@ -73,31 +161,37 @@ profile:
     - kyoto
     - korea
     - seoul
+    - busan
     - india
     - mumbai
     - delhi
+    - gurgaon
+    - gurugram
+    - noida
     - bengaluru
     - bangalore
-    - singapore
+    - hyderabad
+    - chennai
+    - pune
+    - kolkata
+    - "south asia"
     - apac
     - asia
-    - geneva
-    - brussels
   allow_remote: true
   remote_exclude_any:
     - "us only"
-    - "usa"
+    - usa
     - "united states"
     - "u.s."
     - "(us)"
     - "us-based"
     - "us based"
-    - "canada"
+    - canada
     - "uk only"
     - "eu only"
     - "europe only"
-    - "emea"
-    - "latam"
+    - emea
+    - latam
   unknown_location: keep   # keep | drop  (many NGO pages never state a location)
   max_age_days: 45
 
@@ -111,43 +205,47 @@ llm:
   pause_seconds: 5
   min_score: 6
   profile: >
-    Early-career candidate based in India, open to Japan, South Korea, India or remote
-    work. Wants AI governance, tech policy, digital rights, HCI or interactive-media
-    research, fellowships and research-assistant roles. Not interested in senior roles,
-    pure software engineering, sales, or roles requiring a PhD or a specific citizenship.
+    Early-career candidate (0-2 years of work experience; BCA graduate with 2 years of
+    teaching experience; research background in generative AI, HCI and interactive media)
+    based in India. Her focus is CHILD RIGHTS IN THE TECH SPACE: child online safety,
+    children's digital rights, age-appropriate design, child protection, trust and safety
+    for young users, edtech and digital literacy, and the AI/tech policy around these.
+    Wants internships, fellowships, research-assistant, analyst, programme, teaching or
+    curriculum-design and junior roles. Open to remote work that accepts India-based
+    candidates, or on-site in India, Japan or South Korea. Rank roles that combine children
+    with technology highest. Not interested in senior or managerial roles, pure software
+    engineering, sales, roles needing a PhD, or roles restricted to US/EU/UK residents.
 
 sources:
   # --- Aggregators and free job APIs (no key needed) ---
-  - {name: Remotive,       type: remotive,       searches: [policy, research, governance, "trust and safety"]}
-  - {name: Arbeitnow,      type: arbeitnow,      pages: 2}
+  - {name: Remotive,       type: remotive,       searches: ["trust and safety", "child safety", policy, education]}
+  - {name: Arbeitnow,      type: arbeitnow,      pages: 2, enabled: false}   # software-heavy, off for a policy search
   - {name: RemoteOK,       type: remoteok}
   - {name: Himalayas,      type: himalayas}
-  - {name: Jobicy,         type: jobicy,         tags: [policy, research, ai]}
+  - {name: Jobicy,         type: jobicy,         tags: [policy, education, safety]}
   - {name: Working Nomads, type: workingnomads}
   - {name: The Muse,       type: themuse,        pages: 2}
-  - {name: HN Who is hiring, type: hn_whoishiring}
+  - {name: HN Who is hiring, type: hn_whoishiring, enabled: false}   # software-heavy, off for a policy search
   - {name: We Work Remotely, type: rss, url: "https://weworkremotely.com/remote-jobs.rss", title_has_company: true}
 
   # --- Free API keys (skipped with a note until you add the secret) ---
   - {name: ReliefWeb,      type: reliefweb}
-  - {name: Adzuna India,   type: adzuna,         countries: [in], what: [policy, research, governance]}
-  - {name: Jooble,         type: jooble,         what: ["policy research", "ai governance"], location: ""}
+  - {name: Adzuna India,   type: adzuna,         countries: [in], what: ["child protection", "child rights", "online safety", "trust and safety", "policy research"]}
+  - {name: Jooble,         type: jooble,         what: ["child rights technology", "online child safety", "trust and safety", "education policy"], location: ""}
 
   # --- Company boards with public JSON endpoints ---
   - {name: Anthropic,      type: greenhouse,     board: anthropic,        company: Anthropic}
-  - {name: Google DeepMind, type: greenhouse,    board: deepmind,         company: Google DeepMind}
-  - {name: Scale AI,       type: greenhouse,     board: scaleai,          company: Scale AI}
+  - {name: Google DeepMind, type: greenhouse,    board: googledeepmind,         company: Google DeepMind}
+  - {name: Scale AI,       type: greenhouse,     board: scaleai,          company: Scale AI, enabled: false}   # software-heavy, off for a policy search
   - {name: Mozilla,        type: greenhouse,     board: mozilla,          company: Mozilla}
   - {name: Wikimedia,      type: greenhouse,     board: wikimedia,        company: Wikimedia Foundation}
-  - {name: Open Philanthropy, type: greenhouse,  board: openphilanthropy, company: Open Philanthropy}
+  - {name: Open Philanthropy, type: greenhouse,  board: openphilanthropy, company: Open Philanthropy, enabled: false}   # 404: find their real board name, then enable
   - {name: OpenAI,         type: ashby,          board: openai,           company: OpenAI}
   - {name: Cohere,         type: ashby,          board: cohere,           company: Cohere}
   - {name: Perplexity,     type: ashby,          board: perplexity,       company: Perplexity}
-  - {name: ElevenLabs,     type: ashby,          board: elevenlabs,       company: ElevenLabs}
-  - {name: Mistral AI,     type: lever,          board: mistral,          company: Mistral AI}
-  - {name: Palantir,       type: lever,          board: palantir,         company: Palantir}
-
-  # --- Careers pages without a feed: every role-like link is collected and the title
+  - {name: ElevenLabs,     type: ashby,          board: elevenlabs,       company: ElevenLabs, enabled: false}   # software-heavy, off for a policy search
+  - {name: Mistral AI,     type: ashby,          board: mistral,          company: Mistral AI}
+  - {name: Palantir,       type: lever,          board: palantir,         company: Palantir, enabled: false}   # software-heavy, off for a policy search
   #     filter decides. Add `href_contains: "/job/"` once you see what real job links
   #     look like on a page. JS-rendered pages show "empty" in `doctor`.
   - {name: GovAI,              type: page, url: "https://www.governance.ai/opportunities/open-positions", company: "Centre for the Governance of AI"}
@@ -156,10 +254,52 @@ sources:
   - {name: AlgorithmWatch,     type: page, url: "https://algorithmwatch.org/en/jobs/", company: AlgorithmWatch}
   - {name: EDRi,               type: page, url: "https://edri.org/take-action/careers/", company: EDRi}
   - {name: "80,000 Hours Jobs",  type: page, url: "https://jobs.80000hours.org/", company: "80,000 Hours board"}
-  - {name: jobs.ac.uk Research Assistant, type: page, url: "https://jobs.ac.uk/categories/research-assistant-jobs/32", company: "jobs.ac.uk", href_contains: "/job/"}
+  - {name: jobs.ac.uk Research Assistant, type: page, url: "https://jobs.ac.uk/categories/research-assistant-jobs/32", company: "jobs.ac.uk", href_contains: "/job/", enabled: false}   # returned 0 links
   - {name: Impactpool,         type: page, url: "https://www.impactpool.org/search?q=policy", company: Impactpool}
-  - {name: TokyoDev,           type: page, url: "https://www.tokyodev.com/jobs", company: TokyoDev, default_location: Japan}
-  - {name: Japan Dev,          type: page, url: "https://japan-dev.com/jobs", company: "Japan Dev", default_location: Japan}
-  - {name: GaijinPot Jobs,     type: page, url: "https://jobs.gaijinpot.com/", company: GaijinPot, default_location: Japan}
+  - {name: TokyoDev,           type: page, url: "https://www.tokyodev.com/jobs", company: TokyoDev, default_location: Japan, enabled: false}   # software-heavy, off for a policy search
+  - {name: Japan Dev,          type: page, url: "https://japan-dev.com/jobs", company: "Japan Dev", default_location: Japan, enabled: false}   # software-heavy, off for a policy search
+  - {name: GaijinPot Jobs,     type: page, url: "https://jobs.gaijinpot.com/", company: GaijinPot, default_location: Japan, enabled: false}   # 403: blocks scripts
   - {name: Wantedly,           type: page, url: "https://www.wantedly.com/projects", company: Wantedly, default_location: Japan}
-  - {name: OECD Careers,       type: page, url: "https://www.oecd.org/en/about/careers.html", company: OECD}
+  - {name: OECD Careers,       type: page, url: "https://www.oecd.org/en/about/careers.html", company: OECD, enabled: false}   # 403: blocks scripts
+
+  # --- Policy, rights and research orgs added in the refinement pass.
+  #     URLs are best guesses: run `doctor`, then fix or disable any that error or come back empty.
+  - {name: Tech Policy Press,   type: page, url: "https://www.techpolicy.press/jobs/", company: "Tech Policy Press"}
+  - {name: Partnership on AI,   type: page, url: "https://partnershiponai.org/careers/", company: "Partnership on AI"}
+  - {name: CDT,                 type: page, url: "https://cdt.org/careers/", company: "Center for Democracy & Technology"}
+  - {name: Future of Life Institute, type: page, url: "https://futureoflife.org/about-us/careers/", company: "Future of Life Institute"}
+  - {name: CSET,                type: page, url: "https://cset.georgetown.edu/careers/", company: CSET}
+  - {name: ARTICLE 19,          type: page, url: "https://www.article19.org/careers/", company: "ARTICLE 19"}
+  - {name: CIGI,                type: page, url: "https://www.cigionline.org/about/careers/", company: CIGI}
+  - {name: Centre for Internet and Society, type: page, url: "https://cis-india.org/jobs", company: "CIS India", default_location: India}
+  - {name: Observer Research Foundation, type: page, url: "https://www.orfonline.org/careers", company: ORF, default_location: India}
+  - {name: Takshashila Institution, type: page, url: "https://takshashila.org.in/careers", company: Takshashila, default_location: India}
+  - {name: IT for Change,       type: page, url: "https://itforchange.net/careers", company: "IT for Change", default_location: India}
+
+  # --- Child rights / child safety / education: added after you said this is your focus.
+  #     Board names and URLs are best guesses: run `doctor` and fix or disable any that fail.
+  - {name: Thorn,               type: greenhouse, board: thorn,      company: Thorn}
+  - {name: Discord,             type: greenhouse, board: discord,    company: Discord}
+  - {name: Roblox,              type: greenhouse, board: roblox,     company: Roblox}
+  - {name: Pinterest,           type: greenhouse, board: pinterest,  company: Pinterest}
+  - {name: Duolingo,            type: greenhouse, board: duolingo,   company: Duolingo}
+  - {name: Khan Academy,        type: greenhouse, board: khanacademy, company: "Khan Academy"}
+  - {name: Coursera,            type: greenhouse, board: coursera,   company: Coursera}
+  - {name: UNICEF,              type: page, url: "https://www.unicef.org/careers", company: UNICEF}
+  - {name: 5Rights Foundation,  type: page, url: "https://5rightsfoundation.com/about-us/careers/", company: "5Rights Foundation"}
+  - {name: Internet Watch Foundation, type: page, url: "https://www.iwf.org.uk/about-us/work-for-us/", company: IWF}
+  - {name: ECPAT International, type: page, url: "https://ecpat.org/work-with-us/", company: ECPAT}
+  - {name: WeProtect Global Alliance, type: page, url: "https://www.weprotect.org/careers/", company: WeProtect}
+  - {name: Common Sense Media,  type: page, url: "https://www.commonsensemedia.org/about-us/careers", company: "Common Sense Media"}
+  - {name: Fairplay,            type: page, url: "https://fairplayforkids.org/about/jobs/", company: Fairplay}
+  - {name: Childnet,            type: page, url: "https://www.childnet.com/about-us/jobs/", company: Childnet}
+  - {name: Save the Children,   type: page, url: "https://www.savethechildren.net/careers", company: "Save the Children"}
+  - {name: Save the Children India, type: page, url: "https://www.savethechildren.in/careers", company: "Save the Children India", default_location: India}
+  - {name: HAQ Centre for Child Rights, type: page, url: "https://www.haqcrc.org/careers/", company: "HAQ", default_location: India}
+  - {name: CRY India,           type: page, url: "https://www.cry.org/careers/", company: CRY, default_location: India}
+  - {name: Aarambh India,       type: page, url: "https://aarambhindia.org/careers/", company: "Aarambh India", default_location: India}
+  - {name: Cyber Peace Foundation, type: page, url: "https://www.cyberpeace.org/careers", company: "Cyber Peace Foundation", default_location: India}
+  - {name: Internet Freedom Foundation, type: page, url: "https://internetfreedom.in/careers/", company: IFF, default_location: India}
+  - {name: Teach For India,     type: page, url: "https://www.teachforindia.org/careers", company: "Teach For India", default_location: India}
+  - {name: Pratham,             type: page, url: "https://www.pratham.org/careers/", company: Pratham, default_location: India}
+  - {name: Central Square Foundation, type: page, url: "https://www.centralsquarefoundation.org/careers", company: CSF, default_location: India}
