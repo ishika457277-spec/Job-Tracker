@@ -1,0 +1,165 @@
+# Everything you would want to tune lives in this file.
+# Constraints below are a starting point based on the policy / governance / research
+# roles you were searching for (Japan, Korea, India, remote). Edit freely.
+
+max_digest: 30            # most jobs sent per day; the rest wait until tomorrow
+
+profile:
+  # A job must have one of these words in its TITLE ...
+  include_title_any:
+    - policy
+    - governance
+    - "ai safety"
+    - "responsible ai"
+    - "ai ethics"
+    - "trust and safety"
+    - "digital rights"
+    - research
+    - researcher
+    - analyst
+    - "program officer"
+    - "programme officer"
+    - fellow
+    - fellowship
+    - associate
+    - "research assistant"
+    - "technology policy"
+    - "tech policy"
+    - consultant
+    - "interactive narrative"
+    - "narrative designer"
+  # ... or at least `min_text_hits` of these in the title + description.
+  include_text_any:
+    - "ai governance"
+    - "tech policy"
+    - "technology policy"
+    - "digital rights"
+    - "responsible ai"
+    - "ai policy"
+    - "human-computer interaction"
+    - hci
+    - "computational creativity"
+    - "generative ai"
+    - "interactive narrative"
+    - "media literacy"
+    - "algorithmic"
+  min_text_hits: 3
+  # Dealbreakers (matched as whole words)
+  exclude_title_any:
+    - senior
+    - "sr."
+    - director
+    - "head of"
+    - vp
+    - "vice president"
+    - principal
+    - chief
+    - staff
+    - lead
+    - "phd required"
+    - "software engineer"
+    - "machine learning engineer"
+    - "sales"
+    - "account executive"
+  exclude_text_any:
+    - "security clearance"
+    - "must be a us citizen"
+    - "u.s. citizenship required"
+  # Where you'd work. Remote listings also pass unless restricted to a region below.
+  locations_any:
+    - japan
+    - tokyo
+    - osaka
+    - kyoto
+    - korea
+    - seoul
+    - india
+    - mumbai
+    - delhi
+    - bengaluru
+    - bangalore
+    - singapore
+    - apac
+    - asia
+    - geneva
+    - brussels
+  allow_remote: true
+  remote_exclude_any:
+    - "us only"
+    - "usa"
+    - "united states"
+    - "u.s."
+    - "(us)"
+    - "us-based"
+    - "us based"
+    - "canada"
+    - "uk only"
+    - "eu only"
+    - "europe only"
+    - "emea"
+    - "latam"
+  unknown_location: keep   # keep | drop  (many NGO pages never state a location)
+  max_age_days: 45
+
+# Optional fuzzy judgement on the survivors, Gemini free tier (set GEMINI_API_KEY).
+# Only max_per_run jobs are ever sent, in batches, so a daily run is ~5 requests.
+llm:
+  enabled: true
+  model: gemini-2.5-flash
+  max_per_run: 40
+  batch_size: 8
+  pause_seconds: 5
+  min_score: 6
+  profile: >
+    Early-career candidate based in India, open to Japan, South Korea, India or remote
+    work. Wants AI governance, tech policy, digital rights, HCI or interactive-media
+    research, fellowships and research-assistant roles. Not interested in senior roles,
+    pure software engineering, sales, or roles requiring a PhD or a specific citizenship.
+
+sources:
+  # --- Aggregators and free job APIs (no key needed) ---
+  - {name: Remotive,       type: remotive,       searches: [policy, research, governance, "trust and safety"]}
+  - {name: Arbeitnow,      type: arbeitnow,      pages: 2}
+  - {name: RemoteOK,       type: remoteok}
+  - {name: Himalayas,      type: himalayas}
+  - {name: Jobicy,         type: jobicy,         tags: [policy, research, ai]}
+  - {name: Working Nomads, type: workingnomads}
+  - {name: The Muse,       type: themuse,        pages: 2}
+  - {name: HN Who is hiring, type: hn_whoishiring}
+  - {name: We Work Remotely, type: rss, url: "https://weworkremotely.com/remote-jobs.rss", title_has_company: true}
+
+  # --- Free API keys (skipped with a note until you add the secret) ---
+  - {name: ReliefWeb,      type: reliefweb}
+  - {name: Adzuna India,   type: adzuna,         countries: [in], what: [policy, research, governance]}
+  - {name: Jooble,         type: jooble,         what: ["policy research", "ai governance"], location: ""}
+
+  # --- Company boards with public JSON endpoints ---
+  - {name: Anthropic,      type: greenhouse,     board: anthropic,        company: Anthropic}
+  - {name: Google DeepMind, type: greenhouse,    board: deepmind,         company: Google DeepMind}
+  - {name: Scale AI,       type: greenhouse,     board: scaleai,          company: Scale AI}
+  - {name: Mozilla,        type: greenhouse,     board: mozilla,          company: Mozilla}
+  - {name: Wikimedia,      type: greenhouse,     board: wikimedia,        company: Wikimedia Foundation}
+  - {name: Open Philanthropy, type: greenhouse,  board: openphilanthropy, company: Open Philanthropy}
+  - {name: OpenAI,         type: ashby,          board: openai,           company: OpenAI}
+  - {name: Cohere,         type: ashby,          board: cohere,           company: Cohere}
+  - {name: Perplexity,     type: ashby,          board: perplexity,       company: Perplexity}
+  - {name: ElevenLabs,     type: ashby,          board: elevenlabs,       company: ElevenLabs}
+  - {name: Mistral AI,     type: lever,          board: mistral,          company: Mistral AI}
+  - {name: Palantir,       type: lever,          board: palantir,         company: Palantir}
+
+  # --- Careers pages without a feed: every role-like link is collected and the title
+  #     filter decides. Add `href_contains: "/job/"` once you see what real job links
+  #     look like on a page. JS-rendered pages show "empty" in `doctor`.
+  - {name: GovAI,              type: page, url: "https://www.governance.ai/opportunities/open-positions", company: "Centre for the Governance of AI"}
+  - {name: Ada Lovelace Institute, type: page, url: "https://www.adalovelaceinstitute.org/about/jobs/", company: "Ada Lovelace Institute"}
+  - {name: Access Now,         type: page, url: "https://www.accessnow.org/work-with-us/", company: "Access Now"}
+  - {name: AlgorithmWatch,     type: page, url: "https://algorithmwatch.org/en/jobs/", company: AlgorithmWatch}
+  - {name: EDRi,               type: page, url: "https://edri.org/take-action/careers/", company: EDRi}
+  - {name: "80,000 Hours Jobs",  type: page, url: "https://jobs.80000hours.org/", company: "80,000 Hours board"}
+  - {name: jobs.ac.uk Research Assistant, type: page, url: "https://jobs.ac.uk/categories/research-assistant-jobs/32", company: "jobs.ac.uk", href_contains: "/job/"}
+  - {name: Impactpool,         type: page, url: "https://www.impactpool.org/search?q=policy", company: Impactpool}
+  - {name: TokyoDev,           type: page, url: "https://www.tokyodev.com/jobs", company: TokyoDev, default_location: Japan}
+  - {name: Japan Dev,          type: page, url: "https://japan-dev.com/jobs", company: "Japan Dev", default_location: Japan}
+  - {name: GaijinPot Jobs,     type: page, url: "https://jobs.gaijinpot.com/", company: GaijinPot, default_location: Japan}
+  - {name: Wantedly,           type: page, url: "https://www.wantedly.com/projects", company: Wantedly, default_location: Japan}
+  - {name: OECD Careers,       type: page, url: "https://www.oecd.org/en/about/careers.html", company: OECD}
