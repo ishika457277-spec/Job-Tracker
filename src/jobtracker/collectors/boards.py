@@ -88,12 +88,18 @@ def himalayas(cfg: dict) -> list[Job]:
 
 
 def jobicy(cfg: dict) -> list[Job]:
+    """Tries each tag, then a plain request. One rejected tag does not lose the rest."""
     jobs: dict[str, Job] = {}
-    for tag in cfg.get("tags") or [""]:
+    last: Exception | None = None
+    for tag in list(cfg.get("tags") or []) + [""]:
         params = {"count": 50}
         if tag:
             params["tag"] = tag
-        data = fetch("https://jobicy.com/api/v2/remote-jobs", params=params).json()
+        try:
+            data = fetch("https://jobicy.com/api/v2/remote-jobs", params=params).json()
+        except Exception as exc:
+            last = exc
+            continue
         for j in data.get("jobs", []):
             jobs[j["url"]] = Job(
                 title=j.get("jobTitle", ""),
@@ -105,6 +111,8 @@ def jobicy(cfg: dict) -> list[Job]:
                 posted=j.get("pubDate", ""),
                 remote=True,
             )
+    if not jobs and last:
+        raise last
     return list(jobs.values())
 
 
@@ -269,3 +277,4 @@ def jooble(cfg: dict) -> list[Job]:
                 )
             )
     return jobs
+
