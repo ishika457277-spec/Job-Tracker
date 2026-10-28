@@ -4,6 +4,7 @@ import argparse
 import json
 import os
 import sys
+from collections import Counter
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -41,7 +42,9 @@ def cmd_run(cfg: dict, data_dir: Path, dry_run: bool, use_llm: bool) -> int:
     jobs, stats = collect_all(cfg["sources"])
     print(f"collected {len(jobs)} listings from {len(stats)} sources")
 
-    kept = dedupe(apply_filters(jobs, cfg["profile"]))
+    drops: Counter = Counter()
+    kept = dedupe(apply_filters(jobs, cfg["profile"], drops=drops))
+    print("filtered out: " + ", ".join(f"{n} {why}" for why, n in drops.most_common()))
     new = [j for j in kept if state.is_new(j)]
     print(f"{len(kept)} pass hard filters, {len(new)} not seen before")
 
@@ -92,7 +95,7 @@ def cmd_run(cfg: dict, data_dir: Path, dry_run: bool, use_llm: bool) -> int:
 
 def main(argv: list[str] | None = None) -> int:
     p = argparse.ArgumentParser(prog="jobtracker")
-    p.add_argument("command", choices=["run", "doctor"])
+    p.add_argument("command", choices=["run", "doctor", "preview"])
     p.add_argument("--config")
     p.add_argument("--dry-run", action="store_true", help="print the digest, send nothing")
     p.add_argument("--no-llm", action="store_true")
@@ -102,7 +105,8 @@ def main(argv: list[str] | None = None) -> int:
     data_dir = ROOT / "data"
     if args.command == "doctor":
         return cmd_doctor(cfg, data_dir)
-    return cmd_run(cfg, data_dir, args.dry_run, not args.no_llm)
+    # preview = a full run that sends nothing and saves nothing
+    return cmd_run(cfg, data_dir, args.dry_run or args.command == "preview", not args.no_llm)
 
 
 if __name__ == "__main__":
