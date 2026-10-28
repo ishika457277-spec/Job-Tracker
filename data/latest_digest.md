@@ -1,125 +1,125 @@
-Job digest 2026-10-28: 30 shown (51 more held for tomorrow)
+Job digest 2026-10-28: 30 shown (41 more held for tomorrow)
 
-Manager, Government Affairs & Public Policy - Japan - Cohere (Tokyo)
-[rules 7] location: tokyo; title: policy
-https://jobs.ashbyhq.com/cohere/ada41b39-21a9-467c-a22c-9e907524af40
+Tech Editor - Youth AI Safety Institute - Common Sense Media
+[rules 7] location unspecified; title: ai safety, youth
+https://www.paycomonline.net/v4/ats/web.php/portal/4AA7E7402507528EEEA6308617BB1F08/jobs/170932
 
-Research Fellow - Centre for the Governance of AI
-[rules 6] location unspecified; title: research, fellow
-https://www.governance.ai/opportunities/research-fellow
+Youth AI Safety Institute - Common Sense Media
+[rules 7] location unspecified; title: ai safety, youth
+https://institute.commonsensemedia.org/
 
-Junior Policy Analyst OECD - Organisation for Economic Co-operation and Development Paris PAL4 - Junior level - Impactpool
-[rules 6] location unspecified; title: policy, analyst
-https://www.impactpool.org/jobs/1242649
+Model Policy Manager, Agentic Safety  - OpenAI (San Francisco)
+[rules 6] remote; title: policy
+https://jobs.ashbyhq.com/openai/b5a022bb-f7a5-47d9-b5e8-9d1575493dcf
 
-NATIONAL POST: Programme Analyst, Gender and Social Policy (NOB), Ashgabat, Turkmenistan UNFPA - United Nations Population Fund Ashgabat NoB - Impactpool
-[rules 6] location unspecified; title: policy, analyst
-https://www.impactpool.org/jobs/1242989
+Product Data Scientist - Youth, Families and Learning - OpenAI (San Francisco)
+[rules 6] remote; title: youth
+https://jobs.ashbyhq.com/openai/1f148786-2e00-472a-96b9-0b29015980e1
 
-Data Analyst (No Experience Required) - Peroptyx (Japan - Remote)
-[rules 5] location: japan; title: analyst
-https://www.workingnomads.com/job/go/1920476/
+Public Policy - Partnership on AI
+[rules 6] location unspecified; title: policy, public policy
+https://partnershiponai.org/program/policy/
 
-AI Content Analyst (No Experience Required) - Peroptyx (South Korea)
-[rules 5] location: korea; title: analyst
-https://www.workingnomads.com/job/go/1901953/
+EdTech & AI - CSF (India)
+[rules 6] location: india; title: edtech
+https://www.centralsquarefoundation.org/edtech-and-ai
 
-Broker Dealer Operations, Associate - Coinbase (Anywhere in the World)
-[rules 5] remote; title: associate
-https://weworkremotely.com/remote-jobs/coinbase-broker-dealer-operations-associate
+Bharat Survey for EdTech (BaSE) - CSF (India)
+[rules 6] location: india; title: edtech
+http://edtechbase.centralsquarefoundation.org/
 
-Associate Manager, Internal Audit - Coinbase (Anywhere in the World)
-[rules 5] remote; title: associate
-https://weworkremotely.com/remote-jobs/coinbase-associate-manager-internal-audit
+Privacy Policy - CSF (India)
+[rules 6] location: india; title: policy
+https://www.centralsquarefoundation.org/privacy-policy
 
-External Affairs, South Korea - Anthropic (Seoul, South Korea)
-[rules 5] location: korea
-https://job-boards.greenhouse.io/anthropic/jobs/5417967008
+Web Developer (Fresh graduate welcome, WFH policy, on-job-training) - HR Plus (Anywhere in the World)
+[rules 5] remote; title: policy
+https://weworkremotely.com/remote-jobs/hr-plus-web-developer-fresh-graduate-welcome-wfh-policy-on-job-training
 
-Regional Research Economist, Economic Research - Anthropic (Seoul, South Korea)
-[rules 5] location: korea; title: research
-https://job-boards.greenhouse.io/anthropic/jobs/5460519008
+Applied Risk Standards Architect - OpenAI (San Francisco)
+[rules 5] remote
+https://jobs.ashbyhq.com/openai/74b9aa04-0b9d-459a-9e2d-0e43fae67a79
 
-Research Scientist (Robotics) - TokyoDev (Japan)
-[rules 5] location: japan; title: research
-https://www.tokyodev.com/companies/ai-robot-association/jobs/research-scientist-robotics
+School Governance - CSF (India)
+[rules 5] location: india; title: governance
+https://www.centralsquarefoundation.org/school-governance
 
-Research Scientist (VLAs) - TokyoDev (Japan)
-[rules 5] location: japan; title: research
-https://www.tokyodev.com/companies/ai-robot-association/jobs/research-scientist-vlas
+Communications Intern - Keeper Security (Anywhere in the World)
+[rules 4] remote; title: intern
+https://weworkremotely.com/remote-jobs/keeper-security-communications-intern
 
-Privacy Policy - TokyoDev (Japan)
-[rules 5] location: japan; title: policy
-https://www.tokyodev.com/privacy-policy
-
-Privacy Policy - Japan Dev (Japan)
-[rules 5] location: japan; title: policy
-https://japan-dev.com/docs/privacy_policy.pdf
-
-Software Functional Consultant (SAP WM) - The Config Team (Remote job)
-[rules 4] remote; title: consultant
-https://www.arbeitnow.co.uk/jobs/companies/the-config-team/remote-software-functional-consultant-sap-wm-uk-173485
-
-Quantitative Schedule Risk Analysis (QSRA) consultant - Data Centre Construction - Project Blackbook (London)
-[rules 4] remote; title: consultant
-https://www.arbeitnow.co.uk/jobs/companies/project-blackbook/quantitative-schedule-risk-analysis-qsra-consultant-data-centre-construction-london-211420
-
-ERP Consultant Microsoft Dynamics 365 Finance and Operations (16031) – Festanstellung - IQ Plus AG (Winterthur)
-[rules 4] remote; title: consultant
-https://www.arbeitnow.ch/jobs/companies/iq-plus-ag/erp-consultant-microsoft-dynamics-365-finance-and-operations-16031-festanstellung-winterthur-12267
-
-IT Support Analyst – Application Operations - Coopers Group AG (Zürich)
-[rules 4] remote; title: analyst
-https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/it-support-analyst-application-operations-zurich-267340
-
-AI Research Scientist – Scientific Evaluation (ML/AI) - Lightly AG (Zürich)
+Research Program Manager, Frontier Assurance - OpenAI (San Francisco)
 [rules 4] remote; title: research
-https://www.arbeitnow.ch/jobs/companies/lightly-ag/ai-research-scientist-scientific-evaluation-ml-ai-zurich-74951
+https://jobs.ashbyhq.com/openai/356c5dca-472d-458e-826e-51d923e93eaa
 
-Analyst, Investor Relations & Marketing - Re7 Capital (Switzerland)
-[rules 4] remote; title: analyst
-https://www.arbeitnow.ch/jobs/companies/re7-capital/remote-analyst-investor-relations-marketing-switzerland-434020
+technical AI governance - Centre for the Governance of AI
+[rules 4] location unspecified; title: governance
+https://www.governance.ai/research-paper/open-problems-in-technical-ai-governance
 
-Risk Analyst - Pavago (Remote)
-[rules 4] remote; title: analyst
-https://remoteOK.com/remote-jobs/remote-risk-analyst-pavago-1137548
+privacy policy - Ada Lovelace Institute
+[rules 4] location unspecified; title: policy
+https://www.adalovelaceinstitute.org/digital-best-practices-policy/
 
-Customer Support Consultant hospitality - SupportYourApp (Remote)
-[rules 4] remote; title: consultant
-https://remoteOK.com/remote-jobs/remote-customer-support-consultant-hospitality-supportyourapp-1137547
+privacy policy. - AlgorithmWatch
+[rules 4] location unspecified; title: policy
+https://algorithmwatch.org/en/privacy/#jobapplications
 
-SAP RE FX Consultant - Yopeso Romania SRL (Remote)
-[rules 4] remote; title: consultant
-https://remoteOK.com/remote-jobs/remote-sap-re-fx-consultant-yopeso-romania-srl-1137535
+Decolonising digital rights - EDRi
+[rules 4] location unspecified; title: digital rights
+https://edri.org/what-we-do/decolonising-digital-rights/
 
-Associate Data Scientist - AlgaeCal (Vancouver)
-[rules 4] remote; title: associate
-https://remoteOK.com/remote-jobs/remote-associate-data-scientist-algaecal-1137531
+Privacy policy - EDRi
+[rules 4] location unspecified; title: policy
+https://edri.org/privacy-policy/
 
-Customer Success Associate - Voltus (Remote)
-[rules 4] remote; title: associate
-https://remoteOK.com/remote-jobs/remote-customer-success-associate-voltus-1137529
+Policy officer EEAS - European External Action Service Port Moresby Mid - Impactpool
+[rules 4] location unspecified; title: policy
+https://www.impactpool.org/jobs/1243422
 
-Junior Market Specialist / Analyst (Remote) - None (Remote (worldwide))
-[rules 4] remote; title: analyst
-https://himalayas.app/companies/empire-assets/jobs/junior-market-specialist-analyst-remote?utm_source=api
+Internship - Policy Engagement - Programme Policy Team, WFP Beijing Office, China WFP - World Food Programme Beijing Internship - Internship - Impactpool
+[rules 4] location unspecified; title: policy
+https://www.impactpool.org/jobs/1243256
 
-Customs Associate - Flexport (Atlanta, GA, Bellevue, WA, Flexible / Remote)
-[rules 4] remote; title: associate
-https://www.themuse.com/jobs/flexport/customs-associate-75d0e2
+Programme Policy Officer - Coordination and Engagement (Maternity Coverage) WFP - World Food Programme Amman Mid - Impactpool
+[rules 4] location unspecified; title: policy
+https://www.impactpool.org/jobs/1243257
 
-Overjoyed to partner with Menlo Research's brilliant founders to recruit founding engineers for our open-source humanoid startup! We're deli - Overjoyed to partner with Menlo Research's brilliant founder (Overjoyed to partner with Menlo Research's brilliant founder)
-[rules 4] remote; title: research
-https://news.ycombinator.com/item?id=49945810
+Policy Officer EC - European Commission Brussels AD 5 - AD 7 - Impactpool
+[rules 4] location unspecified; title: policy
+https://www.impactpool.org/jobs/1243201
 
-PostHog | Full-Time | Technical CSMs, Product Managers, AI Research Engineer | REMOTE (all remote) | Hiring GMT-8 to GMT+2 | PostHog makes y - PostHog (PostHog | Full-Time | Technical CSMs, Product Managers, AI R)
-[rules 4] remote; title: research
-https://news.ycombinator.com/item?id=49978570
+Health Promotion and Policy Coordination Officer UNV - United Nations Volunteers Philippines Mid - Impactpool
+[rules 4] location unspecified; title: policy
+https://www.impactpool.org/jobs/1214141
 
-Dynamics 365 CE/CRM Consultant - EvoPoint Solutions (Anywhere in the World)
-[rules 4] remote; title: consultant
-https://weworkremotely.com/remote-jobs/evopoint-solutions-dynamics-365-ce-crm-consultant
+Policy Officer - Policy Officer - MCM innovation and funding EC - European Commission Brussels AD 5 - AD 7 - Impactpool
+[rules 4] location unspecified; title: policy
+https://www.impactpool.org/jobs/1242968
 
-Sources: 27/37 returned listings
-Problems: Jobicy (error), Google DeepMind (error), Open Philanthropy (error), Mistral AI (empty), jobs.ac.uk Research Assistant (empty), GaijinPot Jobs (error), OECD Careers (error)
+Legal and Policy Officer EC - European Commission Brussels AD 5 - AD 7 - Impactpool
+[rules 4] location unspecified; title: policy
+https://www.impactpool.org/jobs/1242642
+
+Legal and Policy Assistant EC - European Commission Brussels AST 1 - AST 3 - Impactpool
+[rules 4] location unspecified; title: policy
+https://www.impactpool.org/jobs/1244211
+
+Policy Assistant - Policy Assistant - Scientific/Technical EC - European Commission Brussels AST 1 - AST 3 - Impactpool
+[rules 4] location unspecified; title: policy
+https://www.impactpool.org/jobs/1244212
+
+Privacy policy - Impactpool
+[rules 4] location unspecified; title: policy
+https://www.impactpool.org/about/privacy
+
+AI Safety - Partnership on AI
+[rules 4] location unspecified; title: ai safety
+https://new.partnershiponai.org/program/safety-critical-ai/
+
+Privacy Policy - Partnership on AI
+[rules 4] location unspecified; title: policy
+https://new.partnershiponai.org/privacy-policy/
+
+Sources: 36/62 returned listings
+Problems: Google DeepMind (error), Mistral AI (error), Tech Policy Press (empty), CDT (error), CIGI (error), Centre for Internet and Society (error), Observer Research Foundation (error), Takshashila Institution (error), IT for Change (error), 5Rights Foundation (error), Internet Watch Foundation (error), ECPAT International (error), WeProtect Global Alliance (error), Fairplay (error), Childnet (error), Save the Children India (empty), HAQ Centre for Child Rights (error), CRY India (empty), Aarambh India (error), Cyber Peace Foundation (error), Internet Freedom Foundation (error), Teach For India (error), Pratham (error)
 Skipped (no key): ReliefWeb, Adzuna India, Jooble

@@ -7,13 +7,6 @@
   "error": ""
  },
  {
-  "name": "Arbeitnow",
-  "type": "arbeitnow",
-  "status": "ok",
-  "count": 600,
-  "error": ""
- },
- {
   "name": "RemoteOK",
   "type": "remoteok",
   "status": "ok",
@@ -30,9 +23,9 @@
  {
   "name": "Jobicy",
   "type": "jobicy",
-  "status": "error",
-  "count": 0,
-  "error": "HTTP 400 from https://jobicy.com/api/v2/remote-jobs"
+  "status": "ok",
+  "count": 133,
+  "error": ""
  },
  {
   "name": "Working Nomads",
@@ -46,13 +39,6 @@
   "type": "themuse",
   "status": "ok",
   "count": 40,
-  "error": ""
- },
- {
-  "name": "HN Who is hiring",
-  "type": "hn_whoishiring",
-  "status": "ok",
-  "count": 263,
   "error": ""
  },
  {
@@ -95,14 +81,7 @@
   "type": "greenhouse",
   "status": "error",
   "count": 0,
-  "error": "HTTP 404 from https://boards-api.greenhouse.io/v1/boards/deepmind/jobs"
- },
- {
-  "name": "Scale AI",
-  "type": "greenhouse",
-  "status": "ok",
-  "count": 170,
-  "error": ""
+  "error": "HTTP 404 from https://boards-api.greenhouse.io/v1/boards/googledeepmind/jobs"
  },
  {
   "name": "Mozilla",
@@ -117,13 +96,6 @@
   "status": "ok",
   "count": 16,
   "error": ""
- },
- {
-  "name": "Open Philanthropy",
-  "type": "greenhouse",
-  "status": "error",
-  "count": 0,
-  "error": "HTTP 404 from https://boards-api.greenhouse.io/v1/boards/openphilanthropy/jobs"
  },
  {
   "name": "OpenAI",
@@ -147,25 +119,11 @@
   "error": ""
  },
  {
-  "name": "ElevenLabs",
-  "type": "ashby",
-  "status": "ok",
-  "count": 157,
-  "error": ""
- },
- {
   "name": "Mistral AI",
-  "type": "lever",
-  "status": "empty",
+  "type": "ashby",
+  "status": "error",
   "count": 0,
-  "error": ""
- },
- {
-  "name": "Palantir",
-  "type": "lever",
-  "status": "ok",
-  "count": 303,
-  "error": ""
+  "error": "HTTP 404 from https://api.ashbyhq.com/posting-api/job-board/mistral"
  },
  {
   "name": "GovAI",
@@ -210,39 +168,11 @@
   "error": ""
  },
  {
-  "name": "jobs.ac.uk Research Assistant",
-  "type": "page",
-  "status": "empty",
-  "count": 0,
-  "error": ""
- },
- {
   "name": "Impactpool",
   "type": "page",
   "status": "ok",
   "count": 46,
   "error": ""
- },
- {
-  "name": "TokyoDev",
-  "type": "page",
-  "status": "ok",
-  "count": 201,
-  "error": ""
- },
- {
-  "name": "Japan Dev",
-  "type": "page",
-  "status": "ok",
-  "count": 104,
-  "error": ""
- },
- {
-  "name": "GaijinPot Jobs",
-  "type": "page",
-  "status": "error",
-  "count": 0,
-  "error": "HTTP 403 from https://jobs.gaijinpot.com/"
  },
  {
   "name": "Wantedly",
@@ -252,10 +182,255 @@
   "error": ""
  },
  {
-  "name": "OECD Careers",
+  "name": "Tech Policy Press",
+  "type": "page",
+  "status": "empty",
+  "count": 0,
+  "error": ""
+ },
+ {
+  "name": "Partnership on AI",
+  "type": "page",
+  "status": "ok",
+  "count": 21,
+  "error": ""
+ },
+ {
+  "name": "CDT",
   "type": "page",
   "status": "error",
   "count": 0,
-  "error": "HTTP 403 from https://www.oecd.org/en/about/careers.html"
+  "error": "HTTP 403 from https://cdt.org/careers/"
+ },
+ {
+  "name": "Future of Life Institute",
+  "type": "page",
+  "status": "ok",
+  "count": 38,
+  "error": ""
+ },
+ {
+  "name": "CSET",
+  "type": "page",
+  "status": "ok",
+  "count": 39,
+  "error": ""
+ },
+ {
+  "name": "ARTICLE 19",
+  "type": "page",
+  "status": "ok",
+  "count": 35,
+  "error": ""
+ },
+ {
+  "name": "CIGI",
+  "type": "page",
+  "status": "error",
+  "count": 0,
+  "error": "HTTP 403 from https://www.cigionline.org/about/careers/"
+ },
+ {
+  "name": "Centre for Internet and Society",
+  "type": "page",
+  "status": "error",
+  "count": 0,
+  "error": "HTTPSConnectionPool(host='cis-india.org', port=443): Read timed out. (read timeout=25)"
+ },
+ {
+  "name": "Observer Research Foundation",
+  "type": "page",
+  "status": "error",
+  "count": 0,
+  "error": "HTTP 404 from https://www.orfonline.org/careers"
+ },
+ {
+  "name": "Takshashila Institution",
+  "type": "page",
+  "status": "error",
+  "count": 0,
+  "error": "HTTP 404 from https://takshashila.org.in/careers"
+ },
+ {
+  "name": "IT for Change",
+  "type": "page",
+  "status": "error",
+  "count": 0,
+  "error": "HTTP 404 from https://itforchange.net/careers"
+ },
+ {
+  "name": "Thorn",
+  "type": "greenhouse",
+  "status": "ok",
+  "count": 3,
+  "error": ""
+ },
+ {
+  "name": "Discord",
+  "type": "greenhouse",
+  "status": "ok",
+  "count": 46,
+  "error": ""
+ },
+ {
+  "name": "Roblox",
+  "type": "greenhouse",
+  "status": "ok",
+  "count": 271,
+  "error": ""
+ },
+ {
+  "name": "Pinterest",
+  "type": "greenhouse",
+  "status": "ok",
+  "count": 161,
+  "error": ""
+ },
+ {
+  "name": "Duolingo",
+  "type": "greenhouse",
+  "status": "ok",
+  "count": 59,
+  "error": ""
+ },
+ {
+  "name": "Khan Academy",
+  "type": "greenhouse",
+  "status": "ok",
+  "count": 4,
+  "error": ""
+ },
+ {
+  "name": "Coursera",
+  "type": "greenhouse",
+  "status": "ok",
+  "count": 29,
+  "error": ""
+ },
+ {
+  "name": "UNICEF",
+  "type": "page",
+  "status": "ok",
+  "count": 39,
+  "error": ""
+ },
+ {
+  "name": "5Rights Foundation",
+  "type": "page",
+  "status": "error",
+  "count": 0,
+  "error": "HTTP 404 from https://5rightsfoundation.com/about-us/careers/"
+ },
+ {
+  "name": "Internet Watch Foundation",
+  "type": "page",
+  "status": "error",
+  "count": 0,
+  "error": "HTTP 404 from https://www.iwf.org.uk/about-us/work-for-us/"
+ },
+ {
+  "name": "ECPAT International",
+  "type": "page",
+  "status": "error",
+  "count": 0,
+  "error": "HTTP 404 from https://ecpat.org/work-with-us/"
+ },
+ {
+  "name": "WeProtect Global Alliance",
+  "type": "page",
+  "status": "error",
+  "count": 0,
+  "error": "HTTP 404 from https://www.weprotect.org/careers/"
+ },
+ {
+  "name": "Common Sense Media",
+  "type": "page",
+  "status": "ok",
+  "count": 33,
+  "error": ""
+ },
+ {
+  "name": "Fairplay",
+  "type": "page",
+  "status": "error",
+  "count": 0,
+  "error": "HTTP 403 from https://fairplayforkids.org/about/jobs/"
+ },
+ {
+  "name": "Childnet",
+  "type": "page",
+  "status": "error",
+  "count": 0,
+  "error": "HTTP 404 from https://www.childnet.com/about-us/jobs/"
+ },
+ {
+  "name": "Save the Children",
+  "type": "page",
+  "status": "ok",
+  "count": 67,
+  "error": ""
+ },
+ {
+  "name": "Save the Children India",
+  "type": "page",
+  "status": "empty",
+  "count": 0,
+  "error": ""
+ },
+ {
+  "name": "HAQ Centre for Child Rights",
+  "type": "page",
+  "status": "error",
+  "count": 0,
+  "error": "HTTP 403 from https://www.haqcrc.org/careers/"
+ },
+ {
+  "name": "CRY India",
+  "type": "page",
+  "status": "empty",
+  "count": 0,
+  "error": ""
+ },
+ {
+  "name": "Aarambh India",
+  "type": "page",
+  "status": "error",
+  "count": 0,
+  "error": "HTTP 404 from https://aarambhindia.org/careers/"
+ },
+ {
+  "name": "Cyber Peace Foundation",
+  "type": "page",
+  "status": "error",
+  "count": 0,
+  "error": "HTTP 404 from https://www.cyberpeace.org/careers"
+ },
+ {
+  "name": "Internet Freedom Foundation",
+  "type": "page",
+  "status": "error",
+  "count": 0,
+  "error": "HTTP 404 from https://internetfreedom.in/careers/"
+ },
+ {
+  "name": "Teach For India",
+  "type": "page",
+  "status": "error",
+  "count": 0,
+  "error": "HTTP 404 from https://www.teachforindia.org/careers"
+ },
+ {
+  "name": "Pratham",
+  "type": "page",
+  "status": "error",
+  "count": 0,
+  "error": "HTTP 404 from https://www.pratham.org/careers/"
+ },
+ {
+  "name": "Central Square Foundation",
+  "type": "page",
+  "status": "ok",
+  "count": 30,
+  "error": ""
  }
 ]
