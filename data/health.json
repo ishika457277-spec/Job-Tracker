@@ -276,7 +276,7 @@
   "name": "Roblox",
   "type": "greenhouse",
   "status": "ok",
-  "count": 268,
+  "count": 267,
   "error": ""
  },
  {
@@ -382,7 +382,7 @@
   "type": "page",
   "status": "error",
   "count": 0,
-  "error": "HTTPSConnectionPool(host='www.haqcrc.org', port=443): Max retries exceeded with url: /careers/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.haqcrc.org', port=443) at 0x7fc600e3b8f0>, 'Con"
+  "error": "HTTP 403 from https://www.haqcrc.org/careers/"
  },
  {
   "name": "CRY India",
@@ -431,6 +431,559 @@
   "type": "page",
   "status": "ok",
   "count": 30,
+  "error": ""
+ },
+ {
+  "name": "AIFOD",
+  "type": "page",
+  "status": "ok",
+  "count": 55,
+  "error": ""
+ },
+ {
+  "name": "AI Asia Pacific Institute",
+  "type": "page",
+  "status": "ok",
+  "count": 22,
+  "error": ""
+ },
+ {
+  "name": "Atlas AI Institute",
+  "type": "page",
+  "status": "ok",
+  "count": 31,
+  "error": ""
+ },
+ {
+  "name": "Cyberlite",
+  "type": "page",
+  "status": "ok",
+  "count": 30,
+  "error": ""
+ },
+ {
+  "name": "Future of Privacy Forum",
+  "type": "page",
+  "status": "ok",
+  "count": 40,
+  "error": ""
+ },
+ {
+  "name": "Digital Rights Job Board",
+  "type": "page",
+  "status": "ok",
+  "count": 18,
+  "error": ""
+ },
+ {
+  "name": "INHOPE",
+  "type": "page",
+  "status": "ok",
+  "count": 18,
+  "error": ""
+ },
+ {
+  "name": "KISDI",
+  "type": "page",
+  "status": "ok",
+  "count": 36,
+  "error": ""
+ },
+ {
+  "name": "Institute for AI Policy and Strategy",
+  "type": "page",
+  "status": "ok",
+  "count": 6,
+  "error": ""
+ },
+ {
+  "name": "LG AI Research",
+  "type": "page",
+  "status": "ok",
+  "count": 24,
+  "error": ""
+ },
+ {
+  "name": "NUS Institute of Policy Studies",
+  "type": "page",
+  "status": "ok",
+  "count": 163,
+  "error": ""
+ },
+ {
+  "name": "RSIS",
+  "type": "page",
+  "status": "error",
+  "count": 0,
+  "error": "HTTP 403 from https://www.rsis.edu.sg/career/"
+ },
+ {
+  "name": "ASEAN Secretariat",
+  "type": "page",
+  "status": "empty",
+  "count": 0,
+  "error": ""
+ },
+ {
+  "name": "Japan Digital Agency",
+  "type": "page",
+  "status": "ok",
+  "count": 20,
+  "error": ""
+ },
+ {
+  "name": "KISA",
+  "type": "page",
+  "status": "error",
+  "count": 0,
+  "error": "HTTPSConnectionPool(host='www.kisa.or.kr', port=443): Max retries exceeded with url: /eng/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: "
+ },
+ {
+  "name": "NAAMII Nepal",
+  "type": "page",
+  "status": "ok",
+  "count": 46,
+  "error": ""
+ },
+ {
+  "name": "Daayitwa Nepal",
+  "type": "page",
+  "status": "ok",
+  "count": 15,
+  "error": ""
+ },
+ {
+  "name": "NKIS Korea",
+  "type": "page",
+  "status": "ok",
+  "count": 55,
+  "error": ""
+ },
+ {
+  "name": "Nanyang Centre for Public Administration",
+  "type": "page",
+  "status": "ok",
+  "count": 32,
+  "error": ""
+ },
+ {
+  "name": "EngageMedia",
+  "type": "page",
+  "status": "error",
+  "count": 0,
+  "error": "HTTP 403 from https://engagemedia.org/jobs/"
+ },
+ {
+  "name": "Mozilla.ai",
+  "type": "page",
+  "status": "ok",
+  "count": 11,
+  "error": ""
+ },
+ {
+  "name": "Government Technology Agency Bhutan",
+  "type": "page",
+  "status": "error",
+  "count": 0,
+  "error": "HTTPSConnectionPool(host='www.tech.gov.bt', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: sel"
+ },
+ {
+  "name": "National Commission for Women and Children Bhutan",
+  "type": "page",
+  "status": "error",
+  "count": 0,
+  "error": "HTTPSConnectionPool(host='ncwc.gov.bt', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='ncwc.gov.bt', port=443) at 0x7fe0f9de7ad0>, 'Connection to ncw"
+ },
+ {
+  "name": "Bhutan Media Foundation",
+  "type": "page",
+  "status": "ok",
+  "count": 49,
+  "error": ""
+ },
+ {
+  "name": "Centre for Bhutan and GNH Studies",
+  "type": "page",
+  "status": "ok",
+  "count": 35,
+  "error": ""
+ },
+ {
+  "name": "UNFPA Bhutan",
+  "type": "page",
+  "status": "ok",
+  "count": 28,
+  "error": ""
+ },
+ {
+  "name": "Bhutan NDI",
+  "type": "page",
+  "status": "ok",
+  "count": 16,
+  "error": ""
+ },
+ {
+  "name": "Paro College of Education",
+  "type": "page",
+  "status": "ok",
+  "count": 95,
+  "error": ""
+ },
+ {
+  "name": "Royal Civil Service Commission Bhutan",
+  "type": "page",
+  "status": "ok",
+  "count": 63,
+  "error": ""
+ },
+ {
+  "name": "Hong Kong Productivity Council",
+  "type": "page",
+  "status": "ok",
+  "count": 40,
+  "error": ""
+ },
+ {
+  "name": "Hong Kong Polytechnic University",
+  "type": "page",
+  "status": "empty",
+  "count": 0,
+  "error": ""
+ },
+ {
+  "name": "Hong Kong Generative AI Research and Development Center",
+  "type": "page",
+  "status": "ok",
+  "count": 43,
+  "error": ""
+ },
+ {
+  "name": "Tencent Careers",
+  "type": "page",
+  "status": "empty",
+  "count": 0,
+  "error": ""
+ },
+ {
+  "name": "DSET Taiwan",
+  "type": "page",
+  "status": "error",
+  "count": 0,
+  "error": "HTTP 403 from https://dset.tw/en/category/recruitment-en/"
+ },
+ {
+  "name": "Institute for Information Industry Taiwan",
+  "type": "page",
+  "status": "ok",
+  "count": 11,
+  "error": ""
+ },
+ {
+  "name": "FORUM-ASIA",
+  "type": "page",
+  "status": "error",
+  "count": 0,
+  "error": "HTTP 403 from https://recruitment.forum-asia.org/openings"
+ },
+ {
+  "name": "Foundation for Media Alternatives",
+  "type": "page",
+  "status": "ok",
+  "count": 37,
+  "error": ""
+ },
+ {
+  "name": "Centre for Independent Journalism Malaysia",
+  "type": "page",
+  "status": "empty",
+  "count": 0,
+  "error": ""
+ },
+ {
+  "name": "Asia-Pacific Institute for Broadcasting Development",
+  "type": "page",
+  "status": "ok",
+  "count": 31,
+  "error": ""
+ },
+ {
+  "name": "Open Rights Group",
+  "type": "page",
+  "status": "ok",
+  "count": 24,
+  "error": ""
+ },
+ {
+  "name": "Open Technology Fund",
+  "type": "page",
+  "status": "ok",
+  "count": 40,
+  "error": ""
+ },
+ {
+  "name": "Internet Society",
+  "type": "page",
+  "status": "ok",
+  "count": 47,
+  "error": ""
+ },
+ {
+  "name": "Digital Rights Foundation Pakistan",
+  "type": "page",
+  "status": "error",
+  "count": 0,
+  "error": "HTTP 404 from https://digitalrightsfoundation.pk/careers/"
+ },
+ {
+  "name": "Talos Network Fellowship",
+  "type": "page",
+  "status": "ok",
+  "count": 23,
+  "error": ""
+ },
+ {
+  "name": "Secure AI Futures Lab",
+  "type": "page",
+  "status": "ok",
+  "count": 7,
+  "error": ""
+ },
+ {
+  "name": "Centre for Applied AI Governance",
+  "type": "page",
+  "status": "empty",
+  "count": 0,
+  "error": ""
+ },
+ {
+  "name": "The AI Cybersecurity Institute",
+  "type": "page",
+  "status": "ok",
+  "count": 7,
+  "error": ""
+ },
+ {
+  "name": "Centre for Policy Research and Governance",
+  "type": "page",
+  "status": "ok",
+  "count": 30,
+  "error": ""
+ },
+ {
+  "name": "Policy and Research Initiative",
+  "type": "page",
+  "status": "ok",
+  "count": 14,
+  "error": ""
+ },
+ {
+  "name": "World Vision International",
+  "type": "page",
+  "status": "error",
+  "count": 0,
+  "error": "HTTP 403 from https://www.wvi.org/careers"
+ },
+ {
+  "name": "Digital Futures Lab",
+  "type": "page",
+  "status": "ok",
+  "count": 13,
+  "error": ""
+ },
+ {
+  "name": "NCAER",
+  "type": "page",
+  "status": "ok",
+  "count": 27,
+  "error": ""
+ },
+ {
+  "name": "Family Online Safety Institute",
+  "type": "page",
+  "status": "ok",
+  "count": 32,
+  "error": ""
+ },
+ {
+  "name": "NCMEC",
+  "type": "page",
+  "status": "ok",
+  "count": 66,
+  "error": ""
+ },
+ {
+  "name": "Centre for Responsible AI IIT Madras",
+  "type": "page",
+  "status": "ok",
+  "count": 39,
+  "error": ""
+ },
+ {
+  "name": "Foundation for American Innovation",
+  "type": "page",
+  "status": "ok",
+  "count": 15,
+  "error": ""
+ },
+ {
+  "name": "CAPRI Taiwan",
+  "type": "page",
+  "status": "ok",
+  "count": 55,
+  "error": ""
+ },
+ {
+  "name": "IGES Japan",
+  "type": "page",
+  "status": "error",
+  "count": 0,
+  "error": "HTTP 403 from https://www.iges.or.jp/en/jobs"
+ },
+ {
+  "name": "UNESCO Careers",
+  "type": "page",
+  "status": "ok",
+  "count": 26,
+  "error": ""
+ },
+ {
+  "name": "CAIDP AI Policy Clinic",
+  "type": "page",
+  "status": "ok",
+  "count": 108,
+  "error": ""
+ },
+ {
+  "name": "AI for ASIA Fellowship",
+  "type": "page",
+  "status": "ok",
+  "count": 8,
+  "error": ""
+ },
+ {
+  "name": "ISAIL Fellowship",
+  "type": "page",
+  "status": "ok",
+  "count": 20,
+  "error": ""
+ },
+ {
+  "name": "Apart Research",
+  "type": "page",
+  "status": "ok",
+  "count": 18,
+  "error": ""
+ },
+ {
+  "name": "Project AWARE",
+  "type": "page",
+  "status": "ok",
+  "count": 7,
+  "error": ""
+ },
+ {
+  "name": "Singapore AI Safety Hub",
+  "type": "page",
+  "status": "ok",
+  "count": 9,
+  "error": ""
+ },
+ {
+  "name": "TechCongress Fellowship",
+  "type": "page",
+  "status": "ok",
+  "count": 27,
+  "error": ""
+ },
+ {
+  "name": "Anthropic Economics and Policy Fellows",
+  "type": "page",
+  "status": "ok",
+  "count": 673,
+  "error": ""
+ },
+ {
+  "name": "Center for AI Safety",
+  "type": "page",
+  "status": "ok",
+  "count": 34,
+  "error": ""
+ },
+ {
+  "name": "Asia House Fellowship",
+  "type": "page",
+  "status": "ok",
+  "count": 44,
+  "error": ""
+ },
+ {
+  "name": "PRIVO",
+  "type": "page",
+  "status": "ok",
+  "count": 75,
+  "error": ""
+ },
+ {
+  "name": "Prajnya",
+  "type": "page",
+  "status": "ok",
+  "count": 40,
+  "error": ""
+ },
+ {
+  "name": "Fairwork",
+  "type": "page",
+  "status": "error",
+  "count": 0,
+  "error": "HTTP 404 from https://fair.work/en/"
+ },
+ {
+  "name": "Child Rights Connect",
+  "type": "page",
+  "status": "ok",
+  "count": 64,
+  "error": ""
+ },
+ {
+  "name": "Child Rights International Network",
+  "type": "page",
+  "status": "ok",
+  "count": 27,
+  "error": ""
+ },
+ {
+  "name": "eSafety Commissioner Australia",
+  "type": "page",
+  "status": "error",
+  "count": 0,
+  "error": "HTTPSConnectionPool(host='www.esafety.gov.au', port=443): Read timed out. (read timeout=25)"
+ },
+ {
+  "name": "Ofcom Online Safety",
+  "type": "page",
+  "status": "ok",
+  "count": 35,
+  "error": ""
+ },
+ {
+  "name": "Information Commissioner's Office",
+  "type": "page",
+  "status": "ok",
+  "count": 31,
+  "error": ""
+ },
+ {
+  "name": "Children's Commissioner for England",
+  "type": "page",
+  "status": "ok",
+  "count": 8,
+  "error": ""
+ },
+ {
+  "name": "NSPCC",
+  "type": "page",
+  "status": "ok",
+  "count": 32,
   "error": ""
  }
 ]
