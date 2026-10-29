@@ -1,124 +1,68 @@
-Job digest 2026-10-28: 30 shown (11 more held for tomorrow)
+Job digest 2026-10-29: 16 shown
 
-Policy and Research - Future of Life Institute
-[rules 4] location unspecified; title: policy
-https://futureoflife.org/our-work/policy-and-research/
+Dental Launch Trainer (UK) - Dandy (UK)
+[rules 3] remote; title: trainer
+https://jobicy.com/jobs/157665-dental-launch-trainer-uk-2
 
-FLI AI Safety Index: Summer 2026 Edition - Future of Life Institute
-[rules 4] location unspecified; title: ai safety
-https://futureoflife.org/index
+Associate Tutor - Wildlife, Marine Biology and Conservation - Animals - learndirect (UK)
+[rules 3] remote; title: associate
+https://jobicy.com/jobs/143431-associate-tutor-wildlife-marine-biology-and-conservation-animals
 
-Policy & Research - Future of Life Institute
-[rules 4] location unspecified; title: policy
-https://futureoflife.org/fli-area/policy-and-research/
+Junior Accountant (Permanent work from home) - Lightspeed Commerce (Philippines)
+[rules 3] remote; title: junior
+https://jobicy.com/jobs/157693-junior-accountant-permanent-work-from-home
 
-AI Governance - CSET
-[rules 4] location unspecified; title: governance
-https://cset.georgetown.edu/research-area/assessment/
-
-Safeguarding - ARTICLE 19
-[rules 4] location unspecified; title: safeguarding
-https://www.article19.org/wp-content/uploads/2019/06/Safeguarding-Policy-May-2019.pdf
-
-Privacy Policy - Save the Children
-[rules 4] location unspecified; title: policy
-https://www.savethechildren.net/privacy
-
-Recruitment Privacy Policy - Save the Children
-[rules 4] location unspecified; title: policy
-https://www.savethechildren.net/recruitment-privacy-statement
-
-Commissions Analyst (Permanent work from home) - Lightspeed Commerce (Philippines)
-[rules 3] remote; title: analyst
-https://jobicy.com/jobs/157613-commissions-analyst-permanent-work-from-home
-
-Software Engineering Internship Program (2027) - Wikimedia Foundation (Remote)
-[rules 3] remote; title: internship
-https://job-boards.greenhouse.io/wikimedia/jobs/8268853
-
-Cookie Policy - Centre for the Governance of AI
+Policy Advisor - Reykjavik Process and the Environment COE - Council of Europe Strasbourg Mid - Impactpool
 [rules 3] location unspecified; title: policy
-https://www.governance.ai/cookie-policy
+https://www.impactpool.org/jobs/1241984
 
-Content governance - Access Now
-[rules 3] location unspecified; title: governance
-https://www.accessnow.org/issue/content-governance/
-
-Manager - Operational Policy AIIB - Asian Infrastructure Investment Bank Beijing Executive - Impactpool
+New job: Urban Policy and Implementation Specialist UNHABITAT - United Nations Human Settlements Programme Rio de Janeiro | Asunción CON - Impactpool
 [rules 3] location unspecified; title: policy
-https://www.impactpool.org/jobs/1242784
+https://www.impactpool.org/jobs/1244673
 
-Policy Advisor – Drugs and addictions COE - Council of Europe Strasbourg Mid - Impactpool
-[rules 3] location unspecified; title: policy
-https://www.impactpool.org/jobs/1243553
-
-Advisor, Strategy and Policy - GL D - Defined Duration until December 2029 TGF - The Global Fund Geneva GL D - Impactpool
-[rules 3] location unspecified; title: policy
-https://www.impactpool.org/jobs/1243828
-
-Transparency and Governance - Partnership on AI
-[rules 3] location unspecified; title: governance
-https://partnershiponai.org/transparency-governance
-
-Law and policy - ARTICLE 19
-[rules 3] location unspecified; title: policy
-https://www.article19.org/law-and-policy/
-
-Our governance - ARTICLE 19
-[rules 3] location unspecified; title: governance
-https://www.article19.org/our-governance/
-
-Solutions Engineer Intern 2027 (USA) - Pinterest (San Francisco, CA, US; Remote, US)
-[rules 3] remote; title: intern
-https://www.pinterestcareers.com/jobs/?gh_jid=8214788
-
-UNICEF UNV Youth on the Move Programme - UNICEF
-[rules 3] location unspecified; title: youth
-https://www.unv.org/index.php/news/unicef-unv-youth-move-programme
-
-Cookie Policy - Save the Children
-[rules 3] location unspecified; title: policy
-https://www.savethechildren.net/cookie-policy
-
-Research - Centre for the Governance of AI
+Research Analysts - CSET
 [rules 1] location unspecified; title: research
-https://www.governance.ai/research
+https://cset.georgetown.edu/job/research-analysts/
 
-Research Scholar - Centre for the Governance of AI
-[rules 1] location unspecified; title: research, scholar
-https://www.governance.ai/opportunities/research-scholar
-
-DC Fellowship - Centre for the Governance of AI
-[rules 1] location unspecified; title: fellowship
-https://www.governance.ai/post/dc-summer-fellowship-2027
-
-Hiring Associate - Centre for the Governance of AI
+People Operations Associate (Part-Time/Temp) - CSET
 [rules 1] location unspecified; title: associate
-https://www.governance.ai/post/hiring-associate
+https://cset.georgetown.edu/job/people-operations-associate/
 
-Fellowship - AlgorithmWatch
-[rules 1] location unspecified; title: fellowship
-https://algorithmwatch.org/en/fellowship/
+Research Analyst/Data Research Analyst FAQ - CSET
+[rules 1] location unspecified; title: research, analyst
+https://docs.google.com/document/d/1nD6Y9mytlMJBvfIDUZI45NtwQ3ASC14WzfJqZTEDcqg/edit#heading=h.nisttvk8h58n
 
-All our research - 80,000 Hours board
+Research Fellow FAQ - CSET
+[rules 1] location unspecified; title: research, fellow
+https://docs.google.com/document/d/1P6mGbiNs7OihHHS1Y7i2_sHgPmZch_L_wdMy0o6rqeo/edit#heading=h.nisttvk8h58n
+
+Research Analyst/Data Research Analyst Hiring Info Session - CSET
+[rules 1] location unspecified; title: research, analyst
+https://cset.georgetown.edu/event/cset-hiring-info-session/
+
+Research Fellow Hiring Info Session - CSET
+[rules 1] location unspecified; title: research, fellow
+https://cset.georgetown.edu/event/cset-research-fellow-hiring-info-session/
+
+Our research - ARTICLE 19
 [rules 1] location unspecified; title: research
-https://80000hours.org/research/
+https://www.article19.org/reports/
 
-Fellowship - Impactpool
-[rules 1] location unspecified; title: fellowship
-https://www.impactpool.org/fellows
+Junior Professional Officer - UNICEF
+[rules 1] location unspecified; title: officer, junior
+https://www.unicef.org/careers/junior-professional-officer-programme
 
-RESEARCH - Partnership on AI
+Internship programme - UNICEF
+[rules 1] location unspecified; title: internship
+https://www.unicef.org/careers/internships
+
+Our Research - Common Sense Media
 [rules 1] location unspecified; title: research
-https://new.partnershiponai.org/work
+https://www.commonsensemedia.org/research
 
-Foundational Research Grants - CSET
+Research & reports - Save the Children
 [rules 1] location unspecified; title: research
-https://cset.georgetown.edu/foundational-research-grants/
-
-Research Areas - CSET
-[rules 1] location unspecified; title: research
-https://cset.georgetown.edu/research-areas
+https://www.savethechildren.net/research-reports
 
 Sources: 36/62 returned listings
 Problems: Google DeepMind (error), Mistral AI (error), Tech Policy Press (empty), CDT (error), CIGI (error), Centre for Internet and Society (error), Observer Research Foundation (error), Takshashila Institution (error), IT for Change (error), 5Rights Foundation (error), Internet Watch Foundation (error), ECPAT International (error), WeProtect Global Alliance (error), Fairplay (error), Childnet (error), Save the Children India (empty), HAQ Centre for Child Rights (error), CRY India (empty), Aarambh India (error), Cyber Peace Foundation (error), Internet Freedom Foundation (error), Teach For India (error), Pratham (error)

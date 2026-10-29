@@ -3,7 +3,7 @@
   "name": "Remotive",
   "type": "remotive",
   "status": "ok",
-  "count": 11,
+  "count": 12,
   "error": ""
  },
  {
@@ -24,7 +24,7 @@
   "name": "Jobicy",
   "type": "jobicy",
   "status": "ok",
-  "count": 133,
+  "count": 154,
   "error": ""
  },
  {
@@ -45,7 +45,7 @@
   "name": "We Work Remotely",
   "type": "rss",
   "status": "ok",
-  "count": 96,
+  "count": 97,
   "error": ""
  },
  {
@@ -87,28 +87,28 @@
   "name": "Mozilla",
   "type": "greenhouse",
   "status": "ok",
-  "count": 119,
+  "count": 118,
   "error": ""
  },
  {
   "name": "Wikimedia",
   "type": "greenhouse",
   "status": "ok",
-  "count": 16,
+  "count": 15,
   "error": ""
  },
  {
   "name": "OpenAI",
   "type": "ashby",
   "status": "ok",
-  "count": 806,
+  "count": 812,
   "error": ""
  },
  {
   "name": "Cohere",
   "type": "ashby",
   "status": "ok",
-  "count": 118,
+  "count": 119,
   "error": ""
  },
  {
@@ -171,14 +171,14 @@
   "name": "Impactpool",
   "type": "page",
   "status": "ok",
-  "count": 46,
+  "count": 39,
   "error": ""
  },
  {
   "name": "Wantedly",
   "type": "page",
   "status": "ok",
-  "count": 25,
+  "count": 22,
   "error": ""
  },
  {
@@ -269,14 +269,14 @@
   "name": "Discord",
   "type": "greenhouse",
   "status": "ok",
-  "count": 46,
+  "count": 45,
   "error": ""
  },
  {
   "name": "Roblox",
   "type": "greenhouse",
   "status": "ok",
-  "count": 271,
+  "count": 268,
   "error": ""
  },
  {
@@ -382,7 +382,7 @@
   "type": "page",
   "status": "error",
   "count": 0,
-  "error": "HTTPSConnectionPool(host='www.haqcrc.org', port=443): Max retries exceeded with url: /careers/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.haqcrc.org', port=443) at 0x7fc01cc8fe60>, 'Con"
+  "error": "HTTP 403 from https://www.haqcrc.org/careers/"
  },
  {
   "name": "CRY India",
