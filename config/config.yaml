@@ -303,3 +303,169 @@ sources:
   - {name: Teach For India,     type: page, url: "https://www.teachforindia.org/careers", company: "Teach For India", default_location: India}
   - {name: Pratham,             type: page, url: "https://www.pratham.org/careers/", company: Pratham, default_location: India}
   - {name: Central Square Foundation, type: page, url: "https://www.centralsquarefoundation.org/careers", company: CSF, default_location: India}
+    # --- Batch 1: AI policy, child online safety and digital rights ---
+
+  - {name: AIFOD, type: page, url: "https://af.net/jobs/", company: AIFOD}
+
+  - {name: AI Asia Pacific Institute, type: page, url: "https://aiasiapacific.org/get-involved/internships/", company: "AI Asia Pacific Institute"}
+
+  - {name: Atlas AI Institute, type: page, url: "https://atlasai.institute/career/", company: "Atlas AI Institute"}
+
+  - {name: Cyberlite, type: page, url: "https://www.cyberlite.org/careers", company: Cyberlite}
+
+  - {name: Future of Privacy Forum, type: page, url: "https://fpf.org/about/career-opportunities/", company: "Future of Privacy Forum"}
+
+  - {name: Digital Rights Job Board, type: page, url: "https://www.digitalrights.community/job-board", company: "Digital Rights Job Board"}
+
+  - {name: INHOPE, type: page, url: "https://inhope.org/get-involved/vacancies", company: INHOPE}
+
+  - {name: KISDI, type: page, url: "https://www.kisdi.re.kr/bbs/list.do?key=m2101113056115", company: KISDI, default_location: "South Korea"}
+
+  - {name: Institute for AI Policy and Strategy, type: page, url: "https://www.iaps.ai/careers", company: IAPS}
+    # --- Batch 2: Asia-Pacific policy, AI and research organisations ---
+
+  - {name: LG AI Research, type: page, url: "https://www.lgresearch.ai/careers", company: "LG AI Research", default_location: "South Korea"}
+
+  - {name: NUS Institute of Policy Studies, type: page, url: "https://lkyspp.nus.edu.sg/ips/about-us/jobs-at-ips", company: "NUS Institute of Policy Studies", default_location: Singapore}
+
+  - {name: RSIS, type: page, url: "https://www.rsis.edu.sg/career/", company: "S. Rajaratnam School of International Studies", default_location: Singapore}
+
+  - {name: ASEAN Secretariat, type: page, url: "https://asean.org/careers/", company: "ASEAN Secretariat", default_location: "Southeast Asia"}
+
+  - {name: Japan Digital Agency, type: page, url: "https://www.digital.go.jp/recruitment", company: "Japan Digital Agency", default_location: Japan}
+
+  - {name: KISA, type: page, url: "https://www.kisa.or.kr/eng/", company: "Korea Internet & Security Agency", default_location: "South Korea"}
+
+  - {name: NAAMII Nepal, type: page, url: "https://naamii.org/careers-at-naamii", company: NAAMII, default_location: Nepal}
+
+  - {name: Daayitwa Nepal, type: page, url: "https://daayitwa.org/", company: Daayitwa, default_location: Nepal}
+
+  - {name: NKIS Korea, type: page, url: "https://www.nkis.re.kr/", company: "National Knowledge Information System", default_location: "South Korea"}
+
+  - {name: Nanyang Centre for Public Administration, type: page, url: "https://www.ntu.edu.sg/ncpa", company: "Nanyang Centre for Public Administration", default_location: Singapore}
+    # --- Batch 3: Digital rights, child protection and Bhutan/APAC policy ---
+
+  - {name: EngageMedia, type: page, url: "https://engagemedia.org/jobs/", company: "EngageMedia", default_location: "Asia-Pacific"}
+
+  - {name: Mozilla.ai, type: page, url: "https://www.mozilla.ai/company/careers", company: "Mozilla.ai", default_location: "Remote"}
+
+  - {name: Government Technology Agency Bhutan, type: page, url: "https://www.tech.gov.bt/", company: "Government Technology Agency Bhutan", default_location: Bhutan}
+
+  - {name: National Commission for Women and Children Bhutan, type: page, url: "https://ncwc.gov.bt/", company: "National Commission for Women and Children", default_location: Bhutan}
+
+  - {name: Bhutan Media Foundation, type: page, url: "https://www.bmf.bt/", company: "Bhutan Media Foundation", default_location: Bhutan}
+
+  - {name: Centre for Bhutan and GNH Studies, type: page, url: "https://www.bhutanstudies.org.bt/", company: "Centre for Bhutan and GNH Studies", default_location: Bhutan}
+
+  - {name: UNFPA Bhutan, type: page, url: "https://bhutan.unfpa.org/en/vacancies", company: "UNFPA Bhutan", default_location: Bhutan}
+
+  - {name: Bhutan NDI, type: page, url: "https://www.bhutanndi.bt/careers", company: "Bhutan NDI", default_location: Bhutan}
+
+  - {name: Paro College of Education, type: page, url: "https://www.pce.edu.bt/", company: "Paro College of Education", default_location: Bhutan}
+
+  - {name: Royal Civil Service Commission Bhutan, type: page, url: "https://www.rcsc.gov.bt/", company: "Royal Civil Service Commission Bhutan", default_location: Bhutan}
+    # --- Batch 4: Hong Kong and Asia-Pacific organisations ---
+
+  - {name: Hong Kong Productivity Council, type: page, url: "https://careers.hkpc.org/", company: "Hong Kong Productivity Council", default_location: "Hong Kong"}
+
+  - {name: Hong Kong Polytechnic University, type: page, url: "https://jobs.polyu.edu.hk/", company: "The Hong Kong Polytechnic University", default_location: "Hong Kong"}
+
+  - {name: Hong Kong Generative AI Research and Development Center, type: page, url: "https://hkustcareers.hkust.edu.hk/hong-kong-generative-ai-research-and-development-center-limited", company: "Hong Kong Generative AI Research and Development Center", default_location: "Hong Kong"}
+
+  - {name: Tencent Careers, type: page, url: "https://careers.tencent.com/", company: Tencent, default_location: "China"}
+
+  - {name: DSET Taiwan, type: page, url: "https://dset.tw/en/category/recruitment-en/", company: "Research Institute for Democracy, Society and Emerging Technology", default_location: Taiwan}
+
+  - {name: Institute for Information Industry Taiwan, type: page, url: "https://www.iii.org.tw/en/join-us/working-at-iii", company: "Institute for Information Industry", default_location: Taiwan}
+
+  - {name: FORUM-ASIA, type: page, url: "https://recruitment.forum-asia.org/openings", company: "Asian Forum for Human Rights and Development", default_location: "Asia-Pacific"}
+
+  - {name: Foundation for Media Alternatives, type: page, url: "https://www.fma.ph/", company: "Foundation for Media Alternatives", default_location: Philippines}
+
+  - {name: Centre for Independent Journalism Malaysia, type: page, url: "https://erp.cijmalaysia.net/jobs", company: "Centre for Independent Journalism", default_location: Malaysia}
+
+  - {name: Asia-Pacific Institute for Broadcasting Development, type: page, url: "https://aibd.org.my/", company: "Asia-Pacific Institute for Broadcasting Development", default_location: "Asia-Pacific"}
+    # --- Batch 5: Digital rights, AI governance and policy fellowships ---
+
+  - {name: Open Rights Group, type: page, url: "https://www.openrightsgroup.org/jobs/", company: "Open Rights Group", default_location: "United Kingdom"}
+
+  - {name: Open Technology Fund, type: page, url: "https://www.opentech.fund/about/career-opportunities/", company: "Open Technology Fund", default_location: "Remote"}
+
+  - {name: Internet Society, type: page, url: "https://www.internetsociety.org/careers/", company: "Internet Society", default_location: "Global"}
+
+  - {name: Digital Rights Foundation Pakistan, type: page, url: "https://digitalrightsfoundation.pk/careers/", company: "Digital Rights Foundation", default_location: Pakistan}
+
+  - {name: Talos Network Fellowship, type: page, url: "https://www.talosnetwork.org/talos-fellowship", company: "Talos Network", default_location: Europe}
+
+  - {name: Secure AI Futures Lab, type: page, url: "https://www.secureaifutureslab.com/careers", company: "Secure AI Futures Lab", default_location: India}
+
+  - {name: Centre for Applied AI Governance, type: page, url: "https://appliedaigovernance.org/careers", company: "Centre for Applied AI Governance", default_location: "Remote"}
+
+  - {name: The AI Cybersecurity Institute, type: page, url: "https://www.taici.ai/opportunities/", company: "The AI Cybersecurity Institute", default_location: "Remote"}
+
+  - {name: Centre for Policy Research and Governance, type: page, url: "https://www.cprgindia.org/careers/", company: "Centre for Policy Research and Governance", default_location: India}
+
+  - {name: Policy and Research Initiative, type: page, url: "https://priresearch.in/careers", company: "Policy and Research Initiative", default_location: India}
+    # --- Batch 6: Child safety, responsible AI and policy research ---
+
+  - {name: World Vision International, type: page, url: "https://www.wvi.org/careers", company: "World Vision International", default_location: "Global"}
+
+  - {name: Digital Futures Lab, type: page, url: "https://www.digitalfutureslab.in/about", company: "Digital Futures Lab", default_location: India}
+
+  - {name: NCAER, type: page, url: "https://ncaer.org/careers/", company: "National Council of Applied Economic Research", default_location: India}
+
+  - {name: Family Online Safety Institute, type: page, url: "https://fosi.org/about-us/", company: "Family Online Safety Institute", default_location: "United States"}
+
+  - {name: NCMEC, type: page, url: "https://www.ncmec.org/Careers", company: "National Center for Missing and Exploited Children", default_location: "United States"}
+
+  - {name: Centre for Responsible AI IIT Madras, type: page, url: "https://cerai.iitm.ac.in/careers/", company: "Centre for Responsible AI, IIT Madras", default_location: India}
+
+  - {name: Foundation for American Innovation, type: page, url: "https://www.thefai.org/posts/job-listing-wild-card-application", company: "Foundation for American Innovation", default_location: "United States"}
+
+  - {name: CAPRI Taiwan, type: page, url: "https://caprifoundation.org/", company: "Center for Asia-Pacific Resilience and Innovation", default_location: Taiwan}
+
+  - {name: IGES Japan, type: page, url: "https://www.iges.or.jp/en/jobs", company: "Institute for Global Environmental Strategies", default_location: Japan}
+
+  - {name: UNESCO Careers, type: page, url: "https://careers.unesco.org/", company: UNESCO, default_location: "Global"}
+    # --- Batch 7: AI governance, research fellowships and technology policy ---
+
+  - {name: CAIDP AI Policy Clinic, type: page, url: "https://www.caidp.org/global-academic-network/ai-policy-clinic/", company: "Center for AI and Digital Policy", default_location: "Remote"}
+
+  - {name: AI for ASIA Fellowship, type: page, url: "https://aiforasean.org/", company: "AI for ASIA", default_location: "Southeast Asia"}
+
+  - {name: ISAIL Fellowship, type: page, url: "https://www.isail.in/fellowship", company: "Indian Society of Artificial Intelligence and Law", default_location: "Remote"}
+
+  - {name: Apart Research, type: page, url: "https://apartresearch.com/programs", company: "Apart Research", default_location: "Remote"}
+
+  - {name: Project AWARE, type: page, url: "https://www.projectawareai.org/opportunities/", company: "Project AWARE", default_location: "Global"}
+
+  - {name: Singapore AI Safety Hub, type: page, url: "https://www.aisafety.sg/", company: "Singapore AI Safety Hub", default_location: Singapore}
+
+  - {name: TechCongress Fellowship, type: page, url: "https://techcongress.io/congressional-innovation-fellowship", company: "TechCongress", default_location: "United States"}
+
+  - {name: Anthropic Economics and Policy Fellows, type: page, url: "https://www.anthropic.com/careers/jobs?team=4002065008", company: Anthropic, default_location: "United States; United Kingdom; Canada"}
+
+  - {name: Center for AI Safety, type: page, url: "https://www.safe.ai/", company: "Center for AI Safety", default_location: "United States"}
+
+  - {name: Asia House Fellowship, type: page, url: "https://www.asiahouse.org/fellowship-programme/", company: "Asia House", default_location: "Remote"}
+    # --- Batch 8: Child online safety, children's rights and digital regulation ---
+
+  - {name: PRIVO, type: page, url: "https://www.privo.com/careers", company: "PRIVO", default_location: "Remote"}
+
+  - {name: Prajnya, type: page, url: "https://www.prajnya.in/about/vacancies", company: "The Prajnya Trust", default_location: India}
+
+  - {name: Fairwork, type: page, url: "https://fair.work/en/", company: "Fairwork, Oxford Internet Institute", default_location: "Global"}
+
+  - {name: Child Rights Connect, type: page, url: "https://childrightsconnect.org/work-with-us/", company: "Child Rights Connect", default_location: "Global"}
+
+  - {name: Child Rights International Network, type: page, url: "https://home.crin.org/faq", company: "Child Rights International Network", default_location: "Global"}
+
+  - {name: eSafety Commissioner Australia, type: page, url: "https://www.esafety.gov.au/about-us/jobs", company: "eSafety Commissioner", default_location: Australia}
+
+  - {name: Ofcom Online Safety, type: page, url: "https://careers.ofcom.org.uk/careers/business-groups/online-safety/", company: Ofcom, default_location: "United Kingdom"}
+
+  - {name: Information Commissioner's Office, type: page, url: "https://ico.org.uk/about-the-ico/jobs/vacancies/", company: "Information Commissioner's Office", default_location: "United Kingdom"}
+
+  - {name: Children's Commissioner for England, type: page, url: "https://careers.childrenscommissioner.gov.uk/", company: "Office of the Children's Commissioner", default_location: "United Kingdom"}
+
+  - {name: NSPCC, type: page, url: "https://join-us.nspcc.org.uk/jobs/home/", company: "National Society for the Prevention of Cruelty to Children", default_location: "United Kingdom"}
