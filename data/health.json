@@ -24,7 +24,7 @@
   "name": "Jobicy",
   "type": "jobicy",
   "status": "ok",
-  "count": 154,
+  "count": 167,
   "error": ""
  },
  {
@@ -178,7 +178,7 @@
   "name": "Wantedly",
   "type": "page",
   "status": "ok",
-  "count": 22,
+  "count": 24,
   "error": ""
  },
  {
@@ -382,7 +382,7 @@
   "type": "page",
   "status": "error",
   "count": 0,
-  "error": "HTTP 403 from https://www.haqcrc.org/careers/"
+  "error": "HTTPSConnectionPool(host='www.haqcrc.org', port=443): Max retries exceeded with url: /careers/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.haqcrc.org', port=443) at 0x7fc600e3b8f0>, 'Con"
  },
  {
   "name": "CRY India",
