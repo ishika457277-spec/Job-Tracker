@@ -24,14 +24,14 @@
   "name": "Jobicy",
   "type": "jobicy",
   "status": "ok",
-  "count": 167,
+  "count": 58,
   "error": ""
  },
  {
   "name": "Working Nomads",
   "type": "workingnomads",
   "status": "ok",
-  "count": 41,
+  "count": 38,
   "error": ""
  },
  {
@@ -45,7 +45,7 @@
   "name": "We Work Remotely",
   "type": "rss",
   "status": "ok",
-  "count": 97,
+  "count": 96,
   "error": ""
  },
  {
@@ -73,7 +73,7 @@
   "name": "Anthropic",
   "type": "greenhouse",
   "status": "ok",
-  "count": 680,
+  "count": 670,
   "error": ""
  },
  {
@@ -101,21 +101,21 @@
   "name": "OpenAI",
   "type": "ashby",
   "status": "ok",
-  "count": 812,
+  "count": 814,
   "error": ""
  },
  {
   "name": "Cohere",
   "type": "ashby",
   "status": "ok",
-  "count": 119,
+  "count": 122,
   "error": ""
  },
  {
   "name": "Perplexity",
   "type": "ashby",
   "status": "ok",
-  "count": 133,
+  "count": 134,
   "error": ""
  },
  {
@@ -171,7 +171,7 @@
   "name": "Impactpool",
   "type": "page",
   "status": "ok",
-  "count": 39,
+  "count": 47,
   "error": ""
  },
  {
@@ -233,9 +233,9 @@
  {
   "name": "Centre for Internet and Society",
   "type": "page",
-  "status": "error",
-  "count": 0,
-  "error": "HTTPSConnectionPool(host='cis-india.org', port=443): Read timed out. (read timeout=25)"
+  "status": "ok",
+  "count": 18,
+  "error": ""
  },
  {
   "name": "Observer Research Foundation",
@@ -269,28 +269,28 @@
   "name": "Discord",
   "type": "greenhouse",
   "status": "ok",
-  "count": 45,
+  "count": 43,
   "error": ""
  },
  {
   "name": "Roblox",
   "type": "greenhouse",
   "status": "ok",
-  "count": 267,
+  "count": 268,
   "error": ""
  },
  {
   "name": "Pinterest",
   "type": "greenhouse",
   "status": "ok",
-  "count": 162,
+  "count": 165,
   "error": ""
  },
  {
   "name": "Duolingo",
   "type": "greenhouse",
   "status": "ok",
-  "count": 59,
+  "count": 58,
   "error": ""
  },
  {
@@ -486,7 +486,7 @@
   "name": "KISDI",
   "type": "page",
   "status": "ok",
-  "count": 36,
+  "count": 35,
   "error": ""
  },
  {
@@ -592,7 +592,7 @@
   "type": "page",
   "status": "error",
   "count": 0,
-  "error": "HTTPSConnectionPool(host='ncwc.gov.bt', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='ncwc.gov.bt', port=443) at 0x7fe0f9de7ad0>, 'Connection to ncw"
+  "error": "HTTPSConnectionPool(host='ncwc.gov.bt', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='ncwc.gov.bt', port=443) at 0x7fc1c8559fd0>, 'Connection to ncw"
  },
  {
   "name": "Bhutan Media Foundation",
@@ -689,7 +689,7 @@
   "name": "Foundation for Media Alternatives",
   "type": "page",
   "status": "ok",
-  "count": 37,
+  "count": 38,
   "error": ""
  },
  {
@@ -794,7 +794,7 @@
   "name": "NCAER",
   "type": "page",
   "status": "ok",
-  "count": 27,
+  "count": 28,
   "error": ""
  },
  {
@@ -871,7 +871,7 @@
   "name": "Apart Research",
   "type": "page",
   "status": "ok",
-  "count": 18,
+  "count": 19,
   "error": ""
  },
  {
@@ -899,7 +899,7 @@
   "name": "Anthropic Economics and Policy Fellows",
   "type": "page",
   "status": "ok",
-  "count": 673,
+  "count": 663,
   "error": ""
  },
  {
