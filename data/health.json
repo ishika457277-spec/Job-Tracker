@@ -31,7 +31,7 @@
   "name": "Working Nomads",
   "type": "workingnomads",
   "status": "ok",
-  "count": 38,
+  "count": 37,
   "error": ""
  },
  {
@@ -45,7 +45,7 @@
   "name": "We Work Remotely",
   "type": "rss",
   "status": "ok",
-  "count": 96,
+  "count": 99,
   "error": ""
  },
  {
@@ -73,7 +73,7 @@
   "name": "Anthropic",
   "type": "greenhouse",
   "status": "ok",
-  "count": 670,
+  "count": 675,
   "error": ""
  },
  {
@@ -87,7 +87,7 @@
   "name": "Mozilla",
   "type": "greenhouse",
   "status": "ok",
-  "count": 118,
+  "count": 113,
   "error": ""
  },
  {
@@ -101,7 +101,7 @@
   "name": "OpenAI",
   "type": "ashby",
   "status": "ok",
-  "count": 814,
+  "count": 813,
   "error": ""
  },
  {
@@ -115,7 +115,7 @@
   "name": "Perplexity",
   "type": "ashby",
   "status": "ok",
-  "count": 134,
+  "count": 138,
   "error": ""
  },
  {
@@ -171,14 +171,14 @@
   "name": "Impactpool",
   "type": "page",
   "status": "ok",
-  "count": 47,
+  "count": 46,
   "error": ""
  },
  {
   "name": "Wantedly",
   "type": "page",
   "status": "ok",
-  "count": 24,
+  "count": 25,
   "error": ""
  },
  {
@@ -233,9 +233,9 @@
  {
   "name": "Centre for Internet and Society",
   "type": "page",
-  "status": "ok",
-  "count": 18,
-  "error": ""
+  "status": "error",
+  "count": 0,
+  "error": "HTTPSConnectionPool(host='cis-india.org', port=443): Read timed out. (read timeout=25)"
  },
  {
   "name": "Observer Research Foundation",
@@ -269,7 +269,7 @@
   "name": "Discord",
   "type": "greenhouse",
   "status": "ok",
-  "count": 43,
+  "count": 41,
   "error": ""
  },
  {
@@ -283,14 +283,14 @@
   "name": "Pinterest",
   "type": "greenhouse",
   "status": "ok",
-  "count": 165,
+  "count": 170,
   "error": ""
  },
  {
   "name": "Duolingo",
   "type": "greenhouse",
   "status": "ok",
-  "count": 58,
+  "count": 57,
   "error": ""
  },
  {
@@ -304,7 +304,7 @@
   "name": "Coursera",
   "type": "greenhouse",
   "status": "ok",
-  "count": 29,
+  "count": 30,
   "error": ""
  },
  {
@@ -592,7 +592,7 @@
   "type": "page",
   "status": "error",
   "count": 0,
-  "error": "HTTPSConnectionPool(host='ncwc.gov.bt', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='ncwc.gov.bt', port=443) at 0x7fc1c8559fd0>, 'Connection to ncw"
+  "error": "HTTPSConnectionPool(host='ncwc.gov.bt', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='ncwc.gov.bt', port=443) at 0x7ff1c8099760>, 'Connection to ncw"
  },
  {
   "name": "Bhutan Media Foundation",
@@ -605,7 +605,7 @@
   "name": "Centre for Bhutan and GNH Studies",
   "type": "page",
   "status": "ok",
-  "count": 35,
+  "count": 36,
   "error": ""
  },
  {
@@ -899,7 +899,7 @@
   "name": "Anthropic Economics and Policy Fellows",
   "type": "page",
   "status": "ok",
-  "count": 663,
+  "count": 669,
   "error": ""
  },
  {

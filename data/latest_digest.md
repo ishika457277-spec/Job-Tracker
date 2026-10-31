@@ -1,125 +1,125 @@
-Job digest 2026-10-30: 30 shown (97 more held for tomorrow)
+Job digest 2026-10-31: 30 shown (70 more held for tomorrow)
 
-New job: Protection and Migration Governance Policy Consultant IOM - International Organization for Migration Beirut UG - Ungraded - Impactpool
-[rules 7] location unspecified; title: policy, governance
-https://www.impactpool.org/jobs/1244844
-
-Internet Governance - CIS India (India)
-[rules 6] location: india; title: governance
-https://cis-india.org/internet-governance
-
-Grand Challenges Research programs on hard open problems in AI safety. - Apart Research (Remote)
-[rules 6] remote; title: ai safety
-https://apartresearch.com/grand-challenges
-
-Social Policy - Centre for Policy Research and Governance (India)
-[rules 5] location: india; title: policy
-https://www.cprgindia.org/social-policy-inclusion/
-
-Governance Studies - Centre for Policy Research and Governance (India)
-[rules 5] location: india; title: governance
-https://www.cprgindia.org/governance-studies/
-
-Weekly Policy Digest - Centre for Policy Research and Governance (India)
-[rules 5] location: india; title: policy
-https://www.cprgindia.org/weekly-policy-digest/
-
-Sustainability and Climate Policy Course - Centre for Policy Research and Governance (India)
-[rules 5] location: india; title: policy
-https://www.cprgindia.org/sustainability-and-climate-policy-course/
-
-Future Policy Leaders Programme (FPLP) - Centre for Policy Research and Governance (India)
-[rules 5] location: india; title: policy
-https://www.cprgindia.org/future-policy-leaders-programme/
-
-Computable General Equilibrium Modelling & Policy Analysis - National Council of Applied Economic Research (India)
-[rules 5] location: india; title: policy
-https://ncaer.org/computable-general-equilibrium-modelling-and-policy-analysis/
-
-Download Gender Policy - National Council of Applied Economic Research (India)
-[rules 5] location: india; title: policy
-https://www.ncaer.org/wp-content/uploads/2025/01/NCAER_Gender_Policy.pdf
-
-Protection of human rights : Procedure 104 - UNESCO (Global)
-[rules 5] remote; title: human rights
-https://www.unesco.org/en/legal-affairs/cr-committee/104-procedure
-
-AI Policy Sourcebook - Center for AI and Digital Policy (Remote)
-[rules 5] remote; title: policy
-https://www.caidp.org/resources/ai-policy-sourcebook/
-
-AI Policy Frameworks - Center for AI and Digital Policy (Remote)
-[rules 5] remote; title: policy
-https://www.caidp.org/resources/ai-policy-frameworks/
-
-AI Policy Clinic - Center for AI and Digital Policy (Remote)
-[rules 5] remote; title: policy
-https://www.caidp.org/global-academic-network/ai-policy-clinic/
-
-Privacy Policy - Center for AI and Digital Policy (Remote)
-[rules 5] remote; title: policy
-https://www.caidp.org/j/privacy
-
-ISAIL AI Policy Academic Council - Indian Society of Artificial Intelligence and Law (Remote)
-[rules 5] remote; title: policy
-https://www.isail.in/globalprofiles
-
-Privacy Policy - Apart Research (Remote)
-[rules 5] remote; title: policy
-https://apartresearch.com/info/privacy-policy
-
-Privacy Policy - Asia House (Remote)
-[rules 5] remote; title: policy
-https://www.asiahouse.org/privacy-policy/
-
-Responsible AI - PRIVO (Remote)
-[rules 5] remote; title: responsible ai
-https://www.privo.com/responsible-ai
-
-PRIVACY POLICY - PRIVO (Remote)
-[rules 5] remote; title: policy
-https://www.privo.com/privo-privacy-policy?hsLang=en
-
-Prajnya Resource Centre for Women in Politics and Policy - The Prajnya Trust (India)
-[rules 5] location: india; title: policy
-https://www.prajnya.in/psg/prc
-
-Strengthen the United Nations Human Rights Mechanisms - Child Rights Connect (Global)
-[rules 5] remote; title: human rights
-https://childrightsconnect.org/strengthening-the-united-nations-human-rights-mechanisms/
-
-Human Rights Council - Child Rights Connect (Global)
-[rules 5] remote; title: human rights
-https://childrightsconnect.org/united-nations-entry-points/human-rights-council/
-
-Privacy Policy - Child Rights Connect (Global)
-[rules 5] remote; title: policy
-http://www.childrightsconnect.org/privacy-policy/
-
-New job: IRC Wichita Policy Intern Spring 2027 IRC - International Rescue Committee Wichita Internship - Internship - Impactpool
+New job: Economic Policy and Development Strategy Associate UNV - United Nations Volunteers Indonesia Junior - Impactpool
 [rules 4] location unspecified; title: policy
-https://www.impactpool.org/jobs/1244866
+https://www.impactpool.org/jobs/1245102
 
-New job: Horizontal Policy Officer - RECOVERY AND RESILIENCE FACILITY (RRF) EC - European Commission Brussels AD 5 - AD 7 - Impactpool
+Programme Policy Officer NOB IDM, Port au Prince, Haiti WFP - World Food Programme Port-au-Prince NoB - Impactpool
 [rules 4] location unspecified; title: policy
-https://www.impactpool.org/jobs/1244821
+https://www.impactpool.org/jobs/1244856
 
-New job: Policy Coordinator EC - European Commission Brussels AD 5 - AD 7 - Impactpool
+AI Governance Observatory - Atlas AI Institute
+[rules 4] location unspecified; title: governance
+https://atlasai.institute/atlas-ai-governance/
+
+Atlas AI Policy Frameworks - Atlas AI Institute
 [rules 4] location unspecified; title: policy
-https://www.impactpool.org/jobs/1244825
+https://atlasai.institute/atlas-ai-policy-frameworks/
 
-02 Responsible AI Deployments Flagship Which AI solutions already solve a real problem locally, with users who actually benefit? Wave 2 - AIFOD
-[rules 4] location unspecified; title: responsible ai
-https://af.net/rankings/#deployments
+Bangladesh AI Policy - Atlas AI Institute
+[rules 4] location unspecified; title: policy
+https://atlasai.institute/bangladesh-national-ai-policy-framework/
 
-AI and Online Safety: Emerging Risks and Opportunities - AI Asia Pacific Institute
+Privacy Policy - Atlas AI Institute
+[rules 4] location unspecified; title: policy
+https://atlasai.institute/privacy-policy/
+
+Online Safety Resource Library - Cyberlite
 [rules 4] location unspecified; title: online safety
-https://aiasiapacific.org/our-work/ai-and-online-safety-emerging-risks-and-opportunities/
+https://www.cyberlite.org/resource-library
 
-Policy Brief: ChatGPT and Other Generative AI Systems - AI Asia Pacific Institute
+AI Safety in the Classroom - Cyberlite
+[rules 4] location unspecified; title: ai safety
+https://www.cyberlite.org/ai-safety-classroom-toolkit
+
+Privacy Policy - Cyberlite
 [rules 4] location unspecified; title: policy
-https://wkf.ms/3ZzppWg
+https://www.cyberlite.org/privacy-policy
 
-Sources: 99/141 returned listings
-Problems: Google DeepMind (error), Mistral AI (error), Tech Policy Press (empty), CDT (error), CIGI (error), Observer Research Foundation (error), Takshashila Institution (error), IT for Change (error), 5Rights Foundation (error), Internet Watch Foundation (error), ECPAT International (error), WeProtect Global Alliance (error), Fairplay (error), Childnet (error), Save the Children India (empty), HAQ Centre for Child Rights (error), CRY India (empty), Aarambh India (error), Cyber Peace Foundation (error), Internet Freedom Foundation (error), Teach For India (error), Pratham (error), RSIS (error), ASEAN Secretariat (empty), KISA (error), EngageMedia (error), Government Technology Agency Bhutan (error), National Commission for Women and Children Bhutan (error), Hong Kong Polytechnic University (empty), Tencent Careers (empty), DSET Taiwan (error), FORUM-ASIA (error), Centre for Independent Journalism Malaysia (empty), Digital Rights Foundation Pakistan (error), Centre for Applied AI Governance (empty), World Vision International (error), IGES Japan (error), Fairwork (error), eSafety Commissioner Australia (error)
+Research & Ethics - Future of Privacy Forum
+[rules 4] location unspecified; title: ethics
+https://fpf.org/issue/research-and-ethics/
+
+Youth Privacy - Future of Privacy Forum
+[rules 4] location unspecified; title: youth
+https://fpf.org/issue/education/
+
+Policy Analyst – Latin America (Temporary) - Future of Privacy Forum
+[rules 4] location unspecified; title: policy
+https://fpf.org/policy-analyst-latin-america-temporary/
+
+Privacy Policy - Future of Privacy Forum
+[rules 4] location unspecified; title: policy
+https://fpf.org/privacy-policy/
+
+Digital Rights Newsletter - Digital Rights Job Board
+[rules 4] location unspecified; title: digital rights
+https://www.digitalrights.community/weekly-newsletter
+
+Digital Rights Primers - Digital Rights Job Board
+[rules 4] location unspecified; title: digital rights
+https://www.digitalrights.community/primers
+
+Privacy Policy - Digital Rights Job Board
+[rules 4] location unspecified; title: policy
+https://www.digitalrights.community/privacy-policy
+
+Privacy Policy - IAPS
+[rules 4] location unspecified; title: policy
+https://www.iaps.ai/privacy-policy
+
+Internet Policy - Internet Society (Global)
+[rules 4] remote; title: policy
+https://www.internetsociety.org/our-work/internet-policy/
+
+Access to Information Policy - UNESCO (Global)
+[rules 4] remote; title: policy
+https://en.unesco.org/this-site/access-to-information-policy
+
+Responsible Disclosure Policy - Apart Research (Remote)
+[rules 4] remote; title: policy
+https://apartresearch.com/info/responsible-disclosure-policy
+
+Cookie Policy - Asia House (Remote)
+[rules 4] remote; title: policy
+https://www.asiahouse.org/cookie-policy/
+
+Children’s Code - PRIVO (Remote)
+[rules 4] remote; title: children
+https://www.privo.com/children-code
+
+UK Children's Code - PRIVO (Remote)
+[rules 4] remote; title: children
+https://www.privo.com/learn-more-uk-children-code
+
+Children’s Advisory Team - Child Rights Connect (Global)
+[rules 4] remote; title: children
+https://childrightsconnect.org/our-children-advisory-team/
+
+Children and Violence - Child Rights Connect (Global)
+[rules 4] remote; title: children
+http://childrightsconnect.org/working_groups/children-and-violence/
+
+Children and Armed Conflict - Child Rights Connect (Global)
+[rules 4] remote; title: children
+http://childrightsconnect.org/working_groups/children-and-armed-conflict/
+
+Children of Incarcerated Parents - Child Rights Connect (Global)
+[rules 4] remote; title: children
+http://childrightsconnect.org/working_groups/children-of-incarcerated-parents/
+
+Children’s Rights and the Environment - Child Rights Connect (Global)
+[rules 4] remote; title: children
+https://childrightsconnect.org/working_groups/children-and-environment/
+
+Child Participation - Child Rights Connect (Global)
+[rules 4] remote; title: child
+http://childrightsconnect.org/working_groups/child-participation/
+
+Children and the Right to Education - Child Rights Connect (Global)
+[rules 4] remote; title: children
+https://childrightsconnect.org/working_groups/children-and-the-right-to-education/
+
+Sources: 98/141 returned listings
+Problems: Google DeepMind (error), Mistral AI (error), Tech Policy Press (empty), CDT (error), CIGI (error), Centre for Internet and Society (error), Observer Research Foundation (error), Takshashila Institution (error), IT for Change (error), 5Rights Foundation (error), Internet Watch Foundation (error), ECPAT International (error), WeProtect Global Alliance (error), Fairplay (error), Childnet (error), Save the Children India (empty), HAQ Centre for Child Rights (error), CRY India (empty), Aarambh India (error), Cyber Peace Foundation (error), Internet Freedom Foundation (error), Teach For India (error), Pratham (error), RSIS (error), ASEAN Secretariat (empty), KISA (error), EngageMedia (error), Government Technology Agency Bhutan (error), National Commission for Women and Children Bhutan (error), Hong Kong Polytechnic University (empty), Tencent Careers (empty), DSET Taiwan (error), FORUM-ASIA (error), Centre for Independent Journalism Malaysia (empty), Digital Rights Foundation Pakistan (error), Centre for Applied AI Governance (empty), World Vision International (error), IGES Japan (error), Fairwork (error), eSafety Commissioner Australia (error)
 Skipped (no key): ReliefWeb, Adzuna India, Jooble
