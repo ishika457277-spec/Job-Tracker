@@ -1,125 +1,125 @@
-Job digest 2026-10-31: 30 shown (70 more held for tomorrow)
+Job digest 2026-11-01: 30 shown (34 more held for tomorrow)
 
-New job: Economic Policy and Development Strategy Associate UNV - United Nations Volunteers Indonesia Junior - Impactpool
-[rules 4] location unspecified; title: policy
-https://www.impactpool.org/jobs/1245102
-
-Programme Policy Officer NOB IDM, Port au Prince, Haiti WFP - World Food Programme Port-au-Prince NoB - Impactpool
-[rules 4] location unspecified; title: policy
-https://www.impactpool.org/jobs/1244856
-
-AI Governance Observatory - Atlas AI Institute
-[rules 4] location unspecified; title: governance
-https://atlasai.institute/atlas-ai-governance/
-
-Atlas AI Policy Frameworks - Atlas AI Institute
-[rules 4] location unspecified; title: policy
-https://atlasai.institute/atlas-ai-policy-frameworks/
-
-Bangladesh AI Policy - Atlas AI Institute
-[rules 4] location unspecified; title: policy
-https://atlasai.institute/bangladesh-national-ai-policy-framework/
-
-Privacy Policy - Atlas AI Institute
-[rules 4] location unspecified; title: policy
-https://atlasai.institute/privacy-policy/
-
-Online Safety Resource Library - Cyberlite
-[rules 4] location unspecified; title: online safety
-https://www.cyberlite.org/resource-library
-
-AI Safety in the Classroom - Cyberlite
-[rules 4] location unspecified; title: ai safety
-https://www.cyberlite.org/ai-safety-classroom-toolkit
-
-Privacy Policy - Cyberlite
-[rules 4] location unspecified; title: policy
-https://www.cyberlite.org/privacy-policy
-
-Research & Ethics - Future of Privacy Forum
-[rules 4] location unspecified; title: ethics
-https://fpf.org/issue/research-and-ethics/
-
-Youth Privacy - Future of Privacy Forum
-[rules 4] location unspecified; title: youth
-https://fpf.org/issue/education/
-
-Policy Analyst – Latin America (Temporary) - Future of Privacy Forum
-[rules 4] location unspecified; title: policy
-https://fpf.org/policy-analyst-latin-america-temporary/
-
-Privacy Policy - Future of Privacy Forum
-[rules 4] location unspecified; title: policy
-https://fpf.org/privacy-policy/
-
-Digital Rights Newsletter - Digital Rights Job Board
-[rules 4] location unspecified; title: digital rights
-https://www.digitalrights.community/weekly-newsletter
-
-Digital Rights Primers - Digital Rights Job Board
-[rules 4] location unspecified; title: digital rights
-https://www.digitalrights.community/primers
-
-Privacy Policy - Digital Rights Job Board
-[rules 4] location unspecified; title: policy
-https://www.digitalrights.community/privacy-policy
-
-Privacy Policy - IAPS
-[rules 4] location unspecified; title: policy
-https://www.iaps.ai/privacy-policy
-
-Internet Policy - Internet Society (Global)
-[rules 4] remote; title: policy
-https://www.internetsociety.org/our-work/internet-policy/
-
-Access to Information Policy - UNESCO (Global)
-[rules 4] remote; title: policy
-https://en.unesco.org/this-site/access-to-information-policy
-
-Responsible Disclosure Policy - Apart Research (Remote)
-[rules 4] remote; title: policy
-https://apartresearch.com/info/responsible-disclosure-policy
-
-Cookie Policy - Asia House (Remote)
-[rules 4] remote; title: policy
-https://www.asiahouse.org/cookie-policy/
-
-Children’s Code - PRIVO (Remote)
+Empower Children’s Rights Defenders - Child Rights Connect (Global)
 [rules 4] remote; title: children
-https://www.privo.com/children-code
+https://childrightsconnect.org/empowering-childrens-rights-defenders/
 
-UK Children's Code - PRIVO (Remote)
-[rules 4] remote; title: children
-https://www.privo.com/learn-more-uk-children-code
-
-Children’s Advisory Team - Child Rights Connect (Global)
-[rules 4] remote; title: children
-https://childrightsconnect.org/our-children-advisory-team/
-
-Children and Violence - Child Rights Connect (Global)
-[rules 4] remote; title: children
-http://childrightsconnect.org/working_groups/children-and-violence/
-
-Children and Armed Conflict - Child Rights Connect (Global)
-[rules 4] remote; title: children
-http://childrightsconnect.org/working_groups/children-and-armed-conflict/
-
-Children of Incarcerated Parents - Child Rights Connect (Global)
-[rules 4] remote; title: children
-http://childrightsconnect.org/working_groups/children-of-incarcerated-parents/
-
-Children’s Rights and the Environment - Child Rights Connect (Global)
-[rules 4] remote; title: children
-https://childrightsconnect.org/working_groups/children-and-environment/
-
-Child Participation - Child Rights Connect (Global)
+UN Committee on the Rights of the Child - Child Rights Connect (Global)
 [rules 4] remote; title: child
-http://childrightsconnect.org/working_groups/child-participation/
+https://childrightsconnect.org/un-committee-on-the-rights-of-the-child/
 
-Children and the Right to Education - Child Rights Connect (Global)
+Publications for children - Child Rights Connect (Global)
 [rules 4] remote; title: children
-https://childrightsconnect.org/working_groups/children-and-the-right-to-education/
+https://childrightsconnect.org/publications-for-children/
 
-Sources: 98/141 returned listings
-Problems: Google DeepMind (error), Mistral AI (error), Tech Policy Press (empty), CDT (error), CIGI (error), Centre for Internet and Society (error), Observer Research Foundation (error), Takshashila Institution (error), IT for Change (error), 5Rights Foundation (error), Internet Watch Foundation (error), ECPAT International (error), WeProtect Global Alliance (error), Fairplay (error), Childnet (error), Save the Children India (empty), HAQ Centre for Child Rights (error), CRY India (empty), Aarambh India (error), Cyber Peace Foundation (error), Internet Freedom Foundation (error), Teach For India (error), Pratham (error), RSIS (error), ASEAN Secretariat (empty), KISA (error), EngageMedia (error), Government Technology Agency Bhutan (error), National Commission for Women and Children Bhutan (error), Hong Kong Polytechnic University (empty), Tencent Careers (empty), DSET Taiwan (error), FORUM-ASIA (error), Centre for Independent Journalism Malaysia (empty), Digital Rights Foundation Pakistan (error), Centre for Applied AI Governance (empty), World Vision International (error), IGES Japan (error), Fairwork (error), eSafety Commissioner Australia (error)
+European Network of Ombudspersons for Children - Child Rights International Network (Global)
+[rules 4] remote; title: children
+http://enoc.eu/?page_id=210
+
+Governance - Child Rights International Network (Global)
+[rules 4] remote; title: governance
+https://home.crin.org/governance
+
+IRB IRB Independent Review Board: AI deployment analysis and policy advice - AIFOD
+[rules 3] location unspecified; title: policy
+https://af.net/irb/
+
+Governance Observatory - Atlas AI Institute
+[rules 3] location unspecified; title: governance
+https://atlasai.institute/atlas-global-ai-governance-observatory/
+
+Governance Platform - Atlas AI Institute
+[rules 3] location unspecified; title: governance
+https://atlasai.institute/atlas-ai-governance-platform/
+
+Youth Ambassador Coalition - Cyberlite
+[rules 3] location unspecified; title: youth
+https://www.cyberlite.org/ambassadors
+
+U.S. Policy Internships - Future of Privacy Forum
+[rules 3] location unspecified; title: policy
+https://fpf.org/us-policy-internships/
+
+LG AI Research - LG AI Research (South Korea)
+[rules 3] location: korea; title: research
+https://www.lgresearch.ai/
+
+RESEARCH - LG AI Research (South Korea)
+[rules 3] location: korea; title: research
+https://www.lgresearch.ai/ourwork/research
+
+RESEARCH BLOG - LG AI Research (South Korea)
+[rules 3] location: korea; title: research
+https://www.lgresearch.ai/blog
+
+Research - Asia-Pacific Institute for Broadcasting Development (Asia-Pacific)
+[rules 3] location: asia; title: research
+https://aibd.org.my/research/
+
+Research - Secure AI Futures Lab (India)
+[rules 3] location: india; title: research
+https://www.secureaifutureslab.com/#research
+
+Research Fellow - Secure AI Futures Lab (India)
+[rules 3] location: india; title: research, fellow
+https://www.secureaifutureslab.com/careers/research-fellow
+
+Special Projects Fellow - Secure AI Futures Lab (India)
+[rules 3] location: india; title: fellow
+https://www.secureaifutureslab.com/careers/special-projects-fellow
+
+Research - Policy and Research Initiative (India)
+[rules 3] location: india; title: research
+https://priresearch.in/research
+
+Research Assistant Apply by 10 Nov 2026 · Malappuram, Kerala View → - Policy and Research Initiative (India)
+[rules 3] location: india; title: research, assistant
+https://priresearch.in/careers/jobs/research-associate
+
+Project Coordinator Apply by 10 Nov 2026 · Malappuram, Kerala View → - Policy and Research Initiative (India)
+[rules 3] location: india; title: coordinator
+https://priresearch.in/careers/jobs/project-coordinator
+
+Apply for a fellowship or internship → - Policy and Research Initiative (India)
+[rules 3] location: india; title: fellowship, internship
+https://priresearch.in/careers/apply
+
+Abhishek is Digital Future Labâs head bookkeeper and administrative manager. More Details Abhishek A. Morajkar Accounts Associate Goa - Digital Futures Lab (India)
+[rules 3] location: india; title: associate
+https://www.digitalfutureslab.in/about/abhishek-a-morajkar
+
+Research Verticals - National Council of Applied Economic Research (India)
+[rules 3] location: india; title: research
+https://ncaer.org/research-vertical/
+
+JD: Research Assistant - AI/ML - Centre for Responsible AI, IIT Madras (India)
+[rules 3] location: india; title: research, assistant
+https://cerai.iitm.ac.in/docs/careers/bmgf-evaluation-tool/research-assistant-ai-ml.pdf
+
+JD: Research Assistant - Learning Science - Centre for Responsible AI, IIT Madras (India)
+[rules 3] location: india; title: research, assistant
+https://cerai.iitm.ac.in/docs/careers/bmgf-evaluation-tool/research-assistant-learning-science.pdf
+
+JD: Junior Researcher, LLM Agents - Centre for Responsible AI, IIT Madras (India)
+[rules 3] location: india; title: researcher, junior
+https://docs.google.com/document/d/1ihZjUEZxfSeqd1OcAcOt3jjs8LI5qGfXuAZND9J07F8/edit?usp=sharing
+
+Research - Open Technology Fund (Remote)
+[rules 2] remote; title: research
+https://www.opentech.fund/research-2/
+
+Project Research - Open Technology Fund (Remote)
+[rules 2] remote; title: research
+https://www.opentech.fund/news/?filter1=research-updates
+
+Join the Fellowship Program - Internet Society (Global)
+[rules 2] remote; title: fellowship
+https://www.internetsociety.org/fellowship/
+
+Research - The AI Cybersecurity Institute (Remote)
+[rules 2] remote; title: research
+https://www.taici.ai/research
+
+Sources: 92/141 returned listings
+Problems: Google DeepMind (error), Mistral AI (error), Tech Policy Press (empty), CDT (error), CIGI (error), Centre for Internet and Society (error), Observer Research Foundation (error), Takshashila Institution (error), IT for Change (error), 5Rights Foundation (error), Internet Watch Foundation (error), ECPAT International (error), WeProtect Global Alliance (error), Fairplay (error), Childnet (error), Save the Children India (empty), HAQ Centre for Child Rights (error), CRY India (empty), Aarambh India (error), Cyber Peace Foundation (error), Internet Freedom Foundation (error), Teach For India (error), Pratham (error), AI Asia Pacific Institute (error), RSIS (error), ASEAN Secretariat (empty), KISA (error), Daayitwa Nepal (error), EngageMedia (error), Government Technology Agency Bhutan (error), National Commission for Women and Children Bhutan (error), Hong Kong Polytechnic University (empty), Tencent Careers (empty), DSET Taiwan (error), FORUM-ASIA (error), Centre for Independent Journalism Malaysia (empty), Digital Rights Foundation Pakistan (error), Centre for Applied AI Governance (empty), Centre for Policy Research and Governance (error), World Vision International (error), CAPRI Taiwan (error), IGES Japan (error), Prajnya (error), Fairwork (error), eSafety Commissioner Australia (error), Information Commissioner's Office (error)
 Skipped (no key): ReliefWeb, Adzuna India, Jooble
