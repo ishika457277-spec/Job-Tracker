@@ -24,7 +24,7 @@
   "name": "Jobicy",
   "type": "jobicy",
   "status": "ok",
-  "count": 56,
+  "count": 54,
   "error": ""
  },
  {
@@ -73,7 +73,7 @@
   "name": "Anthropic",
   "type": "greenhouse",
   "status": "ok",
-  "count": 675,
+  "count": 677,
   "error": ""
  },
  {
@@ -101,14 +101,14 @@
   "name": "OpenAI",
   "type": "ashby",
   "status": "ok",
-  "count": 810,
+  "count": 811,
   "error": ""
  },
  {
   "name": "Cohere",
   "type": "ashby",
   "status": "ok",
-  "count": 122,
+  "count": 119,
   "error": ""
  },
  {
@@ -171,7 +171,7 @@
   "name": "Impactpool",
   "type": "page",
   "status": "ok",
-  "count": 47,
+  "count": 48,
   "error": ""
  },
  {
@@ -283,14 +283,14 @@
   "name": "Pinterest",
   "type": "greenhouse",
   "status": "ok",
-  "count": 170,
+  "count": 171,
   "error": ""
  },
  {
   "name": "Duolingo",
   "type": "greenhouse",
   "status": "ok",
-  "count": 57,
+  "count": 56,
   "error": ""
  },
  {
@@ -437,15 +437,15 @@
   "name": "AIFOD",
   "type": "page",
   "status": "ok",
-  "count": 55,
+  "count": 57,
   "error": ""
  },
  {
   "name": "AI Asia Pacific Institute",
   "type": "page",
-  "status": "error",
-  "count": 0,
-  "error": "HTTP 403 from https://aiasiapacific.org/get-involved/internships/"
+  "status": "ok",
+  "count": 22,
+  "error": ""
  },
  {
   "name": "Atlas AI Institute",
@@ -548,9 +548,9 @@
  {
   "name": "Daayitwa Nepal",
   "type": "page",
-  "status": "error",
-  "count": 0,
-  "error": "HTTP 403 from https://daayitwa.org/"
+  "status": "ok",
+  "count": 15,
+  "error": ""
  },
  {
   "name": "NKIS Korea",
@@ -592,7 +592,7 @@
   "type": "page",
   "status": "error",
   "count": 0,
-  "error": "HTTPSConnectionPool(host='ncwc.gov.bt', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='ncwc.gov.bt', port=443) at 0x7fe290eba510>, 'Connection to ncw"
+  "error": "HTTPSConnectionPool(host='ncwc.gov.bt', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='ncwc.gov.bt', port=443) at 0x7f0ae4539760>, 'Connection to ncw"
  },
  {
   "name": "Bhutan Media Foundation",
@@ -765,9 +765,9 @@
  {
   "name": "Centre for Policy Research and Governance",
   "type": "page",
-  "status": "error",
-  "count": 0,
-  "error": "HTTP 403 from https://www.cprgindia.org/careers/"
+  "status": "ok",
+  "count": 30,
+  "error": ""
  },
  {
   "name": "Policy and Research Initiative",
@@ -828,9 +828,9 @@
  {
   "name": "CAPRI Taiwan",
   "type": "page",
-  "status": "error",
-  "count": 0,
-  "error": "HTTP 403 from https://caprifoundation.org/"
+  "status": "ok",
+  "count": 55,
+  "error": ""
  },
  {
   "name": "IGES Japan",
@@ -899,7 +899,7 @@
   "name": "Anthropic Economics and Policy Fellows",
   "type": "page",
   "status": "ok",
-  "count": 669,
+  "count": 671,
   "error": ""
  },
  {
@@ -926,9 +926,9 @@
  {
   "name": "Prajnya",
   "type": "page",
-  "status": "error",
-  "count": 0,
-  "error": "HTTP 403 from https://www.prajnya.in/about/vacancies"
+  "status": "ok",
+  "count": 40,
+  "error": ""
  },
  {
   "name": "Fairwork",
@@ -970,7 +970,7 @@
   "type": "page",
   "status": "error",
   "count": 0,
-  "error": "HTTPSConnectionPool(host='ico.org.uk', port=443): Read timed out. (read timeout=25)"
+  "error": "HTTP 403 from https://ico.org.uk/about-the-ico/jobs/vacancies/"
  },
  {
   "name": "Children's Commissioner for England",
