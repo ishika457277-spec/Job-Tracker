@@ -3,7 +3,7 @@
   "name": "Remotive",
   "type": "remotive",
   "status": "ok",
-  "count": 12,
+  "count": 10,
   "error": ""
  },
  {
@@ -24,7 +24,7 @@
   "name": "Jobicy",
   "type": "jobicy",
   "status": "ok",
-  "count": 54,
+  "count": 57,
   "error": ""
  },
  {
@@ -73,7 +73,7 @@
   "name": "Anthropic",
   "type": "greenhouse",
   "status": "ok",
-  "count": 677,
+  "count": 676,
   "error": ""
  },
  {
@@ -87,35 +87,35 @@
   "name": "Mozilla",
   "type": "greenhouse",
   "status": "ok",
-  "count": 113,
+  "count": 111,
   "error": ""
  },
  {
   "name": "Wikimedia",
   "type": "greenhouse",
   "status": "ok",
-  "count": 15,
+  "count": 14,
   "error": ""
  },
  {
   "name": "OpenAI",
   "type": "ashby",
   "status": "ok",
-  "count": 811,
+  "count": 805,
   "error": ""
  },
  {
   "name": "Cohere",
   "type": "ashby",
   "status": "ok",
-  "count": 119,
+  "count": 120,
   "error": ""
  },
  {
   "name": "Perplexity",
   "type": "ashby",
   "status": "ok",
-  "count": 138,
+  "count": 136,
   "error": ""
  },
  {
@@ -136,7 +136,7 @@
   "name": "Ada Lovelace Institute",
   "type": "page",
   "status": "ok",
-  "count": 19,
+  "count": 20,
   "error": ""
  },
  {
@@ -171,14 +171,14 @@
   "name": "Impactpool",
   "type": "page",
   "status": "ok",
-  "count": 48,
+  "count": 46,
   "error": ""
  },
  {
   "name": "Wantedly",
   "type": "page",
   "status": "ok",
-  "count": 24,
+  "count": 25,
   "error": ""
  },
  {
@@ -269,28 +269,28 @@
   "name": "Discord",
   "type": "greenhouse",
   "status": "ok",
-  "count": 41,
+  "count": 40,
   "error": ""
  },
  {
   "name": "Roblox",
   "type": "greenhouse",
   "status": "ok",
-  "count": 268,
+  "count": 266,
   "error": ""
  },
  {
   "name": "Pinterest",
   "type": "greenhouse",
   "status": "ok",
-  "count": 171,
+  "count": 167,
   "error": ""
  },
  {
   "name": "Duolingo",
   "type": "greenhouse",
   "status": "ok",
-  "count": 56,
+  "count": 54,
   "error": ""
  },
  {
@@ -542,7 +542,7 @@
   "name": "NAAMII Nepal",
   "type": "page",
   "status": "ok",
-  "count": 46,
+  "count": 48,
   "error": ""
  },
  {
@@ -592,7 +592,7 @@
   "type": "page",
   "status": "error",
   "count": 0,
-  "error": "HTTPSConnectionPool(host='ncwc.gov.bt', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='ncwc.gov.bt', port=443) at 0x7f0ae4539760>, 'Connection to ncw"
+  "error": "HTTPSConnectionPool(host='ncwc.gov.bt', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='ncwc.gov.bt', port=443) at 0x7f18ac30ee10>, 'Connection to ncw"
  },
  {
   "name": "Bhutan Media Foundation",
@@ -899,7 +899,7 @@
   "name": "Anthropic Economics and Policy Fellows",
   "type": "page",
   "status": "ok",
-  "count": 671,
+  "count": 670,
   "error": ""
  },
  {
