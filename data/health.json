@@ -3,7 +3,7 @@
   "name": "Remotive",
   "type": "remotive",
   "status": "ok",
-  "count": 11,
+  "count": 10,
   "error": ""
  },
  {
@@ -24,7 +24,7 @@
   "name": "Jobicy",
   "type": "jobicy",
   "status": "ok",
-  "count": 170,
+  "count": 152,
   "error": ""
  },
  {
@@ -73,7 +73,7 @@
   "name": "Anthropic",
   "type": "greenhouse",
   "status": "ok",
-  "count": 680,
+  "count": 681,
   "error": ""
  },
  {
@@ -87,7 +87,7 @@
   "name": "Mozilla",
   "type": "greenhouse",
   "status": "ok",
-  "count": 111,
+  "count": 113,
   "error": ""
  },
  {
@@ -101,21 +101,21 @@
   "name": "OpenAI",
   "type": "ashby",
   "status": "ok",
-  "count": 813,
+  "count": 811,
   "error": ""
  },
  {
   "name": "Cohere",
   "type": "ashby",
   "status": "ok",
-  "count": 119,
+  "count": 118,
   "error": ""
  },
  {
   "name": "Perplexity",
   "type": "ashby",
   "status": "ok",
-  "count": 137,
+  "count": 139,
   "error": ""
  },
  {
@@ -171,14 +171,14 @@
   "name": "Impactpool",
   "type": "page",
   "status": "ok",
-  "count": 45,
+  "count": 43,
   "error": ""
  },
  {
   "name": "Wantedly",
   "type": "page",
   "status": "ok",
-  "count": 27,
+  "count": 24,
   "error": ""
  },
  {
@@ -269,28 +269,28 @@
   "name": "Discord",
   "type": "greenhouse",
   "status": "ok",
-  "count": 31,
+  "count": 27,
   "error": ""
  },
  {
   "name": "Roblox",
   "type": "greenhouse",
   "status": "ok",
-  "count": 270,
+  "count": 271,
   "error": ""
  },
  {
   "name": "Pinterest",
   "type": "greenhouse",
   "status": "ok",
-  "count": 167,
+  "count": 169,
   "error": ""
  },
  {
   "name": "Duolingo",
   "type": "greenhouse",
   "status": "ok",
-  "count": 54,
+  "count": 55,
   "error": ""
  },
  {
@@ -304,7 +304,7 @@
   "name": "Coursera",
   "type": "greenhouse",
   "status": "ok",
-  "count": 32,
+  "count": 33,
   "error": ""
  },
  {
@@ -346,7 +346,7 @@
   "name": "Common Sense Media",
   "type": "page",
   "status": "ok",
-  "count": 33,
+  "count": 34,
   "error": ""
  },
  {
@@ -382,7 +382,7 @@
   "type": "page",
   "status": "error",
   "count": 0,
-  "error": "HTTP 403 from https://www.haqcrc.org/careers/"
+  "error": "HTTPSConnectionPool(host='www.haqcrc.org', port=443): Max retries exceeded with url: /careers/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.haqcrc.org', port=443) at 0x7f85804abbf0>, 'Con"
  },
  {
   "name": "CRY India",
@@ -486,7 +486,7 @@
   "name": "KISDI",
   "type": "page",
   "status": "ok",
-  "count": 35,
+  "count": 34,
   "error": ""
  },
  {
@@ -536,7 +536,7 @@
   "type": "page",
   "status": "error",
   "count": 0,
-  "error": "HTTPSConnectionPool(host='www.kisa.or.kr', port=443): Max retries exceeded with url: /eng/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: "
+  "error": "HTTP 400 from https://www.kisa.or.kr/eng/"
  },
  {
   "name": "NAAMII Nepal",
@@ -592,7 +592,7 @@
   "type": "page",
   "status": "error",
   "count": 0,
-  "error": "HTTPSConnectionPool(host='ncwc.gov.bt', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='ncwc.gov.bt', port=443) at 0x7ff35c852780>, 'Connection to ncw"
+  "error": "HTTPSConnectionPool(host='ncwc.gov.bt', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='ncwc.gov.bt', port=443) at 0x7f8580417e90>, 'Connection to ncw"
  },
  {
   "name": "Bhutan Media Foundation",
@@ -899,7 +899,7 @@
   "name": "Anthropic Economics and Policy Fellows",
   "type": "page",
   "status": "ok",
-  "count": 674,
+  "count": 675,
   "error": ""
  },
  {
@@ -941,7 +941,7 @@
   "name": "Child Rights Connect",
   "type": "page",
   "status": "ok",
-  "count": 64,
+  "count": 62,
   "error": ""
  },
  {
