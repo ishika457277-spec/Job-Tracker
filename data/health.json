@@ -3,7 +3,7 @@
   "name": "Remotive",
   "type": "remotive",
   "status": "ok",
-  "count": 10,
+  "count": 12,
   "error": ""
  },
  {
@@ -31,7 +31,7 @@
   "name": "Working Nomads",
   "type": "workingnomads",
   "status": "ok",
-  "count": 33,
+  "count": 32,
   "error": ""
  },
  {
@@ -73,7 +73,7 @@
   "name": "Anthropic",
   "type": "greenhouse",
   "status": "ok",
-  "count": 677,
+  "count": 675,
   "error": ""
  },
  {
@@ -87,28 +87,28 @@
   "name": "Mozilla",
   "type": "greenhouse",
   "status": "ok",
-  "count": 112,
+  "count": 113,
   "error": ""
  },
  {
   "name": "Wikimedia",
   "type": "greenhouse",
   "status": "ok",
-  "count": 14,
+  "count": 15,
   "error": ""
  },
  {
   "name": "OpenAI",
   "type": "ashby",
   "status": "ok",
-  "count": 823,
+  "count": 820,
   "error": ""
  },
  {
   "name": "Cohere",
   "type": "ashby",
   "status": "ok",
-  "count": 119,
+  "count": 124,
   "error": ""
  },
  {
@@ -164,21 +164,21 @@
   "name": "80,000 Hours Jobs",
   "type": "page",
   "status": "ok",
-  "count": 41,
+  "count": 42,
   "error": ""
  },
  {
   "name": "Impactpool",
   "type": "page",
   "status": "ok",
-  "count": 44,
+  "count": 42,
   "error": ""
  },
  {
   "name": "Wantedly",
   "type": "page",
   "status": "ok",
-  "count": 25,
+  "count": 26,
   "error": ""
  },
  {
@@ -233,9 +233,9 @@
  {
   "name": "Centre for Internet and Society",
   "type": "page",
-  "status": "error",
-  "count": 0,
-  "error": "HTTPSConnectionPool(host='cis-india.org', port=443): Read timed out. (read timeout=25)"
+  "status": "ok",
+  "count": 18,
+  "error": ""
  },
  {
   "name": "Observer Research Foundation",
@@ -269,42 +269,42 @@
   "name": "Discord",
   "type": "greenhouse",
   "status": "ok",
-  "count": 26,
+  "count": 27,
   "error": ""
  },
  {
   "name": "Roblox",
   "type": "greenhouse",
   "status": "ok",
-  "count": 271,
+  "count": 269,
   "error": ""
  },
  {
   "name": "Pinterest",
   "type": "greenhouse",
   "status": "ok",
-  "count": 166,
+  "count": 168,
   "error": ""
  },
  {
   "name": "Duolingo",
   "type": "greenhouse",
   "status": "ok",
-  "count": 57,
+  "count": 59,
   "error": ""
  },
  {
   "name": "Khan Academy",
   "type": "greenhouse",
   "status": "ok",
-  "count": 4,
+  "count": 3,
   "error": ""
  },
  {
   "name": "Coursera",
   "type": "greenhouse",
   "status": "ok",
-  "count": 37,
+  "count": 40,
   "error": ""
  },
  {
@@ -352,9 +352,9 @@
  {
   "name": "Fairplay",
   "type": "page",
-  "status": "error",
-  "count": 0,
-  "error": "HTTP 403 from https://fairplayforkids.org/about/jobs/"
+  "status": "ok",
+  "count": 17,
+  "error": ""
  },
  {
   "name": "Childnet",
@@ -458,7 +458,7 @@
   "name": "Cyberlite",
   "type": "page",
   "status": "ok",
-  "count": 30,
+  "count": 31,
   "error": ""
  },
  {
@@ -592,7 +592,7 @@
   "type": "page",
   "status": "error",
   "count": 0,
-  "error": "HTTPSConnectionPool(host='ncwc.gov.bt', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='ncwc.gov.bt', port=443) at 0x7fd894daee40>, 'Connection to ncw"
+  "error": "HTTPSConnectionPool(host='ncwc.gov.bt', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='ncwc.gov.bt', port=443) at 0x79c924c0cf20>, 'Connection to ncw"
  },
  {
   "name": "Bhutan Media Foundation",
@@ -667,9 +667,9 @@
  {
   "name": "DSET Taiwan",
   "type": "page",
-  "status": "error",
-  "count": 0,
-  "error": "HTTP 403 from https://dset.tw/en/category/recruitment-en/"
+  "status": "ok",
+  "count": 25,
+  "error": ""
  },
  {
   "name": "Institute for Information Industry Taiwan",
@@ -738,7 +738,7 @@
   "name": "Talos Network Fellowship",
   "type": "page",
   "status": "ok",
-  "count": 13,
+  "count": 12,
   "error": ""
  },
  {
@@ -899,7 +899,7 @@
   "name": "Anthropic Economics and Policy Fellows",
   "type": "page",
   "status": "ok",
-  "count": 671,
+  "count": 669,
   "error": ""
  },
  {
