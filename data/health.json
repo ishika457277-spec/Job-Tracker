@@ -24,14 +24,14 @@
   "name": "Jobicy",
   "type": "jobicy",
   "status": "ok",
-  "count": 148,
+  "count": 144,
   "error": ""
  },
  {
   "name": "Working Nomads",
   "type": "workingnomads",
   "status": "ok",
-  "count": 32,
+  "count": 17,
   "error": ""
  },
  {
@@ -101,7 +101,7 @@
   "name": "OpenAI",
   "type": "ashby",
   "status": "ok",
-  "count": 820,
+  "count": 818,
   "error": ""
  },
  {
@@ -171,14 +171,14 @@
   "name": "Impactpool",
   "type": "page",
   "status": "ok",
-  "count": 42,
+  "count": 41,
   "error": ""
  },
  {
   "name": "Wantedly",
   "type": "page",
   "status": "ok",
-  "count": 26,
+  "count": 27,
   "error": ""
  },
  {
@@ -276,7 +276,7 @@
   "name": "Roblox",
   "type": "greenhouse",
   "status": "ok",
-  "count": 269,
+  "count": 270,
   "error": ""
  },
  {
@@ -437,7 +437,7 @@
   "name": "AIFOD",
   "type": "page",
   "status": "ok",
-  "count": 58,
+  "count": 59,
   "error": ""
  },
  {
@@ -541,9 +541,9 @@
  {
   "name": "NAAMII Nepal",
   "type": "page",
-  "status": "ok",
-  "count": 48,
-  "error": ""
+  "status": "error",
+  "count": 0,
+  "error": "Exceeded 30 redirects."
  },
  {
   "name": "Daayitwa Nepal",
@@ -592,7 +592,7 @@
   "type": "page",
   "status": "error",
   "count": 0,
-  "error": "HTTPSConnectionPool(host='ncwc.gov.bt', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='ncwc.gov.bt', port=443) at 0x79c924c0cf20>, 'Connection to ncw"
+  "error": "HTTPSConnectionPool(host='ncwc.gov.bt', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='ncwc.gov.bt', port=443) at 0x7086585641a0>, 'Connection to ncw"
  },
  {
   "name": "Bhutan Media Foundation",
