@@ -3,7 +3,7 @@
   "name": "Remotive",
   "type": "remotive",
   "status": "ok",
-  "count": 13,
+  "count": 12,
   "error": ""
  },
  {
@@ -24,14 +24,14 @@
   "name": "Jobicy",
   "type": "jobicy",
   "status": "ok",
-  "count": 152,
+  "count": 138,
   "error": ""
  },
  {
   "name": "Working Nomads",
   "type": "workingnomads",
   "status": "ok",
-  "count": 17,
+  "count": 35,
   "error": ""
  },
  {
@@ -87,35 +87,35 @@
   "name": "Mozilla",
   "type": "greenhouse",
   "status": "ok",
-  "count": 114,
+  "count": 112,
   "error": ""
  },
  {
   "name": "Wikimedia",
   "type": "greenhouse",
   "status": "ok",
-  "count": 15,
+  "count": 16,
   "error": ""
  },
  {
   "name": "OpenAI",
   "type": "ashby",
   "status": "ok",
-  "count": 813,
+  "count": 827,
   "error": ""
  },
  {
   "name": "Cohere",
   "type": "ashby",
   "status": "ok",
-  "count": 124,
+  "count": 127,
   "error": ""
  },
  {
   "name": "Perplexity",
   "type": "ashby",
   "status": "ok",
-  "count": 137,
+  "count": 136,
   "error": ""
  },
  {
@@ -164,14 +164,14 @@
   "name": "80,000 Hours Jobs",
   "type": "page",
   "status": "ok",
-  "count": 42,
+  "count": 43,
   "error": ""
  },
  {
   "name": "Impactpool",
   "type": "page",
   "status": "ok",
-  "count": 39,
+  "count": 38,
   "error": ""
  },
  {
@@ -276,21 +276,21 @@
   "name": "Roblox",
   "type": "greenhouse",
   "status": "ok",
-  "count": 270,
+  "count": 273,
   "error": ""
  },
  {
   "name": "Pinterest",
   "type": "greenhouse",
   "status": "ok",
-  "count": 168,
+  "count": 171,
   "error": ""
  },
  {
   "name": "Duolingo",
   "type": "greenhouse",
   "status": "ok",
-  "count": 59,
+  "count": 61,
   "error": ""
  },
  {
@@ -304,7 +304,7 @@
   "name": "Coursera",
   "type": "greenhouse",
   "status": "ok",
-  "count": 39,
+  "count": 40,
   "error": ""
  },
  {
@@ -592,7 +592,7 @@
   "type": "page",
   "status": "error",
   "count": 0,
-  "error": "HTTPSConnectionPool(host='ncwc.gov.bt', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='ncwc.gov.bt', port=443) at 0x7c3280f50ad0>, 'Connection to ncw"
+  "error": "HTTPSConnectionPool(host='ncwc.gov.bt', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='ncwc.gov.bt', port=443) at 0x757bac80f8c0>, 'Connection to ncw"
  },
  {
   "name": "Bhutan Media Foundation",
@@ -625,9 +625,9 @@
  {
   "name": "Paro College of Education",
   "type": "page",
-  "status": "ok",
-  "count": 95,
-  "error": ""
+  "status": "error",
+  "count": 0,
+  "error": "HTTPSConnectionPool(host='www.pce.edu.bt', port=443): Max retries exceeded with url: / (Caused by NewConnectionError(\"HTTPSConnection(host='www.pce.edu.bt', port=443): Failed to establish a new connec"
  },
  {
   "name": "Royal Civil Service Commission Bhutan",
@@ -667,9 +667,9 @@
  {
   "name": "DSET Taiwan",
   "type": "page",
-  "status": "error",
-  "count": 0,
-  "error": "HTTPSConnectionPool(host='dset.tw', port=443): Read timed out. (read timeout=25)"
+  "status": "ok",
+  "count": 25,
+  "error": ""
  },
  {
   "name": "Institute for Information Industry Taiwan",
@@ -871,7 +871,7 @@
   "name": "Apart Research",
   "type": "page",
   "status": "ok",
-  "count": 19,
+  "count": 18,
   "error": ""
  },
  {
@@ -983,7 +983,7 @@
   "name": "NSPCC",
   "type": "page",
   "status": "ok",
-  "count": 34,
+  "count": 35,
   "error": ""
  }
 ]
