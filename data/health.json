@@ -3,7 +3,7 @@
   "name": "Remotive",
   "type": "remotive",
   "status": "ok",
-  "count": 12,
+  "count": 13,
   "error": ""
  },
  {
@@ -24,14 +24,14 @@
   "name": "Jobicy",
   "type": "jobicy",
   "status": "ok",
-  "count": 138,
+  "count": 137,
   "error": ""
  },
  {
   "name": "Working Nomads",
   "type": "workingnomads",
   "status": "ok",
-  "count": 35,
+  "count": 37,
   "error": ""
  },
  {
@@ -73,7 +73,7 @@
   "name": "Anthropic",
   "type": "greenhouse",
   "status": "ok",
-  "count": 676,
+  "count": 677,
   "error": ""
  },
  {
@@ -87,7 +87,7 @@
   "name": "Mozilla",
   "type": "greenhouse",
   "status": "ok",
-  "count": 112,
+  "count": 113,
   "error": ""
  },
  {
@@ -101,7 +101,7 @@
   "name": "OpenAI",
   "type": "ashby",
   "status": "ok",
-  "count": 827,
+  "count": 828,
   "error": ""
  },
  {
@@ -115,7 +115,7 @@
   "name": "Perplexity",
   "type": "ashby",
   "status": "ok",
-  "count": 136,
+  "count": 138,
   "error": ""
  },
  {
@@ -164,21 +164,21 @@
   "name": "80,000 Hours Jobs",
   "type": "page",
   "status": "ok",
-  "count": 43,
+  "count": 40,
   "error": ""
  },
  {
   "name": "Impactpool",
   "type": "page",
   "status": "ok",
-  "count": 38,
+  "count": 39,
   "error": ""
  },
  {
   "name": "Wantedly",
   "type": "page",
   "status": "ok",
-  "count": 24,
+  "count": 25,
   "error": ""
  },
  {
@@ -262,28 +262,28 @@
   "name": "Thorn",
   "type": "greenhouse",
   "status": "ok",
-  "count": 3,
+  "count": 4,
   "error": ""
  },
  {
   "name": "Discord",
   "type": "greenhouse",
   "status": "ok",
-  "count": 27,
+  "count": 26,
   "error": ""
  },
  {
   "name": "Roblox",
   "type": "greenhouse",
   "status": "ok",
-  "count": 273,
+  "count": 276,
   "error": ""
  },
  {
   "name": "Pinterest",
   "type": "greenhouse",
   "status": "ok",
-  "count": 171,
+  "count": 164,
   "error": ""
  },
  {
@@ -465,7 +465,7 @@
   "name": "Future of Privacy Forum",
   "type": "page",
   "status": "ok",
-  "count": 39,
+  "count": 40,
   "error": ""
  },
  {
@@ -528,7 +528,7 @@
   "name": "Japan Digital Agency",
   "type": "page",
   "status": "ok",
-  "count": 20,
+  "count": 19,
   "error": ""
  },
  {
@@ -592,7 +592,7 @@
   "type": "page",
   "status": "error",
   "count": 0,
-  "error": "HTTPSConnectionPool(host='ncwc.gov.bt', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='ncwc.gov.bt', port=443) at 0x757bac80f8c0>, 'Connection to ncw"
+  "error": "HTTPSConnectionPool(host='ncwc.gov.bt', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='ncwc.gov.bt', port=443) at 0x71740897f140>, 'Connection to ncw"
  },
  {
   "name": "Bhutan Media Foundation",
@@ -625,9 +625,9 @@
  {
   "name": "Paro College of Education",
   "type": "page",
-  "status": "error",
-  "count": 0,
-  "error": "HTTPSConnectionPool(host='www.pce.edu.bt', port=443): Max retries exceeded with url: / (Caused by NewConnectionError(\"HTTPSConnection(host='www.pce.edu.bt', port=443): Failed to establish a new connec"
+  "status": "ok",
+  "count": 26,
+  "error": ""
  },
  {
   "name": "Royal Civil Service Commission Bhutan",
@@ -822,7 +822,7 @@
   "name": "Foundation for American Innovation",
   "type": "page",
   "status": "ok",
-  "count": 15,
+  "count": 16,
   "error": ""
  },
  {
@@ -899,7 +899,7 @@
   "name": "Anthropic Economics and Policy Fellows",
   "type": "page",
   "status": "ok",
-  "count": 670,
+  "count": 671,
   "error": ""
  },
  {
