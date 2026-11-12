@@ -1,37 +1,45 @@
-Job digest 2026-11-11: 8 shown
+Job digest 2026-11-12: 10 shown
 
-New job: Digital Policy & AI Researcher UNEP - United Nations Environment Programme Remote | Nairobi Internship - Internship - Impactpool
+Digital Policy & AI Researcher UNEP - United Nations Environment Programme Remote | Nairobi Internship - Internship - Impactpool
 [rules 8] location unspecified; title: policy, digital policy
-https://www.impactpool.org/jobs/1247053
+https://www.impactpool.org/jobs/1247173
 
-US External Affairs Manager, Global Affairs - OpenAI (Washington, DC)
-[rules 5] remote
-https://jobs.ashbyhq.com/openai/544af761-e37a-450c-884b-b96506c1b883
+Legal Consultant - M&A - Axiom (APAC,  Singapore)
+[rules 5] location: apac; title: consultant
+https://jobicy.com/jobs/150385-legal-consultant-ma
 
-Junior Customer Success Manager (API) - Vonage (Japan)
-[rules 4] location: japan; title: junior
-https://jobicy.com/jobs/155030-junior-customer-success-manager-api-2
+Complaints Policy Manager - Monzo (UK)
+[rules 4] remote; title: policy
+https://jobicy.com/jobs/161354-complaints-policy-manager
 
-New job: Consultant-Policy Studies ICRISAT - The International Crops Research Institute for the Semi-Arid Tropics Jaisalmer Policy Studies - Impactpool
+Associate Program Manager, Technical Outreach - Motive (APAC)
+[rules 4] location: apac; title: associate
+https://jobicy.com/jobs/161326-associate-program-manager-technical-outreach
+
+Legal Consultant / Negotiator - UMR (Derivatives) - Axiom (APAC,  Hong Kong)
+[rules 4] location: apac; title: consultant
+https://jobicy.com/jobs/150379-legal-consultant-negotiator-umr-derivatives
+
+Legal Consultant, Payments Regulatory - Axiom (APAC,  Singapore)
+[rules 4] location: apac; title: consultant
+https://jobicy.com/jobs/150354-legal-consultant-payments-regulatory
+
+Legal Consultant - Commercial Contract, Fortune 500 - Axiom (APAC,  Singapore)
+[rules 4] location: apac; title: consultant
+https://jobicy.com/jobs/150353-legal-consultant-commercial-contract-fortune-500
+
+HR Policy Consultant Roster UNESCO - United Nations Educational, Scientific and Cultural Organization Remote | Paris Level 2 - Middle - Impactpool
 [rules 4] location unspecified; title: policy
-https://www.impactpool.org/jobs/1247260
+https://www.impactpool.org/jobs/1247121
 
-New job: Programme Policy Officer – School Feeding WFP - World Food Programme Phnom Penh CST I - Impactpool
+NATIONAL POST: Programme Analyst, Gender and Social Policy (NOB), Astana, Kazakhstan UNFPA - United Nations Population Fund Nur-Sultan NoB - Impactpool
 [rules 4] location unspecified; title: policy
-https://www.impactpool.org/jobs/1247308
+https://www.impactpool.org/jobs/1247133
 
-Partner Compliance & Onboarding Coordinator - Palmetto Clean Technology (Philippines)
-[rules 3] remote; title: coordinator
-https://jobicy.com/jobs/161079-partner-compliance-onboarding-coordinator
-
-Content & Communications Intern - Binance (Philippines)
-[rules 3] remote; title: intern
-https://jobicy.com/jobs/161030-content-communications-intern
-
-Project Adviser, Policy & Value Chain Engagement (LICA 9) ITC - International Trade Centre Abuja CON - Impactpool
-[rules 3] location unspecified; title: policy
-https://www.impactpool.org/jobs/1244182
+Fraud Operations Analyst - Pleo (Portugal)
+[rules 3] remote; title: analyst
+https://jobicy.com/jobs/161348-fraud-operations-analyst
 
 Sources: 99/141 returned listings
-Problems: The Muse (error), Google DeepMind (error), Mistral AI (error), Tech Policy Press (empty), CDT (error), CIGI (error), Observer Research Foundation (error), Takshashila Institution (error), IT for Change (error), 5Rights Foundation (error), Internet Watch Foundation (error), ECPAT International (error), WeProtect Global Alliance (error), Childnet (error), Save the Children India (empty), HAQ Centre for Child Rights (error), CRY India (empty), Aarambh India (error), Cyber Peace Foundation (error), Internet Freedom Foundation (error), Teach For India (error), Pratham (error), RSIS (error), ASEAN Secretariat (empty), KISA (error), EngageMedia (error), Government Technology Agency Bhutan (error), National Commission for Women and Children Bhutan (error), Hong Kong Polytechnic University (empty), Tencent Careers (empty), FORUM-ASIA (error), Centre for Independent Journalism Malaysia (empty), Digital Rights Foundation Pakistan (error), Centre for Applied AI Governance (empty), World Vision International (error), IGES Japan (error), Fairwork (error), eSafety Commissioner Australia (error), Information Commissioner's Office (error)
+Problems: The Muse (error), Google DeepMind (error), Mistral AI (error), Tech Policy Press (empty), CDT (error), CIGI (error), Observer Research Foundation (error), Takshashila Institution (error), IT for Change (error), 5Rights Foundation (error), Internet Watch Foundation (error), ECPAT International (error), WeProtect Global Alliance (error), Childnet (error), Save the Children India (empty), HAQ Centre for Child Rights (error), CRY India (empty), Aarambh India (error), Cyber Peace Foundation (error), Internet Freedom Foundation (error), Teach For India (error), Pratham (error), INHOPE (error), RSIS (error), ASEAN Secretariat (empty), KISA (error), EngageMedia (error), Government Technology Agency Bhutan (error), National Commission for Women and Children Bhutan (error), Hong Kong Polytechnic University (empty), Tencent Careers (empty), FORUM-ASIA (error), Centre for Independent Journalism Malaysia (empty), Digital Rights Foundation Pakistan (error), Centre for Applied AI Governance (empty), World Vision International (error), IGES Japan (error), Fairwork (error), eSafety Commissioner Australia (error)
 Skipped (no key): ReliefWeb, Adzuna India, Jooble

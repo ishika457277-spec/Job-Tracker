@@ -3,14 +3,14 @@
   "name": "Remotive",
   "type": "remotive",
   "status": "ok",
-  "count": 13,
+  "count": 14,
   "error": ""
  },
  {
   "name": "RemoteOK",
   "type": "remoteok",
   "status": "ok",
-  "count": 99,
+  "count": 98,
   "error": ""
  },
  {
@@ -73,7 +73,7 @@
   "name": "Anthropic",
   "type": "greenhouse",
   "status": "ok",
-  "count": 677,
+  "count": 674,
   "error": ""
  },
  {
@@ -87,7 +87,7 @@
   "name": "Mozilla",
   "type": "greenhouse",
   "status": "ok",
-  "count": 113,
+  "count": 114,
   "error": ""
  },
  {
@@ -101,21 +101,21 @@
   "name": "OpenAI",
   "type": "ashby",
   "status": "ok",
-  "count": 828,
+  "count": 822,
   "error": ""
  },
  {
   "name": "Cohere",
   "type": "ashby",
   "status": "ok",
-  "count": 127,
+  "count": 123,
   "error": ""
  },
  {
   "name": "Perplexity",
   "type": "ashby",
   "status": "ok",
-  "count": 138,
+  "count": 136,
   "error": ""
  },
  {
@@ -171,7 +171,7 @@
   "name": "Impactpool",
   "type": "page",
   "status": "ok",
-  "count": 39,
+  "count": 41,
   "error": ""
  },
  {
@@ -220,7 +220,7 @@
   "name": "ARTICLE 19",
   "type": "page",
   "status": "ok",
-  "count": 35,
+  "count": 33,
   "error": ""
  },
  {
@@ -276,14 +276,14 @@
   "name": "Roblox",
   "type": "greenhouse",
   "status": "ok",
-  "count": 276,
+  "count": 277,
   "error": ""
  },
  {
   "name": "Pinterest",
   "type": "greenhouse",
   "status": "ok",
-  "count": 164,
+  "count": 162,
   "error": ""
  },
  {
@@ -346,7 +346,7 @@
   "name": "Common Sense Media",
   "type": "page",
   "status": "ok",
-  "count": 34,
+  "count": 33,
   "error": ""
  },
  {
@@ -382,7 +382,7 @@
   "type": "page",
   "status": "error",
   "count": 0,
-  "error": "HTTP 403 from https://www.haqcrc.org/careers/"
+  "error": "HTTPSConnectionPool(host='www.haqcrc.org', port=443): Max retries exceeded with url: /careers/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.haqcrc.org', port=443) at 0x735450837500>, 'Con"
  },
  {
   "name": "CRY India",
@@ -465,7 +465,7 @@
   "name": "Future of Privacy Forum",
   "type": "page",
   "status": "ok",
-  "count": 40,
+  "count": 41,
   "error": ""
  },
  {
@@ -478,9 +478,9 @@
  {
   "name": "INHOPE",
   "type": "page",
-  "status": "ok",
-  "count": 18,
-  "error": ""
+  "status": "error",
+  "count": 0,
+  "error": "HTTPSConnectionPool(host='inhope.org', port=443): Max retries exceeded with url: /get-involved/vacancies (Caused by ConnectTimeoutError(<HTTPSConnection(host='inhope.org', port=443) at 0x735450837d70>"
  },
  {
   "name": "KISDI",
@@ -585,14 +585,14 @@
   "type": "page",
   "status": "error",
   "count": 0,
-  "error": "HTTPSConnectionPool(host='www.tech.gov.bt', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: sel"
+  "error": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
  },
  {
   "name": "National Commission for Women and Children Bhutan",
   "type": "page",
   "status": "error",
   "count": 0,
-  "error": "HTTPSConnectionPool(host='ncwc.gov.bt', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='ncwc.gov.bt', port=443) at 0x71740897f140>, 'Connection to ncw"
+  "error": "HTTPSConnectionPool(host='ncwc.gov.bt', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='ncwc.gov.bt', port=443) at 0x73545085bad0>, 'Connection to ncw"
  },
  {
   "name": "Bhutan Media Foundation",
@@ -668,7 +668,7 @@
   "name": "DSET Taiwan",
   "type": "page",
   "status": "ok",
-  "count": 25,
+  "count": 24,
   "error": ""
  },
  {
@@ -899,7 +899,7 @@
   "name": "Anthropic Economics and Policy Fellows",
   "type": "page",
   "status": "ok",
-  "count": 671,
+  "count": 667,
   "error": ""
  },
  {
@@ -968,9 +968,9 @@
  {
   "name": "Information Commissioner's Office",
   "type": "page",
-  "status": "error",
-  "count": 0,
-  "error": "HTTP 403 from https://ico.org.uk/about-the-ico/jobs/vacancies/"
+  "status": "ok",
+  "count": 31,
+  "error": ""
  },
  {
   "name": "Children's Commissioner for England",
