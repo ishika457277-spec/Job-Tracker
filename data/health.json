@@ -24,14 +24,14 @@
   "name": "Jobicy",
   "type": "jobicy",
   "status": "ok",
-  "count": 137,
+  "count": 147,
   "error": ""
  },
  {
   "name": "Working Nomads",
   "type": "workingnomads",
   "status": "ok",
-  "count": 37,
+  "count": 35,
   "error": ""
  },
  {
@@ -73,7 +73,7 @@
   "name": "Anthropic",
   "type": "greenhouse",
   "status": "ok",
-  "count": 674,
+  "count": 673,
   "error": ""
  },
  {
@@ -87,7 +87,7 @@
   "name": "Mozilla",
   "type": "greenhouse",
   "status": "ok",
-  "count": 114,
+  "count": 121,
   "error": ""
  },
  {
@@ -101,21 +101,21 @@
   "name": "OpenAI",
   "type": "ashby",
   "status": "ok",
-  "count": 822,
+  "count": 831,
   "error": ""
  },
  {
   "name": "Cohere",
   "type": "ashby",
   "status": "ok",
-  "count": 123,
+  "count": 121,
   "error": ""
  },
  {
   "name": "Perplexity",
   "type": "ashby",
   "status": "ok",
-  "count": 136,
+  "count": 142,
   "error": ""
  },
  {
@@ -171,7 +171,7 @@
   "name": "Impactpool",
   "type": "page",
   "status": "ok",
-  "count": 41,
+  "count": 44,
   "error": ""
  },
  {
@@ -269,21 +269,21 @@
   "name": "Discord",
   "type": "greenhouse",
   "status": "ok",
-  "count": 26,
+  "count": 25,
   "error": ""
  },
  {
   "name": "Roblox",
   "type": "greenhouse",
   "status": "ok",
-  "count": 277,
+  "count": 273,
   "error": ""
  },
  {
   "name": "Pinterest",
   "type": "greenhouse",
   "status": "ok",
-  "count": 162,
+  "count": 166,
   "error": ""
  },
  {
@@ -304,7 +304,7 @@
   "name": "Coursera",
   "type": "greenhouse",
   "status": "ok",
-  "count": 40,
+  "count": 39,
   "error": ""
  },
  {
@@ -382,7 +382,7 @@
   "type": "page",
   "status": "error",
   "count": 0,
-  "error": "HTTPSConnectionPool(host='www.haqcrc.org', port=443): Max retries exceeded with url: /careers/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.haqcrc.org', port=443) at 0x735450837500>, 'Con"
+  "error": "HTTP 403 from https://www.haqcrc.org/careers/"
  },
  {
   "name": "CRY India",
@@ -430,14 +430,14 @@
   "name": "Central Square Foundation",
   "type": "page",
   "status": "ok",
-  "count": 30,
+  "count": 31,
   "error": ""
  },
  {
   "name": "AIFOD",
   "type": "page",
   "status": "ok",
-  "count": 59,
+  "count": 60,
   "error": ""
  },
  {
@@ -478,9 +478,9 @@
  {
   "name": "INHOPE",
   "type": "page",
-  "status": "error",
-  "count": 0,
-  "error": "HTTPSConnectionPool(host='inhope.org', port=443): Max retries exceeded with url: /get-involved/vacancies (Caused by ConnectTimeoutError(<HTTPSConnection(host='inhope.org', port=443) at 0x735450837d70>"
+  "status": "ok",
+  "count": 18,
+  "error": ""
  },
  {
   "name": "KISDI",
@@ -585,14 +585,14 @@
   "type": "page",
   "status": "error",
   "count": 0,
-  "error": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+  "error": "HTTPSConnectionPool(host='www.tech.gov.bt', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: sel"
  },
  {
   "name": "National Commission for Women and Children Bhutan",
   "type": "page",
   "status": "error",
   "count": 0,
-  "error": "HTTPSConnectionPool(host='ncwc.gov.bt', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='ncwc.gov.bt', port=443) at 0x73545085bad0>, 'Connection to ncw"
+  "error": "HTTPSConnectionPool(host='ncwc.gov.bt', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='ncwc.gov.bt', port=443) at 0x780574ad6a20>, 'Connection to ncw"
  },
  {
   "name": "Bhutan Media Foundation",
@@ -626,7 +626,7 @@
   "name": "Paro College of Education",
   "type": "page",
   "status": "ok",
-  "count": 26,
+  "count": 27,
   "error": ""
  },
  {
@@ -822,7 +822,7 @@
   "name": "Foundation for American Innovation",
   "type": "page",
   "status": "ok",
-  "count": 16,
+  "count": 15,
   "error": ""
  },
  {
@@ -899,7 +899,7 @@
   "name": "Anthropic Economics and Policy Fellows",
   "type": "page",
   "status": "ok",
-  "count": 667,
+  "count": 669,
   "error": ""
  },
  {
@@ -983,7 +983,7 @@
   "name": "NSPCC",
   "type": "page",
   "status": "ok",
-  "count": 35,
+  "count": 36,
   "error": ""
  }
 ]
