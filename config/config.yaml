@@ -1,57 +1,200 @@
-# Everything you would want to tune lives in this file.
-# Constraints below are a starting point based on the policy / governance / research
-# roles you were searching for (Japan, Korea, India, remote). Edit freely.
-
-max_digest: 30            # most jobs sent per day; the rest wait until tomorrow
 
 profile:
-  # 1) Domain words: a match in the TITLE is enough on its own.
+  # 1. Primary and secondary role keywords.
+  # A match in the title is enough on its own.
   include_title_any:
-    - policy
-    - governance
-    - "ai safety"
-    - "responsible ai"
-    - "ai ethics"
-    - ethics
-    - "trust and safety"
-    - "digital rights"
-    - "human rights"
+    # Primary track 1: Data and interactive journalism
+    - "data journalist"
+    - "data journalism"
+    - "data reporter"
+    - "data reporting"
+    - "data-driven journalism"
+    - "interactive journalist"
+    - "interactive journalism"
+    - "computational journalism"
+    - "visual journalism"
+    - "visual journalist"
+    - "investigative journalist"
+    - "investigative journalism"
+    - "multimedia journalist"
+    - "multimedia journalism"
+    - "digital storytelling"
+    - "digital storyteller"
+    - "data storytelling"
+    - "data visualization"
+    - "data visualisation"
+    - "data visualization specialist"
+    - "data visualisation specialist"
+    - "data visualization designer"
+    - "data visualisation designer"
+    - "information designer"
+    - "information design"
+    - "interactive media"
+    - "interactive storytelling"
+    - "journalism researcher"
+    - "media researcher"
+    - "media research"
+
+    # Primary track 2: Impact evaluation, M&E and policy research
+    - "impact evaluation"
+    - "impact assessment"
+    - "impact measurement"
+    - "programme evaluation"
+    - "program evaluation"
+    - "programme monitoring"
+    - "program monitoring"
+    - "monitoring and evaluation"
+    - "monitoring, evaluation and learning"
+    - "monitoring evaluation and learning"
+    - "monitoring, evaluation, and learning"
+    - "M&E"
+    - "MEL"
+    - "evaluation analyst"
+    - "evaluation associate"
+    - "evaluation researcher"
+    - "evaluation specialist"
+    - "evaluation officer"
+    - "evaluation assistant"
+    - "research and evaluation"
+    - "research & evaluation"
+    - "research and learning"
+    - "evidence and learning"
+    - "evidence synthesis"
+    - "evidence-based policy"
+    - "policy research"
+    - "policy researcher"
+    - "policy analyst"
+    - "social policy"
+    - "social policy research"
+    - "development research"
+    - "development researcher"
+    - "development research analyst"
+    - "development evaluation"
+    - "development studies"
+    - "data for development"
+    - "research for development"
+    - "quantitative research"
+    - "qualitative research"
+    - "mixed-methods research"
+    - "mixed methods research"
+    - "applied research"
+    - "empirical research"
+    - "field research"
+    - "social science research"
+    - "programme research"
+    - "program research"
+    - "research impact"
+    - "results measurement"
+    - "results-based management"
+    - "performance measurement"
+
+    # Secondary: Public-interest technology and digital rights
     - "technology policy"
     - "tech policy"
     - "digital policy"
-    - "public policy"
-    - regulation
-    - "program officer"
-    - "programme officer"
-    - misinformation
-    - disinformation
-    - "media literacy"
-    - "child safety"
-    - "child protection"
+    - "AI policy"
+    - "AI governance"
+    - "responsible AI"
+    - "AI ethics"
+    - "AI safety"
+    - "algorithmic accountability"
+    - "algorithmic fairness"
+    - "digital rights"
+    - "internet governance"
+    - "technology and society"
+    - "digital society"
+    - "trust and safety"
+    - "online safety"
+    - "digital wellbeing"
+    - "digital well-being"
+    - "data protection"
+    - "privacy policy"
+    - "digital inclusion"
+    - "digital inequality"
+
+    # Secondary: Education and social research
+    - "education policy"
+    - "education research"
+    - "education evaluation"
+    - "education outcomes"
+    - "learning outcomes"
+    - "education and development"
+    - "gender research"
+    - "gender equality"
+    - "gender and development"
+    - "inequality research"
+    - "poverty research"
+    - "social inequality"
+    - "social justice research"
     - "child rights"
     - "children's rights"
-    - "online safety"
-    - safeguarding
-    - child
-    - children
-    - youth
-    - edtech
-    - "education policy"
-    - "digital literacy"
-  # 2) Generic role words: count only if the listing also mentions a domain phrase below
-  #    (or has no description at all, as on title-only careers pages).
+    - "child protection"
+    - "child online safety"
+    - "children's digital rights"
+
+    # Secondary: Research communication and interactive media
+    - "research communication"
+    - "research communications"
+    - "science communication"
+    - "data communication"
+    - "visual communication"
+    - "digital humanities"
+    - "serious games"
+    - "educational games"
+    - "interactive media research"
+
+  # 2. Generic role words.
+  # These require a domain match, subject to the existing matching logic.
   generic_title_any:
+    # Research and analysis
     - research
     - researcher
     - analyst
     - associate
     - assistant
+    - research assistant
+    - research associate
+    - research analyst
+    - research officer
+    - research coordinator
+    - research fellow
     - fellow
     - fellowship
     - scholar
     - consultant
-    - coordinator
-    - officer
+
+    # Evaluation, monitoring and programme roles
+    - evaluator
+    - evaluation
+    - monitoring
+    - "programme officer"
+    - "program officer"
+    - "programme associate"
+    - "program associate"
+    - "programme assistant"
+    - "program assistant"
+    - "project officer"
+    - "project associate"
+    - "project assistant"
+    - "programme coordinator"
+    - "program coordinator"
+    - "project coordinator"
+    - "learning officer"
+    - "learning associate"
+
+    # Journalism and media roles
+    - journalist
+    - reporter
+    - editor
+    - producer
+    - "media researcher"
+    - "visualization specialist"
+    - "visualisation specialist"
+    - "data visualization"
+    - "data visualisation"
+    - "storytelling producer"
+
+    # Early-career opportunities
     - intern
     - internship
     - trainee
@@ -62,62 +205,147 @@ profile:
     - "early career"
     - "early-career"
     - apprentice
-    - teacher
-    - educator
-    - curriculum
-    - "learning designer"
-    - "instructional designer"
-    - "learning experience"
-    - trainer
-    - "content designer"
-    - moderator
+
   generic_min_text_hits: 1
-  # 3) Domain phrases looked for in title + description.
+
+  # 3. Domain phrases searched in titles and descriptions.
   include_text_any:
-    - "ai governance"
-    - "ai policy"
-    - "ai safety"
-    - "tech policy"
-    - "technology policy"
-    - "digital policy"
-    - "digital rights"
-    - "responsible ai"
-    - "ai ethics"
-    - "trust and safety"
-    - "human rights"
-    - "algorithmic accountability"
-    - "algorithmic"
-    - "online safety"
-    - "data protection"
-    - privacy
-    - "internet governance"
-    - "media literacy"
-    - misinformation
-    - disinformation
-    - "human-computer interaction"
-    - "generative ai"
+    # Data and interactive journalism
+    - "data journalism"
+    - "data journalist"
+    - "data reporting"
+    - "data-driven reporting"
+    - "data-driven journalism"
+    - "investigative journalism"
+    - "computational journalism"
+    - "visual journalism"
+    - "data visualisation"
+    - "data visualization"
+    - "interactive journalism"
+    - "interactive storytelling"
+    - "digital storytelling"
+    - "data storytelling"
+    - "information design"
+    - "visual storytelling"
+    - "public-interest journalism"
+    - "media research"
+    - "data analysis"
+    - "multimedia storytelling"
+
+    # Impact evaluation, M&E and development research
+    - "impact evaluation"
+    - "impact assessment"
+    - "programme evaluation"
+    - "program evaluation"
+    - "monitoring and evaluation"
+    - "monitoring, evaluation and learning"
+    - "monitoring evaluation and learning"
+    - "monitoring, evaluation, and learning"
+    - "M&E"
+    - "MEL"
+    - "evaluation framework"
+    - "evaluation methodology"
+    - "outcome measurement"
+    - "results measurement"
+    - "performance measurement"
+    - "theory of change"
+    - "logical framework"
+    - "programme implementation"
+    - "program implementation"
+    - "development research"
+    - "development studies"
+    - "development policy"
+    - "evidence-based policy"
+    - "evidence-informed policy"
+    - "social policy"
+    - "applied research"
+    - "empirical research"
+    - "field research"
+    - "qualitative research"
+    - "quantitative research"
+    - "mixed-methods research"
+    - "mixed methods research"
+    - "survey design"
+    - "survey analysis"
+    - "primary data collection"
+    - "secondary data analysis"
+    - "descriptive statistics"
+    - "statistical analysis"
+    - "evidence synthesis"
+    - "systematic review"
+    - "literature review"
+    - "data for development"
+    - "programme learning"
+    - "program learning"
+    - "international development"
+
+    # Social justice and policy subject areas
+    - "social inequality"
+    - "economic inequality"
+    - "gender inequality"
+    - "gender equality"
+    - "poverty reduction"
+    - "poverty alleviation"
+    - "social mobility"
+    - "social protection"
+    - "social justice"
+    - "human development"
+    - "development outcomes"
+    - "education policy"
+    - "education research"
+    - "education evaluation"
+    - "learning outcomes"
+    - "educational outcomes"
     - "child rights"
-    - "children's rights"
-    - "child safety"
     - "child protection"
-    - "child online"
-    - "online child"
-    - "child sexual"
-    - "age-appropriate"
-    - "age assurance"
-    - "age verification"
-    - safeguarding
+    - "child wellbeing"
+    - "child well-being"
+
+    # Public-interest technology and AI governance
+    - "AI governance"
+    - "AI policy"
+    - "responsible AI"
+    - "AI ethics"
+    - "AI safety"
+    - "algorithmic accountability"
+    - "algorithmic bias"
+    - "algorithmic discrimination"
+    - "algorithmic fairness"
+    - "digital rights"
+    - "digital inclusion"
+    - "digital inequality"
+    - "technology policy"
+    - "tech policy"
+    - "internet governance"
+    - "online safety"
     - "online harms"
     - "digital wellbeing"
     - "digital well-being"
-    - edtech
-    - "education technology"
-    - "digital literacy"
+    - "children's digital rights"
+    - "child online safety"
     - "children and technology"
-    - "children's privacy"
-    - "young people"
-  min_text_hits: 3        # a listing with no domain word in its title needs this many phrases
-  # Dealbreakers (matched as whole words)
+    - "data protection"
+    - "privacy"
+    - "misinformation"
+    - "disinformation"
+    - "trust and safety"
+    - "human-computer interaction"
+    - "HCI"
+
+    # Research communication and interactive media
+    - "research communication"
+    - "science communication"
+    - "data communication"
+    - "visual communication"
+    - "interactive media"
+    - "digital humanities"
+    - "serious games"
+    - "educational games"
+    - "public engagement with research"
+
+  min_text_hits: 3
+
+  # 4. Dealbreakers
   exclude_title_any:
     - senior
     - "sr."
@@ -125,13 +353,8 @@ profile:
     - "head of"
     - vp
     - "vice president"
-    - principal
     - chief
-    - staff
-    - lead
-    - ii
-    - iii
-    - iv
+    - principal
     - postdoc
     - postdoctoral
     - professor
@@ -139,6 +362,7 @@ profile:
     - "machine learning engineer"
     - sales
     - "account executive"
+
   exclude_text_any:
     - "security clearance"
     - "must be a us citizen"
@@ -153,15 +377,28 @@ profile:
     - "minimum of 5 years"
     - "phd required"
     - "doctorate required"
-  # Where you would work. Remote listings also pass unless restricted to a region below.
+
+  # 5. Target locations
   locations_any:
+    # Japan
     - japan
     - tokyo
     - osaka
     - kyoto
+
+    # South Korea
     - korea
+    - "south korea"
+    - "republic of korea"
     - seoul
     - busan
+    - daejeon
+    - sejong
+
+    # Singapore
+    - singapore
+
+    # India
     - india
     - mumbai
     - delhi
@@ -174,29 +411,58 @@ profile:
     - chennai
     - pune
     - kolkata
+
+    # United Kingdom and Ireland
+    - "united kingdom"
+    - "uk"
+    - england
+    - scotland
+    - wales
+    - london
+    - oxford
+    - cambridge
+    - edinburgh
+    - manchester
+    - ireland
+    - dublin
+
+    # Europe
+    - europe
+    - "european union"
+    - germany
+    - berlin
+    - france
+    - paris
+    - netherlands
+    - amsterdam
+    - belgium
+    - brussels
+    - switzerland
+    - geneva
+    - sweden
+    - denmark
+    - norway
+    - finland
+    - austria
+    - italy
+    - spain
+    - portugal
+    - poland
+    - estonia
+
+    # Wider regional opportunities
     - "south asia"
     - apac
+    - "asia-pacific"
+    - "southeast asia"
     - asia
+
   allow_remote: true
-  remote_exclude_any:
-    - "us only"
-    - usa
-    - "united states"
-    - "u.s."
-    - "(us)"
-    - "us-based"
-    - "us based"
-    - canada
-    - "uk only"
-    - "eu only"
-    - "europe only"
-    - emea
-    - latam
-  unknown_location: keep   # keep | drop  (many NGO pages never state a location)
+  remote_exclude_any: []
+  unknown_location: keep
   max_age_days: 45
 
-# Optional fuzzy judgement on the survivors, Gemini free tier (set GEMINI_API_KEY).
-# Only max_per_run jobs are ever sent, in batches, so a daily run is ~5 requests.
+# Optional LLM relevance scoring
 llm:
   enabled: true
   model: gemini-2.5-flash
@@ -204,17 +470,93 @@ llm:
   batch_size: 8
   pause_seconds: 5
   min_score: 6
+
   profile: >
-    Early-career candidate (0-2 years of work experience; BCA graduate with 2 years of
-    teaching experience; research background in generative AI, HCI and interactive media)
-    based in India. Her focus is CHILD RIGHTS IN THE TECH SPACE: child online safety,
-    children's digital rights, age-appropriate design, child protection, trust and safety
-    for young users, edtech and digital literacy, and the AI/tech policy around these.
-    Wants internships, fellowships, research-assistant, analyst, programme, teaching or
-    curriculum-design and junior roles. Open to remote work that accepts India-based
-    candidates, or on-site in India, Japan or South Korea. Rank roles that combine children
-    with technology highest. Not interested in senior or managerial roles, pure software
-    engineering, sales, roles needing a PhD, or roles restricted to US/EU/UK residents.
+    Early-career candidate with a BCA degree and approximately two years of
+    teaching experience, with project and research interests in generative AI,
+    human-computer interaction, interactive media and data analysis. Interested
+    in building a career at the intersection of data, journalism, public policy,
+    social research and social impact. Currently based in India and preparing
+    for a Master of Data Science for Public Policy at KDI School in South Korea.
+
+    PRIMARY CAREER TRACKS:
+
+    1. DATA AND INTERACTIVE JOURNALISM: Prioritise data journalism, interactive
+    journalism, computational journalism, investigative data research, data
+    visualisation, information design, interactive storytelling, digital
+    storytelling and multimedia research or production. Relevant work may
+    involve analysing datasets, finding patterns, investigating public-interest
+    issues, producing evidence-based stories, building interactive features,
+    creating visual explanations or communicating complex information to
+    general audiences.
+
+    2. IMPACT EVALUATION AND POLICY RESEARCH: Prioritise impact evaluation,
+    programme evaluation, monitoring and evaluation (M&E), monitoring,
+    evaluation and learning (MEL), development research, policy research,
+    social policy, programme assessment, research and evaluation, evidence
+    synthesis and data-for-development work. Relevant responsibilities may
+    include research design, programme monitoring, outcome measurement,
+    survey research, qualitative interviews, field research, data collection,
+    descriptive statistical analysis, mixed-methods research, evaluation
+    reporting and evidence-based policymaking.
+
+    SECONDARY AREAS: Consider public-interest technology, AI governance,
+    responsible AI, digital rights, algorithmic accountability, children's
+    digital rights and online safety, education policy and outcomes, gender
+    inequality, poverty, social mobility, digital wellbeing, research
+    communication, data storytelling and interactive media. These should
+    receive priority when they have a meaningful connection to research,
+    evaluation, data analysis, journalism, public policy or social impact.
+    Do not prioritise general technology or child-safety roles solely because
+    they mention these subjects.
+
+    ROLE TYPES AND SENIORITY: Look for internships, research assistantships,
+    research associate and analyst roles, junior policy and evaluation roles,
+    fellowships, graduate opportunities, early-career positions and suitable
+    paid research or project opportunities. Consider responsibilities rather
+    than relying only on job titles. Include adjacent opportunities when they
+    offer relevant research, evaluation, analytical or storytelling experience.
+    Exclude senior, managerial and director-level positions.
+
+    QUANTITATIVE REQUIREMENTS: Do not automatically reject quantitative
+    research roles. Applied data analysis, descriptive statistics, survey
+    analysis, basic statistical methods and mixed-methods research are
+    relevant. Prioritise roles where quantitative methods can be developed
+    through practical work. Lower the priority of roles requiring advanced
+    econometrics, causal inference, experimental design, advanced mathematical
+    statistics or sophisticated statistical modelling as essential existing
+    skills. Do not assume the candidate has advanced mathematics or extensive
+    professional experience in impact evaluation or journalism.
+
+    ORGANISATIONS AND SECTORS: Consider think tanks, research institutes,
+    universities, journalism organisations, investigative media, international
+    development organisations, foundations, NGOs, public-interest technology
+    organisations and policy research centres. Prioritise work with a clear
+    public-interest, social-impact or evidence-generation purpose.
+
+    LOCATION AND ELIGIBILITY: Interested in international opportunities,
+    particularly in South Korea, Singapore, the United Kingdom, Europe and
+    remote positions. Also consider India-based opportunities where relevant.
+    For remote roles, check whether applicants based in India or international
+    applicants are eligible. Do not rank a role highly if its location,
+    citizenship, residency, work-authorisation or language requirements make
+    the candidate ineligible. Distinguish between confirmed eligibility and
+    eligibility that is unclear.
+
+    EXCLUSIONS: Do not prioritise generic marketing, social media management,
+    sales, business development, corporate business analytics, routine
+    administrative work, pure software engineering or machine-learning
+    engineering. Also deprioritise roles unrelated to the two primary career
+    tracks or the relevant secondary areas.
+
+    RANKING: Give the highest scores to suitable early-career roles directly
+    aligned with data and interactive journalism or impact evaluation, M&E
+    and policy research. Next, consider adjacent roles offering transferable
+    research, data, evaluation or storytelling experience. Secondary-interest
+    roles should rank lower unless they strongly overlap with a primary track.
+    Evaluate actual responsibilities, required skills, seniority, eligibility,
+    location and the opportunity to develop relevant experience. Do not give
+    a high score merely because a listing contains matching keywords.
 
 sources:
   # --- Aggregators and free job APIs (no key needed) ---
