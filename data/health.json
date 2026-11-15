@@ -178,7 +178,7 @@
   "name": "Wantedly",
   "type": "page",
   "status": "ok",
-  "count": 24,
+  "count": 25,
   "error": ""
  },
  {
@@ -592,7 +592,7 @@
   "type": "page",
   "status": "error",
   "count": 0,
-  "error": "HTTPSConnectionPool(host='ncwc.gov.bt', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='ncwc.gov.bt', port=443) at 0x714b049e8590>, 'Connection to ncw"
+  "error": "HTTPSConnectionPool(host='ncwc.gov.bt', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='ncwc.gov.bt', port=443) at 0x7b65dc987020>, 'Connection to ncw"
  },
  {
   "name": "Bhutan Media Foundation",
@@ -1276,8 +1276,8 @@
  {
   "name": "Jobs.ac.uk",
   "type": "page",
-  "status": "ok",
-  "count": 57,
+  "status": "empty",
+  "count": 0,
   "error": ""
  },
  {
