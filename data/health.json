@@ -3,7 +3,7 @@
   "name": "Remotive",
   "type": "remotive",
   "status": "ok",
-  "count": 16,
+  "count": 17,
   "error": ""
  },
  {
@@ -24,14 +24,14 @@
   "name": "Jobicy",
   "type": "jobicy",
   "status": "ok",
-  "count": 156,
+  "count": 133,
   "error": ""
  },
  {
   "name": "Working Nomads",
   "type": "workingnomads",
   "status": "ok",
-  "count": 34,
+  "count": 35,
   "error": ""
  },
  {
@@ -45,7 +45,7 @@
   "name": "We Work Remotely",
   "type": "rss",
   "status": "ok",
-  "count": 100,
+  "count": 99,
   "error": ""
  },
  {
@@ -73,7 +73,7 @@
   "name": "Anthropic",
   "type": "greenhouse",
   "status": "ok",
-  "count": 661,
+  "count": 660,
   "error": ""
  },
  {
@@ -87,35 +87,35 @@
   "name": "Mozilla",
   "type": "greenhouse",
   "status": "ok",
-  "count": 121,
+  "count": 112,
   "error": ""
  },
  {
   "name": "Wikimedia",
   "type": "greenhouse",
   "status": "ok",
-  "count": 16,
+  "count": 15,
   "error": ""
  },
  {
   "name": "OpenAI",
   "type": "ashby",
   "status": "ok",
-  "count": 839,
+  "count": 840,
   "error": ""
  },
  {
   "name": "Cohere",
   "type": "ashby",
   "status": "ok",
-  "count": 121,
+  "count": 125,
   "error": ""
  },
  {
   "name": "Perplexity",
   "type": "ashby",
   "status": "ok",
-  "count": 141,
+  "count": 148,
   "error": ""
  },
  {
@@ -136,7 +136,7 @@
   "name": "Ada Lovelace Institute",
   "type": "page",
   "status": "ok",
-  "count": 20,
+  "count": 21,
   "error": ""
  },
  {
@@ -171,14 +171,14 @@
   "name": "Impactpool",
   "type": "page",
   "status": "ok",
-  "count": 42,
+  "count": 46,
   "error": ""
  },
  {
   "name": "Wantedly",
   "type": "page",
   "status": "ok",
-  "count": 26,
+  "count": 24,
   "error": ""
  },
  {
@@ -269,21 +269,21 @@
   "name": "Discord",
   "type": "greenhouse",
   "status": "ok",
-  "count": 26,
+  "count": 25,
   "error": ""
  },
  {
   "name": "Roblox",
   "type": "greenhouse",
   "status": "ok",
-  "count": 270,
+  "count": 265,
   "error": ""
  },
  {
   "name": "Pinterest",
   "type": "greenhouse",
   "status": "ok",
-  "count": 161,
+  "count": 167,
   "error": ""
  },
  {
@@ -311,7 +311,7 @@
   "name": "UNICEF",
   "type": "page",
   "status": "ok",
-  "count": 46,
+  "count": 49,
   "error": ""
  },
  {
@@ -352,9 +352,9 @@
  {
   "name": "Fairplay",
   "type": "page",
-  "status": "ok",
-  "count": 17,
-  "error": ""
+  "status": "error",
+  "count": 0,
+  "error": "HTTP 403 from https://fairplayforkids.org/about/jobs/"
  },
  {
   "name": "Childnet",
@@ -592,7 +592,7 @@
   "type": "page",
   "status": "error",
   "count": 0,
-  "error": "HTTPSConnectionPool(host='ncwc.gov.bt', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='ncwc.gov.bt', port=443) at 0x70c76815d670>, 'Connection to ncw"
+  "error": "HTTPSConnectionPool(host='ncwc.gov.bt', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='ncwc.gov.bt', port=443) at 0x740108af8920>, 'Connection to ncw"
  },
  {
   "name": "Bhutan Media Foundation",
@@ -766,7 +766,7 @@
   "name": "Centre for Policy Research and Governance",
   "type": "page",
   "status": "ok",
-  "count": 31,
+  "count": 32,
   "error": ""
  },
  {
@@ -793,9 +793,9 @@
  {
   "name": "NCAER",
   "type": "page",
-  "status": "ok",
-  "count": 28,
-  "error": ""
+  "status": "error",
+  "count": 0,
+  "error": "HTTP 403 from https://ncaer.org/careers/"
  },
  {
   "name": "Family Online Safety Institute",
@@ -871,7 +871,7 @@
   "name": "Apart Research",
   "type": "page",
   "status": "ok",
-  "count": 18,
+  "count": 17,
   "error": ""
  },
  {
@@ -899,7 +899,7 @@
   "name": "Anthropic Economics and Policy Fellows",
   "type": "page",
   "status": "ok",
-  "count": 657,
+  "count": 656,
   "error": ""
  },
  {
@@ -997,14 +997,14 @@
   "name": "Idealist Research and Social Science Jobs",
   "type": "page",
   "status": "ok",
-  "count": 56,
+  "count": 57,
   "error": ""
  },
  {
   "name": "Remote Impact",
   "type": "page",
   "status": "ok",
-  "count": 118,
+  "count": 120,
   "error": ""
  },
  {
@@ -1025,21 +1025,21 @@
   "name": "Fast Forward Jobs",
   "type": "page",
   "status": "ok",
-  "count": 52,
+  "count": 55,
   "error": ""
  },
  {
   "name": "UNjobs Evaluation",
   "type": "page",
   "status": "ok",
-  "count": 49,
+  "count": 50,
   "error": ""
  },
  {
   "name": "UNjobs Monitoring and Evaluation",
   "type": "page",
   "status": "ok",
-  "count": 49,
+  "count": 50,
   "error": ""
  },
  {
@@ -1067,21 +1067,21 @@
   "name": "StandbyRoster M&E",
   "type": "page",
   "status": "ok",
-  "count": 88,
+  "count": 85,
   "error": ""
  },
  {
   "name": "StandbyRoster Research",
   "type": "page",
   "status": "ok",
-  "count": 83,
+  "count": 87,
   "error": ""
  },
  {
   "name": "Humanitaire Jobs M&E",
   "type": "page",
   "status": "ok",
-  "count": 220,
+  "count": 282,
   "error": ""
  },
  {
@@ -1095,7 +1095,7 @@
   "name": "UN Careers Hub M&E",
   "type": "page",
   "status": "ok",
-  "count": 45,
+  "count": 46,
   "error": ""
  },
  {
@@ -1165,7 +1165,7 @@
   "name": "WRI Careers",
   "type": "page",
   "status": "ok",
-  "count": 77,
+  "count": 74,
   "error": ""
  },
  {
@@ -1200,7 +1200,7 @@
   "name": "Journo Resources Jobs",
   "type": "page",
   "status": "ok",
-  "count": 165,
+  "count": 158,
   "error": ""
  },
  {
@@ -1221,7 +1221,7 @@
   "name": "IRE Fellowships and Scholarships",
   "type": "page",
   "status": "ok",
-  "count": 55,
+  "count": 57,
   "error": ""
  },
  {
@@ -1242,7 +1242,7 @@
   "name": "ICFJ Opportunities",
   "type": "page",
   "status": "ok",
-  "count": 48,
+  "count": 40,
   "error": ""
  },
  {
@@ -1298,7 +1298,7 @@
   "name": "ISEAS Careers",
   "type": "page",
   "status": "ok",
-  "count": 143,
+  "count": 144,
   "error": ""
  },
  {
@@ -1347,7 +1347,7 @@
   "name": "NSPCC Careers",
   "type": "page",
   "status": "ok",
-  "count": 45,
+  "count": 46,
   "error": ""
  },
  {
@@ -1424,7 +1424,7 @@
   "name": "JREC-IN Research Jobs",
   "type": "page",
   "status": "ok",
-  "count": 111,
+  "count": 103,
   "error": ""
  },
  {
