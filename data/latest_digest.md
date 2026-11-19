@@ -1,125 +1,125 @@
-Job digest 2026-11-18: 30 shown (564 more held for tomorrow)
+Job digest 2026-11-19: 30 shown (555 more held for tomorrow)
 
-Monitoring and Evaluation Officer, Tunis - UNjobs
+Programme Monitoring, Evaluation and Learning Lead - Remote Impact
+[rules 8] location unspecified; title: programme monitoring, monitoring, evaluation and learning
+https://remoteimpact.org/jobs/programme-monitoring-evaluation-and-learning-lead-shrimp-welfare-project/
+
+Monitoring and Evaluation Officer, South Asia Hub – Health Systems (Learning and Impact), India, New Delhi Country Program Office - UNjobs
 [rules 8] location unspecified; title: monitoring and evaluation, evaluation officer
-https://unjobs.org/vacancies/1794988906768
+https://unjobs.org/vacancies/1795002677705
 
-Monitoring and Evaluation Officer (Anticipatory Action), SC9 - Humanitaire Jobs
-[rules 8] location unspecified; title: monitoring and evaluation, evaluation officer
-https://www.humanitairejobs.org/en/job/pam-jr128499-monitoring-and-evaluation-officer-anticipatory-action-sc9/
+AI Policy Sourcebook 2026 - Center for AI and Digital Policy (Remote)
+[rules 5] remote; title: AI policy
+https://www.caidp.org/resources/ai-policy-sourcebook-2026/
 
-Monitoring and Evaluation Officer (Anticipatory Action), SC9 - ChangemakerHQ
-[rules 8] location unspecified; title: monitoring and evaluation, evaluation officer
-https://changemakerhq.org/jobs/monitoring-and-evaluation-officer-anticipatory-action-sc9-wfp-nairobi-38309
+AI Policy Sourcebook 2025 - Center for AI and Digital Policy (Remote)
+[rules 5] remote; title: AI policy
+https://www.caidp.org/resources/ai-policy-sourcebook-2025-1/
 
-AI Safety Specialist - Fully Remote | Up to $25/hr - mercor (United States)
-[rules 5] remote; title: AI safety
-https://himalayas.app/companies/mercor/jobs/ai-safety-specialist-fully-remote-up-to-25-hr?utm_source=api
-
-Coordinator, Program Evaluation - EvaluationJobs
-[rules 5] location unspecified; title: program evaluation
-https://evaluationjobs.org/jobs/coordinator-program-evaluation-2/
-
-Analista em Monitoring, Evaluation and Learning - Science Technician II - ChangemakerHQ
-[rules 5] location unspecified; title: monitoring, evaluation and learning
-https://changemakerhq.org/jobs/analista-em-monitoring-evaluation-and-learning-science-technician-ii-tnc-remote-38155
-
-Monitoring and Evaluation Programme Officer NTDs - ChangemakerHQ
+Project Associate Monitoring and Evaluation - Humanitaire Jobs
 [rules 5] location unspecified; title: monitoring and evaluation
-https://changemakerhq.org/jobs/monitoring-and-evaluation-programme-officer-ntds-sightsavers-38120
+https://www.humanitairejobs.org/en/job/oim-24049-project-associate-monitoring-and-evaluation/
 
-Assistant General Counsel, Servicing - Goodleap (USA)
-[rules 4] remote; title: assistant
-https://jobicy.com/jobs/155716-assistant-general-counsel-servicing
+Monitoring and Evaluation Programme Officer NTDs - Humanitaire Jobs
+[rules 5] location unspecified; title: monitoring and evaluation
+https://www.humanitairejobs.org/en/job/ngojobsafrica-337588-monitoring-and-evaluation-programme-officer-ntds/
 
-Legal Consultant - Japanese Speakers (to be based in Hong Kong) - Axiom (APAC,  Hong Kong)
-[rules 4] location: apac; title: consultant
-https://jobicy.com/jobs/149307-legal-consultant-japanese-speakers-to-be-based-in-hong-kong
+Project Associate Monitoring and Evaluation - ChangemakerHQ
+[rules 5] location unspecified; title: monitoring and evaluation
+https://changemakerhq.org/jobs/project-associate-monitoring-and-evaluation-iom-mauritius-38767
 
-Child Protection Officer, NO-2, FT, #133224, Kinshasa, Dem. Rep. of Congo-WCAR - UNICEF
-[rules 4] location unspecified; title: child protection
-https://jobs.unicef.org/jobs/child-protection-officer-no-2-ft-133224-kinshasa-dem-rep-of-congo-wcar-democratic-republic-of-congo-bas-congo-congo-the-democratic-republic-of-the
+Staff Compensation Analyst - Mozilla (Remote US)
+[rules 4] remote; title: analyst
+https://job-boards.greenhouse.io/mozilla/jobs/8397167
 
-Planning, Monit. & Evaluation Specialist (P-3), TA, 6 months, #139117, Tripoli - Libya, MENA - UNICEF
+Evaluation Specialist (P-4), TA (7 months), #139153, Ha Noi, Viet Nam - APR - UNICEF
 [rules 4] location unspecified; title: evaluation specialist
-https://jobs.unicef.org/jobs/planning-monit-evaluation-specialist-p-3-ta-6-months-139117-tripoli-libya-mena-libya
+https://jobs.unicef.org/jobs/evaluation-specialist-p-4-ta-7-months-139153-ha-noi-viet-nam-apr-viet-nam-vietnam
 
-AI Safety Careers - Remote Impact
-[rules 4] location unspecified; title: AI safety
-https://remoteimpact.org/resources/ai-safety-careers/
+Regional MEL Officer – REACH Malaria Madagascar - UNjobs
+[rules 4] location unspecified; title: MEL
+https://unjobs.org/vacancies/1795002703684
 
-AI Safety - Remote Impact
-[rules 4] location unspecified; title: AI safety
-https://remoteimpact.org/jobs/category/ai-safety/
+MEL Officer – REACH Malaria Madagascar - UNjobs
+[rules 4] location unspecified; title: MEL
+https://unjobs.org/vacancies/1795002704287
 
-Privacy policy - Fast Forward
-[rules 4] location unspecified; title: privacy policy
-https://jobs.ffwd.org/privacy-policy#content
+Monitoring & Evaluation Associate (G6), Baidoa WFP - World Food Programme Baidoa GS-6, General Service Closes 01 Dec 2026 - StandbyRoster
+[rules 4] location unspecified; title: evaluation associate
+https://standbyroster.org/job/89403
 
-AI Policy - Fast Forward
-[rules 4] location unspecified; title: AI policy
-https://www.ffwd.org/ai-policy
+M&E Officers - Humanitaire Jobs
+[rules 4] location unspecified; title: M&E
+https://www.humanitairejobs.org/en/job/acbar-147024-m-e-officers/
 
-UN Women - United Nations Entity for Gender Equality and the Empowerment of Women 20 - UNjobs
-[rules 4] location unspecified; title: gender equality
-https://unjobs.org/organizations/un-women
-
-Privacy Policy - UNjobs
-[rules 4] location unspecified; title: privacy policy
-https://www.iubenda.com/privacy-policy/35887823
-
-Regional Gender Equality and HIV/AIDS Coordinator, Nairobi - UNjobs
-[rules 4] location unspecified; title: gender equality
-https://unjobs.org/vacancies/1794988902712
-
-Child Protection Programme Specialist – Children in Street Situations (CiSS), Maputo - UNjobs
-[rules 4] location unspecified; title: child protection
-https://unjobs.org/vacancies/1794988902527
-
-International Food Policy Research Institute (IFPRI) 2 - UNjobs
-[rules 4] location unspecified; title: policy research
-https://unjobs.org/organizations/ifpri
-
-AI Evaluation Specialist (Remote, Part-Time Researcher) - EvaluationJobs
-[rules 4] location unspecified; title: evaluation specialist
-https://evaluationjobs.org/jobs/ai-evaluation-specialist-remote-part-time-researcher/
-
-Evaluation Analyst - UK Evaluation Society
-[rules 4] location unspecified; title: evaluation analyst
-https://evaluation.org.uk/jobs-and-tenders/jobs/evaluation-analyst/
-
-Privacy Policy - StandbyRoster
-[rules 4] location unspecified; title: privacy policy
-https://standbyroster.org/privacy
-
-Evaluation Officer (P4) WFP - World Food Programme Rome, Italy P-4, International Professional Closes 08 Dec 2026 - StandbyRoster
-[rules 4] location unspecified; title: evaluation officer
-https://standbyroster.org/job/89006
-
-Research and Policy Analyst, Colombo UNICEF - United Nations Children's Fund Colombo, Sri Lanka - StandbyRoster
+Regional Energy Policy Analyst - Humanitaire Jobs
 [rules 4] location unspecified; title: policy analyst
-https://standbyroster.org/job/88061
+https://www.humanitairejobs.org/en/job/pnud-37920-regional-energy-policy-analyst/
 
-Call For CV- MONITORING & EVALUATION OFFICER - Humanitaire Jobs
+M&E Officer - Humanitaire Jobs
+[rules 4] location unspecified; title: M&E
+https://www.humanitairejobs.org/en/job/acbar-147005-m-e-officer/
+
+Evaluation Officer, P3 - Humanitaire Jobs
 [rules 4] location unspecified; title: evaluation officer
-https://www.humanitairejobs.org/en/job/acbar-146842-call-for-cv-monitoring-evaluation-officer/
+https://www.humanitairejobs.org/en/job/un-285427-evaluation-officer-p3/
 
-Digital Policy & AI Researcher - Humanitaire Jobs
-[rules 4] location unspecified; title: digital policy
-https://www.humanitairejobs.org/en/job/un-287855-digital-policy-ai-researcher/
+Monitoring & Evaluation Associate (G6), Baidoa - ChangemakerHQ
+[rules 4] location unspecified; title: evaluation associate
+https://changemakerhq.org/jobs/monitoring-evaluation-associate-g6-baidoa-wfp-baidoa-baydhabo-38676
 
-Oficial M&E (Monitoreo y Evaluación) Caracas - Venezuela - Humanitaire Jobs
+CONSULTANCY - Monitoring Evaluation Research and Learning (MERL) Expert for WISER Kenya Phase III - SSA-2026-ESA-RAF-RCO-12 - ChangemakerHQ
+[rules 4] location unspecified; title: research and learning
+https://changemakerhq.org/jobs/consultancy-monitoring-evaluation-research-and-learning-merl-expert-for-wiser-38475
+
+Evaluation Officer (P4) - ChangemakerHQ
+[rules 4] location unspecified; title: evaluation officer
+https://changemakerhq.org/jobs/evaluation-officer-p4-wfp-rome-38406
+
+MEL Specialist - ChangemakerHQ
+[rules 4] location unspecified; title: MEL
+https://changemakerhq.org/jobs/mel-specialist-tnc-new-delhi-37969
+
+Privacy policy - ChangemakerHQ
+[rules 4] location unspecified; title: privacy policy
+https://changemakerhq.org/privacy
+
+M&E Specialist - UN Careers Hub
 [rules 4] location unspecified; title: M&E
-https://www.humanitairejobs.org/en/job/hi-e9753d5b3a-oficial-m-e-monitoreo-y-evaluacion-caracas-venezuela/
+https://uncareershub.org/jobs/deutsche-gesellschaft-fur-internationale-zusammenarbeit-giz-gmbh-me-specialist-4237955
 
-Programme Support (M&E) Officer - Humanitaire Jobs
+Malawi MEL Lead - UN Careers Hub
+[rules 4] location unspecified; title: MEL
+https://uncareershub.org/jobs/one-acre-fund-malawi-mel-lead-4226975
+
+Privacy Policy - J-PAL
+[rules 4] location unspecified; title: privacy policy
+https://www.povertyactionlab.org/privacy-policy
+
+Privacy Policy - Innovations for Poverty Action
+[rules 4] location unspecified; title: privacy policy
+https://poverty-action.org/privacy-policy
+
+M&E Health Check - IDinsight
 [rules 4] location unspecified; title: M&E
-https://www.humanitairejobs.org/en/job/pam-jr128041-programme-support-m-e-officer/
+https://healthcheck.idinsight.org/
 
-M&E Advisor - MNCH - Humanitaire Jobs
-[rules 4] location unspecified; title: M&E
-https://www.humanitairejobs.org/en/job/pact-2512-m-e-advisor-mnch/
+Privacy Policy - IDinsight
+[rules 4] location unspecified; title: privacy policy
+https://www.idinsight.org/about/privacy-policy/
 
-Sources: 152/205 returned listings
-Problems: The Muse (error), Google DeepMind (error), Mistral AI (error), Tech Policy Press (empty), CDT (error), ARTICLE 19 (error), CIGI (error), Centre for Internet and Society (error), Observer Research Foundation (error), Takshashila Institution (error), IT for Change (error), 5Rights Foundation (error), Internet Watch Foundation (error), ECPAT International (error), WeProtect Global Alliance (error), Fairplay (error), Childnet (error), Save the Children India (empty), HAQ Centre for Child Rights (error), CRY India (empty), Aarambh India (error), Cyber Peace Foundation (error), Internet Freedom Foundation (error), Teach For India (error), Pratham (error), Atlas AI Institute (error), RSIS (error), ASEAN Secretariat (empty), KISA (error), EngageMedia (error), Government Technology Agency Bhutan (error), National Commission for Women and Children Bhutan (error), Hong Kong Polytechnic University (empty), Tencent Careers (empty), FORUM-ASIA (error), Centre for Independent Journalism Malaysia (empty), Digital Rights Foundation Pakistan (error), Centre for Applied AI Governance (empty), World Vision International (error), NCAER (error), IGES Japan (error), Fairwork (error), eSafety Commissioner Australia (error), NSPCC (empty), Civic Tech Guide Jobs (empty), GIJN Jobs (error), Ashoka Tech+Society Fellowship (error), NFER Careers (error), NFER Research Associates (error), Asian Development Bank Careers (error)
+Privacy policy - WHO
+[rules 4] location unspecified; title: privacy policy
+https://www.who.int/about/policies/privacy
+
+Gender equality - UNFPA
+[rules 4] location unspecified; title: gender equality
+https://www.unfpa.org/gender-equality
+
+privacy policy . - WRI
+[rules 4] location unspecified; title: privacy policy
+https://www.wri.org/about/privacy-policy
+
+Sources: 151/205 returned listings
+Problems: The Muse (error), Google DeepMind (error), Mistral AI (error), Tech Policy Press (empty), CDT (error), ARTICLE 19 (error), CIGI (error), Observer Research Foundation (error), Takshashila Institution (error), IT for Change (error), 5Rights Foundation (error), Internet Watch Foundation (error), ECPAT International (error), WeProtect Global Alliance (error), Fairplay (error), Childnet (error), Save the Children India (empty), HAQ Centre for Child Rights (error), CRY India (empty), Aarambh India (error), Cyber Peace Foundation (error), Internet Freedom Foundation (error), Teach For India (error), Pratham (error), Atlas AI Institute (error), RSIS (error), ASEAN Secretariat (empty), KISA (error), EngageMedia (error), Government Technology Agency Bhutan (error), National Commission for Women and Children Bhutan (error), Hong Kong Polytechnic University (empty), Tencent Careers (empty), DSET Taiwan (error), FORUM-ASIA (error), Centre for Independent Journalism Malaysia (empty), Digital Rights Foundation Pakistan (error), Centre for Applied AI Governance (empty), World Vision International (error), NCAER (error), IGES Japan (error), Fairwork (error), eSafety Commissioner Australia (error), NSPCC (empty), Civic Tech Guide Jobs (empty), UK Evaluation Society Jobs and Tenders (error), GIJN Jobs (error), Ashoka Tech+Society Fellowship (error), NFER Careers (error), NFER Research Associates (error), Asian Development Bank Careers (error)
 Skipped (no key): ReliefWeb, Adzuna India, Jooble

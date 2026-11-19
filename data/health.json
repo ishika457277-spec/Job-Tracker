@@ -24,14 +24,14 @@
   "name": "Jobicy",
   "type": "jobicy",
   "status": "ok",
-  "count": 162,
+  "count": 148,
   "error": ""
  },
  {
   "name": "Working Nomads",
   "type": "workingnomads",
   "status": "ok",
-  "count": 35,
+  "count": 39,
   "error": ""
  },
  {
@@ -45,7 +45,7 @@
   "name": "We Work Remotely",
   "type": "rss",
   "status": "ok",
-  "count": 97,
+  "count": 95,
   "error": ""
  },
  {
@@ -73,7 +73,7 @@
   "name": "Anthropic",
   "type": "greenhouse",
   "status": "ok",
-  "count": 656,
+  "count": 638,
   "error": ""
  },
  {
@@ -87,7 +87,7 @@
   "name": "Mozilla",
   "type": "greenhouse",
   "status": "ok",
-  "count": 120,
+  "count": 135,
   "error": ""
  },
  {
@@ -101,14 +101,14 @@
   "name": "OpenAI",
   "type": "ashby",
   "status": "ok",
-  "count": 837,
+  "count": 833,
   "error": ""
  },
  {
   "name": "Cohere",
   "type": "ashby",
   "status": "ok",
-  "count": 127,
+  "count": 125,
   "error": ""
  },
  {
@@ -150,7 +150,7 @@
   "name": "AlgorithmWatch",
   "type": "page",
   "status": "ok",
-  "count": 18,
+  "count": 19,
   "error": ""
  },
  {
@@ -171,14 +171,14 @@
   "name": "Impactpool",
   "type": "page",
   "status": "ok",
-  "count": 47,
+  "count": 49,
   "error": ""
  },
  {
   "name": "Wantedly",
   "type": "page",
   "status": "ok",
-  "count": 25,
+  "count": 24,
   "error": ""
  },
  {
@@ -233,9 +233,9 @@
  {
   "name": "Centre for Internet and Society",
   "type": "page",
-  "status": "error",
-  "count": 0,
-  "error": "HTTPSConnectionPool(host='cis-india.org', port=443): Read timed out. (read timeout=25)"
+  "status": "ok",
+  "count": 18,
+  "error": ""
  },
  {
   "name": "Observer Research Foundation",
@@ -269,7 +269,7 @@
   "name": "Discord",
   "type": "greenhouse",
   "status": "ok",
-  "count": 26,
+  "count": 27,
   "error": ""
  },
  {
@@ -283,14 +283,14 @@
   "name": "Pinterest",
   "type": "greenhouse",
   "status": "ok",
-  "count": 175,
+  "count": 172,
   "error": ""
  },
  {
   "name": "Duolingo",
   "type": "greenhouse",
   "status": "ok",
-  "count": 58,
+  "count": 54,
   "error": ""
  },
  {
@@ -304,14 +304,14 @@
   "name": "Coursera",
   "type": "greenhouse",
   "status": "ok",
-  "count": 38,
+  "count": 37,
   "error": ""
  },
  {
   "name": "UNICEF",
   "type": "page",
   "status": "ok",
-  "count": 50,
+  "count": 31,
   "error": ""
  },
  {
@@ -592,7 +592,7 @@
   "type": "page",
   "status": "error",
   "count": 0,
-  "error": "HTTPSConnectionPool(host='ncwc.gov.bt', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='ncwc.gov.bt', port=443) at 0x795a6029d700>, 'Connection to ncw"
+  "error": "HTTPSConnectionPool(host='ncwc.gov.bt', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='ncwc.gov.bt', port=443) at 0x71ac20e32630>, 'Connection to ncw"
  },
  {
   "name": "Bhutan Media Foundation",
@@ -667,9 +667,9 @@
  {
   "name": "DSET Taiwan",
   "type": "page",
-  "status": "ok",
-  "count": 24,
-  "error": ""
+  "status": "error",
+  "count": 0,
+  "error": "HTTP 500 from https://dset.tw/en/category/recruitment-en/"
  },
  {
   "name": "Institute for Information Industry Taiwan",
@@ -850,7 +850,7 @@
   "name": "CAIDP AI Policy Clinic",
   "type": "page",
   "status": "ok",
-  "count": 109,
+  "count": 110,
   "error": ""
  },
  {
@@ -899,7 +899,7 @@
   "name": "Anthropic Economics and Policy Fellows",
   "type": "page",
   "status": "ok",
-  "count": 651,
+  "count": 634,
   "error": ""
  },
  {
@@ -1004,7 +1004,7 @@
   "name": "Remote Impact",
   "type": "page",
   "status": "ok",
-  "count": 120,
+  "count": 122,
   "error": ""
  },
  {
@@ -1025,14 +1025,14 @@
   "name": "Fast Forward Jobs",
   "type": "page",
   "status": "ok",
-  "count": 47,
+  "count": 60,
   "error": ""
  },
  {
   "name": "UNjobs Evaluation",
   "type": "page",
   "status": "ok",
-  "count": 50,
+  "count": 49,
   "error": ""
  },
  {
@@ -1046,7 +1046,7 @@
   "name": "UNjobs Impact Evaluation",
   "type": "page",
   "status": "ok",
-  "count": 47,
+  "count": 45,
   "error": ""
  },
  {
@@ -1059,43 +1059,43 @@
  {
   "name": "UK Evaluation Society Jobs and Tenders",
   "type": "page",
-  "status": "ok",
-  "count": 19,
-  "error": ""
+  "status": "error",
+  "count": 0,
+  "error": "HTTP 503 from https://evaluation.org.uk/jobs-and-tenders/"
  },
  {
   "name": "StandbyRoster M&E",
   "type": "page",
   "status": "ok",
-  "count": 84,
+  "count": 79,
   "error": ""
  },
  {
   "name": "StandbyRoster Research",
   "type": "page",
   "status": "ok",
-  "count": 82,
+  "count": 79,
   "error": ""
  },
  {
   "name": "Humanitaire Jobs M&E",
   "type": "page",
   "status": "ok",
-  "count": 297,
+  "count": 329,
   "error": ""
  },
  {
   "name": "ChangemakerHQ M&E and Research",
   "type": "page",
   "status": "ok",
-  "count": 77,
+  "count": 78,
   "error": ""
  },
  {
   "name": "UN Careers Hub M&E",
   "type": "page",
   "status": "ok",
-  "count": 47,
+  "count": 46,
   "error": ""
  },
  {
@@ -1123,7 +1123,7 @@
   "name": "IDinsight Careers",
   "type": "page",
   "status": "ok",
-  "count": 58,
+  "count": 57,
   "error": ""
  },
  {
@@ -1165,7 +1165,7 @@
   "name": "WRI Careers",
   "type": "page",
   "status": "ok",
-  "count": 74,
+  "count": 78,
   "error": ""
  },
  {
@@ -1200,7 +1200,7 @@
   "name": "Journo Resources Jobs",
   "type": "page",
   "status": "ok",
-  "count": 158,
+  "count": 166,
   "error": ""
  },
  {
@@ -1242,7 +1242,7 @@
   "name": "ICFJ Opportunities",
   "type": "page",
   "status": "ok",
-  "count": 41,
+  "count": 40,
   "error": ""
  },
  {
@@ -1298,7 +1298,7 @@
   "name": "ISEAS Careers",
   "type": "page",
   "status": "ok",
-  "count": 144,
+  "count": 143,
   "error": ""
  },
  {
@@ -1396,7 +1396,7 @@
   "name": "KDI Careers",
   "type": "page",
   "status": "ok",
-  "count": 48,
+  "count": 49,
   "error": ""
  },
  {
@@ -1424,7 +1424,7 @@
   "name": "JREC-IN Research Jobs",
   "type": "page",
   "status": "ok",
-  "count": 106,
+  "count": 107,
   "error": ""
  },
  {
