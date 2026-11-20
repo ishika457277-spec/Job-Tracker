@@ -1,125 +1,125 @@
-Job digest 2026-11-19: 30 shown (555 more held for tomorrow)
+Job digest 2026-11-20: 30 shown (540 more held for tomorrow)
 
-Programme Monitoring, Evaluation and Learning Lead - Remote Impact
-[rules 8] location unspecified; title: programme monitoring, monitoring, evaluation and learning
-https://remoteimpact.org/jobs/programme-monitoring-evaluation-and-learning-lead-shrimp-welfare-project/
+Field Research and M&E Staff – Sudan - Humanitaire Jobs
+[rules 9] location unspecified; title: M&E, field research
+https://www.humanitairejobs.org/en/job/ngojobsafrica-334119-field-research-and-m-e-staff-sudan/
 
-Monitoring and Evaluation Officer, South Asia Hub – Health Systems (Learning and Impact), India, New Delhi Country Program Office - UNjobs
+Monitoring and Evaluation Officer, Tunis Unknown - StandbyRoster
 [rules 8] location unspecified; title: monitoring and evaluation, evaluation officer
-https://unjobs.org/vacancies/1795002677705
+https://standbyroster.org/job/89789
 
-AI Policy Sourcebook 2026 - Center for AI and Digital Policy (Remote)
-[rules 5] remote; title: AI policy
-https://www.caidp.org/resources/ai-policy-sourcebook-2026/
+K26373 Field Research Coordinator - Eastern Africa (Locally Recruited), Lodwar, Kenya - UNjobs
+[rules 5] location unspecified; title: field research
+https://unjobs.org/vacancies/1795150915563
 
-AI Policy Sourcebook 2025 - Center for AI and Digital Policy (Remote)
-[rules 5] remote; title: AI policy
-https://www.caidp.org/resources/ai-policy-sourcebook-2025-1/
-
-Project Associate Monitoring and Evaluation - Humanitaire Jobs
+Project Associate Monitoring and Evaluation, Port Louis IOM - International Organization for Migration Port Louis, Mauritius - StandbyRoster
 [rules 5] location unspecified; title: monitoring and evaluation
-https://www.humanitairejobs.org/en/job/oim-24049-project-associate-monitoring-and-evaluation/
+https://standbyroster.org/job/89880
 
-Monitoring and Evaluation Programme Officer NTDs - Humanitaire Jobs
-[rules 5] location unspecified; title: monitoring and evaluation
-https://www.humanitairejobs.org/en/job/ngojobsafrica-337588-monitoring-and-evaluation-programme-officer-ntds/
+Consultant – Assessment and Design of an Integrated Digital Information, Knowledge and MEL Management System - ChangemakerHQ
+[rules 5] location unspecified; title: MEL
+https://changemakerhq.org/jobs/consultant-assessment-and-design-of-an-integrated-digital-information-knowledge-38899
 
-Project Associate Monitoring and Evaluation - ChangemakerHQ
-[rules 5] location unspecified; title: monitoring and evaluation
-https://changemakerhq.org/jobs/project-associate-monitoring-and-evaluation-iom-mauritius-38767
-
-Staff Compensation Analyst - Mozilla (Remote US)
+Federal Management & Program Analyst – Remote (US) - RemoteJobsOne (United States)
 [rules 4] remote; title: analyst
-https://job-boards.greenhouse.io/mozilla/jobs/8397167
+https://himalayas.app/companies/remotejobsone/jobs/federal-management-program-analyst-remote-us?utm_source=api
 
-Evaluation Specialist (P-4), TA (7 months), #139153, Ha Noi, Viet Nam - APR - UNICEF
-[rules 4] location unspecified; title: evaluation specialist
-https://jobs.unicef.org/jobs/evaluation-specialist-p-4-ta-7-months-139153-ha-noi-viet-nam-apr-viet-nam-vietnam
-
-Regional MEL Officer – REACH Malaria Madagascar - UNjobs
+MEL Advisor - UK Evaluation Society
 [rules 4] location unspecified; title: MEL
-https://unjobs.org/vacancies/1795002703684
+https://evaluation.org.uk/jobs-and-tenders/jobs/mel-advisor/
 
-MEL Officer – REACH Malaria Madagascar - UNjobs
-[rules 4] location unspecified; title: MEL
-https://unjobs.org/vacancies/1795002704287
-
-Monitoring & Evaluation Associate (G6), Baidoa WFP - World Food Programme Baidoa GS-6, General Service Closes 01 Dec 2026 - StandbyRoster
-[rules 4] location unspecified; title: evaluation associate
-https://standbyroster.org/job/89403
-
-M&E Officers - Humanitaire Jobs
+Technical Officer M&E/Accountability - ChangemakerHQ
 [rules 4] location unspecified; title: M&E
-https://www.humanitairejobs.org/en/job/acbar-147024-m-e-officers/
+https://changemakerhq.org/jobs/technical-officer-m-e-accountability-fhi-360-maiduguri-38982
 
-Regional Energy Policy Analyst - Humanitaire Jobs
-[rules 4] location unspecified; title: policy analyst
-https://www.humanitairejobs.org/en/job/pnud-37920-regional-energy-policy-analyst/
-
-M&E Officer - Humanitaire Jobs
-[rules 4] location unspecified; title: M&E
-https://www.humanitairejobs.org/en/job/acbar-147005-m-e-officer/
-
-Evaluation Officer, P3 - Humanitaire Jobs
+Evaluation Officer - FAO
 [rules 4] location unspecified; title: evaluation officer
-https://www.humanitairejobs.org/en/job/un-285427-evaluation-officer-p3/
+https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?job=2601925&tz=GMT%2B02%3A00&tzname=Europe%2FRome
 
-Monitoring & Evaluation Associate (G6), Baidoa - ChangemakerHQ
-[rules 4] location unspecified; title: evaluation associate
-https://changemakerhq.org/jobs/monitoring-evaluation-associate-g6-baidoa-wfp-baidoa-baydhabo-38676
+Freelance Investigative Journalist Batangarh Employment MP | Rajasthan | UP | Delhi Ongoing - Global Forum for Media Development
+[rules 4] location unspecified; title: investigative journalist
+https://gfmd.info/careers/freelance-investigative-journalist/
 
-CONSULTANCY - Monitoring Evaluation Research and Learning (MERL) Expert for WISER Kenya Phase III - SSA-2026-ESA-RAF-RCO-12 - ChangemakerHQ
-[rules 4] location unspecified; title: research and learning
-https://changemakerhq.org/jobs/consultancy-monitoring-evaluation-research-and-learning-merl-expert-for-wiser-38475
-
-Evaluation Officer (P4) - ChangemakerHQ
-[rules 4] location unspecified; title: evaluation officer
-https://changemakerhq.org/jobs/evaluation-officer-p4-wfp-rome-38406
-
-MEL Specialist - ChangemakerHQ
-[rules 4] location unspecified; title: MEL
-https://changemakerhq.org/jobs/mel-specialist-tnc-new-delhi-37969
-
-Privacy policy - ChangemakerHQ
+Data and Privacy Policy - Journo Resources
 [rules 4] location unspecified; title: privacy policy
-https://changemakerhq.org/privacy
+https://www.journoresources.org.uk/data-privacy-policies/
 
-M&E Specialist - UN Careers Hub
-[rules 4] location unspecified; title: M&E
-https://uncareershub.org/jobs/deutsche-gesellschaft-fur-internationale-zusammenarbeit-giz-gmbh-me-specialist-4237955
-
-Malawi MEL Lead - UN Careers Hub
-[rules 4] location unspecified; title: MEL
-https://uncareershub.org/jobs/one-acre-fund-malawi-mel-lead-4226975
-
-Privacy Policy - J-PAL
+Privacy Policy - NCTJ
 [rules 4] location unspecified; title: privacy policy
-https://www.povertyactionlab.org/privacy-policy
+https://www.nctj.com/nctj-privacy-policy/
 
-Privacy Policy - Innovations for Poverty Action
+Investigative Journalism Syllabi - IJEC
+[rules 4] location unspecified; title: investigative journalism
+https://ijec.org/investigative-journalism-syllabi/
+
+Investigative Journalism Education Consortium - - IJEC
+[rules 4] location unspecified; title: investigative journalism
+https://ijec.org/
+
+Privacy Policy - Investigative Reporters and Editors
 [rules 4] location unspecified; title: privacy policy
-https://poverty-action.org/privacy-policy
+https://www.ire.org/privacy-policy/
 
-M&E Health Check - IDinsight
-[rules 4] location unspecified; title: M&E
-https://healthcheck.idinsight.org/
+David Donald Fellowships for Data Journalism - Investigative Reporters and Editors
+[rules 4] location unspecified; title: data journalism
+https://www.ire.org/training/fellowships-and-scholarships/david-donald-fellowship-for-data-journalism/
 
-Privacy Policy - IDinsight
-[rules 4] location unspecified; title: privacy policy
-https://www.idinsight.org/about/privacy-policy/
-
-Privacy policy - WHO
-[rules 4] location unspecified; title: privacy policy
-https://www.who.int/about/policies/privacy
-
-Gender equality - UNFPA
+Gender Equality Reporting Grant - Pulitzer Center
 [rules 4] location unspecified; title: gender equality
-https://www.unfpa.org/gender-equality
+https://pulitzercenter.org/grants-fellowships/opportunities-journalists/gender-equality-grants
 
-privacy policy . - WRI
+Data Journalism Reporting Grant - Pulitzer Center
+[rules 4] location unspecified; title: data journalism
+https://pulitzercenter.org/grants-fellowships/opportunities-journalists/data-journalism-grants
+
+Privacy Policy - Pulitzer Center
 [rules 4] location unspecified; title: privacy policy
-https://www.wri.org/about/privacy-policy
+https://pulitzercenter.org/privacy-policy
 
-Sources: 151/205 returned listings
-Problems: The Muse (error), Google DeepMind (error), Mistral AI (error), Tech Policy Press (empty), CDT (error), ARTICLE 19 (error), CIGI (error), Observer Research Foundation (error), Takshashila Institution (error), IT for Change (error), 5Rights Foundation (error), Internet Watch Foundation (error), ECPAT International (error), WeProtect Global Alliance (error), Fairplay (error), Childnet (error), Save the Children India (empty), HAQ Centre for Child Rights (error), CRY India (empty), Aarambh India (error), Cyber Peace Foundation (error), Internet Freedom Foundation (error), Teach For India (error), Pratham (error), Atlas AI Institute (error), RSIS (error), ASEAN Secretariat (empty), KISA (error), EngageMedia (error), Government Technology Agency Bhutan (error), National Commission for Women and Children Bhutan (error), Hong Kong Polytechnic University (empty), Tencent Careers (empty), DSET Taiwan (error), FORUM-ASIA (error), Centre for Independent Journalism Malaysia (empty), Digital Rights Foundation Pakistan (error), Centre for Applied AI Governance (empty), World Vision International (error), NCAER (error), IGES Japan (error), Fairwork (error), eSafety Commissioner Australia (error), NSPCC (empty), Civic Tech Guide Jobs (empty), UK Evaluation Society Jobs and Tenders (error), GIJN Jobs (error), Ashoka Tech+Society Fellowship (error), NFER Careers (error), NFER Research Associates (error), Asian Development Bank Careers (error)
+ICFJ International Scholarships for UMD's Howard Center Data Journalism Training Program - ICFJ
+[rules 4] location unspecified; title: data journalism
+https://www.icfj.org/index%2ephp/our-work/icfj-international-scholarships-umds-howard-center-data-journalism-training-program
+
+ICFJ International Scholarships for ASU's Howard Center for Investigative Journalism Editing Program - ICFJ
+[rules 4] location unspecified; title: investigative journalism
+https://www.icfj.org/index%2ephp/our-work/icfj-international-scholarships-asus-howard-center-investigative-journalism-editing
+
+Privacy Policy - ICFJ
+[rules 4] location unspecified; title: privacy policy
+https://www.icfj.org/index%2Ephp/privacy
+
+Privacy Policy - Tarbell Center for AI Journalism
+[rules 4] location unspecified; title: privacy policy
+https://www.tarbellcenter.org/privacy-policy
+
+Job Energy Policy Analyst Location Washington, DC Organisation Cato Institute Application deadline 1 July 2027 Read more - On Think Tanks
+[rules 4] location unspecified; title: policy analyst
+https://onthinktanks.org/job/energy-policy-analyst/
+
+Privacy policy - On Think Tanks
+[rules 4] location unspecified; title: privacy policy
+https://onthinktanks.org/privacy-policy/
+
+Terms of Service & Privacy Policy - Think Tank Calendar
+[rules 4] location unspecified; title: privacy policy
+https://thinktankcalendar.com/terms-and-privacy
+
+Privacy policy - EURAXESS
+[rules 4] location unspecified; title: privacy policy
+https://commission.europa.eu/privacy-policy-websites-managed-european-commission_en
+
+Privacy Policy - ODI Global
+[rules 4] location unspecified; title: privacy policy
+https://careers.odi.org/themes/4388/privacy_policy
+
+AI Safety Atlas (opens in a new tab) - CeSIA
+[rules 4] location unspecified; title: AI safety
+https://ai-safety-atlas.com/
+
+AI Governance - EqualAI
+[rules 4] location unspecified; title: AI governance
+https://www.equalai.org/governance/
+
+Sources: 152/205 returned listings
+Problems: The Muse (error), Google DeepMind (error), Mistral AI (error), Tech Policy Press (empty), CDT (error), ARTICLE 19 (error), CIGI (error), Observer Research Foundation (error), Takshashila Institution (error), IT for Change (error), 5Rights Foundation (error), Internet Watch Foundation (error), ECPAT International (error), WeProtect Global Alliance (error), Fairplay (error), Childnet (error), Save the Children India (empty), HAQ Centre for Child Rights (error), CRY India (empty), Aarambh India (error), Cyber Peace Foundation (error), Internet Freedom Foundation (error), Teach For India (error), Pratham (error), Atlas AI Institute (error), RSIS (error), ASEAN Secretariat (empty), KISA (error), EngageMedia (error), Government Technology Agency Bhutan (error), National Commission for Women and Children Bhutan (error), Hong Kong Polytechnic University (empty), Tencent Careers (empty), FORUM-ASIA (error), Centre for Independent Journalism Malaysia (empty), Digital Rights Foundation Pakistan (error), Centre for Applied AI Governance (empty), World Vision International (error), NCAER (error), IGES Japan (error), Fairwork (error), eSafety Commissioner Australia (error), NSPCC (empty), Civic Tech Guide Jobs (empty), GIJN Jobs (error), Jobs.ac.uk (empty), Ashoka Tech+Society Fellowship (error), NFER Careers (error), NFER Research Associates (error), Asian Development Bank Careers (error)
 Skipped (no key): ReliefWeb, Adzuna India, Jooble
