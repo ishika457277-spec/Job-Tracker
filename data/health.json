@@ -24,7 +24,7 @@
   "name": "Jobicy",
   "type": "jobicy",
   "status": "ok",
-  "count": 147,
+  "count": 162,
   "error": ""
  },
  {
@@ -45,7 +45,7 @@
   "name": "We Work Remotely",
   "type": "rss",
   "status": "ok",
-  "count": 98,
+  "count": 100,
   "error": ""
  },
  {
@@ -73,7 +73,7 @@
   "name": "Anthropic",
   "type": "greenhouse",
   "status": "ok",
-  "count": 633,
+  "count": 635,
   "error": ""
  },
  {
@@ -178,7 +178,7 @@
   "name": "Wantedly",
   "type": "page",
   "status": "ok",
-  "count": 24,
+  "count": 25,
   "error": ""
  },
  {
@@ -219,9 +219,9 @@
  {
   "name": "ARTICLE 19",
   "type": "page",
-  "status": "error",
-  "count": 0,
-  "error": "HTTP 403 from https://www.article19.org/careers/"
+  "status": "ok",
+  "count": 33,
+  "error": ""
  },
  {
   "name": "CIGI",
@@ -276,7 +276,7 @@
   "name": "Roblox",
   "type": "greenhouse",
   "status": "ok",
-  "count": 260,
+  "count": 259,
   "error": ""
  },
  {
@@ -311,7 +311,7 @@
   "name": "UNICEF",
   "type": "page",
   "status": "ok",
-  "count": 29,
+  "count": 28,
   "error": ""
  },
  {
@@ -592,7 +592,7 @@
   "type": "page",
   "status": "error",
   "count": 0,
-  "error": "HTTPSConnectionPool(host='ncwc.gov.bt', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='ncwc.gov.bt', port=443) at 0x768a9cf64d10>, 'Connection to ncw"
+  "error": "HTTPSConnectionPool(host='ncwc.gov.bt', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='ncwc.gov.bt', port=443) at 0x7362108deb10>, 'Connection to ncw"
  },
  {
   "name": "Bhutan Media Foundation",
@@ -899,7 +899,7 @@
   "name": "Anthropic Economics and Policy Fellows",
   "type": "page",
   "status": "ok",
-  "count": 629,
+  "count": 631,
   "error": ""
  },
  {
@@ -990,7 +990,7 @@
   "name": "Idealist Research Jobs",
   "type": "page",
   "status": "ok",
-  "count": 54,
+  "count": 55,
   "error": ""
  },
  {
@@ -1004,7 +1004,7 @@
   "name": "Remote Impact",
   "type": "page",
   "status": "ok",
-  "count": 118,
+  "count": 119,
   "error": ""
  },
  {
@@ -1046,7 +1046,7 @@
   "name": "UNjobs Impact Evaluation",
   "type": "page",
   "status": "ok",
-  "count": 45,
+  "count": 47,
   "error": ""
  },
  {
@@ -1067,7 +1067,7 @@
   "name": "StandbyRoster M&E",
   "type": "page",
   "status": "ok",
-  "count": 78,
+  "count": 80,
   "error": ""
  },
  {
@@ -1081,7 +1081,7 @@
   "name": "Humanitaire Jobs M&E",
   "type": "page",
   "status": "ok",
-  "count": 331,
+  "count": 320,
   "error": ""
  },
  {
@@ -1095,7 +1095,7 @@
   "name": "UN Careers Hub M&E",
   "type": "page",
   "status": "ok",
-  "count": 45,
+  "count": 43,
   "error": ""
  },
  {
@@ -1165,7 +1165,7 @@
   "name": "WRI Careers",
   "type": "page",
   "status": "ok",
-  "count": 78,
+  "count": 77,
   "error": ""
  },
  {
@@ -1200,7 +1200,7 @@
   "name": "Journo Resources Jobs",
   "type": "page",
   "status": "ok",
-  "count": 180,
+  "count": 191,
   "error": ""
  },
  {
@@ -1424,7 +1424,7 @@
   "name": "JREC-IN Research Jobs",
   "type": "page",
   "status": "ok",
-  "count": 112,
+  "count": 108,
   "error": ""
  },
  {
