@@ -24,14 +24,14 @@
   "name": "Jobicy",
   "type": "jobicy",
   "status": "ok",
-  "count": 162,
+  "count": 142,
   "error": ""
  },
  {
   "name": "Working Nomads",
   "type": "workingnomads",
   "status": "ok",
-  "count": 35,
+  "count": 37,
   "error": ""
  },
  {
@@ -73,7 +73,7 @@
   "name": "Anthropic",
   "type": "greenhouse",
   "status": "ok",
-  "count": 635,
+  "count": 634,
   "error": ""
  },
  {
@@ -94,7 +94,7 @@
   "name": "Wikimedia",
   "type": "greenhouse",
   "status": "ok",
-  "count": 12,
+  "count": 11,
   "error": ""
  },
  {
@@ -108,7 +108,7 @@
   "name": "Cohere",
   "type": "ashby",
   "status": "ok",
-  "count": 124,
+  "count": 123,
   "error": ""
  },
  {
@@ -142,8 +142,8 @@
  {
   "name": "Access Now",
   "type": "page",
-  "status": "ok",
-  "count": 61,
+  "status": "empty",
+  "count": 0,
   "error": ""
  },
  {
@@ -171,7 +171,7 @@
   "name": "Impactpool",
   "type": "page",
   "status": "ok",
-  "count": 48,
+  "count": 50,
   "error": ""
  },
  {
@@ -283,7 +283,7 @@
   "name": "Pinterest",
   "type": "greenhouse",
   "status": "ok",
-  "count": 174,
+  "count": 173,
   "error": ""
  },
  {
@@ -311,7 +311,7 @@
   "name": "UNICEF",
   "type": "page",
   "status": "ok",
-  "count": 28,
+  "count": 30,
   "error": ""
  },
  {
@@ -382,7 +382,7 @@
   "type": "page",
   "status": "error",
   "count": 0,
-  "error": "HTTP 403 from https://www.haqcrc.org/careers/"
+  "error": "HTTPSConnectionPool(host='www.haqcrc.org', port=443): Max retries exceeded with url: /careers/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.haqcrc.org', port=443) at 0x720a2ca8b590>, 'Con"
  },
  {
   "name": "CRY India",
@@ -592,7 +592,7 @@
   "type": "page",
   "status": "error",
   "count": 0,
-  "error": "HTTPSConnectionPool(host='ncwc.gov.bt', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='ncwc.gov.bt', port=443) at 0x7362108deb10>, 'Connection to ncw"
+  "error": "HTTPSConnectionPool(host='ncwc.gov.bt', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='ncwc.gov.bt', port=443) at 0x720a344ad6d0>, 'Connection to ncw"
  },
  {
   "name": "Bhutan Media Foundation",
@@ -619,7 +619,7 @@
   "name": "Bhutan NDI",
   "type": "page",
   "status": "ok",
-  "count": 16,
+  "count": 17,
   "error": ""
  },
  {
@@ -899,7 +899,7 @@
   "name": "Anthropic Economics and Policy Fellows",
   "type": "page",
   "status": "ok",
-  "count": 631,
+  "count": 630,
   "error": ""
  },
  {
@@ -990,14 +990,14 @@
   "name": "Idealist Research Jobs",
   "type": "page",
   "status": "ok",
-  "count": 55,
+  "count": 54,
   "error": ""
  },
  {
   "name": "Idealist Research and Social Science Jobs",
   "type": "page",
   "status": "ok",
-  "count": 58,
+  "count": 57,
   "error": ""
  },
  {
@@ -1025,21 +1025,21 @@
   "name": "Fast Forward Jobs",
   "type": "page",
   "status": "ok",
-  "count": 58,
+  "count": 51,
   "error": ""
  },
  {
   "name": "UNjobs Evaluation",
   "type": "page",
   "status": "ok",
-  "count": 49,
+  "count": 50,
   "error": ""
  },
  {
   "name": "UNjobs Monitoring and Evaluation",
   "type": "page",
   "status": "ok",
-  "count": 49,
+  "count": 50,
   "error": ""
  },
  {
@@ -1059,36 +1059,36 @@
  {
   "name": "UK Evaluation Society Jobs and Tenders",
   "type": "page",
-  "status": "ok",
-  "count": 19,
+  "status": "empty",
+  "count": 0,
   "error": ""
  },
  {
   "name": "StandbyRoster M&E",
   "type": "page",
   "status": "ok",
-  "count": 80,
+  "count": 79,
   "error": ""
  },
  {
   "name": "StandbyRoster Research",
   "type": "page",
   "status": "ok",
-  "count": 78,
+  "count": 79,
   "error": ""
  },
  {
   "name": "Humanitaire Jobs M&E",
   "type": "page",
   "status": "ok",
-  "count": 320,
+  "count": 312,
   "error": ""
  },
  {
   "name": "ChangemakerHQ M&E and Research",
   "type": "page",
   "status": "ok",
-  "count": 78,
+  "count": 77,
   "error": ""
  },
  {
@@ -1165,7 +1165,7 @@
   "name": "WRI Careers",
   "type": "page",
   "status": "ok",
-  "count": 77,
+  "count": 80,
   "error": ""
  },
  {
@@ -1200,7 +1200,7 @@
   "name": "Journo Resources Jobs",
   "type": "page",
   "status": "ok",
-  "count": 191,
+  "count": 184,
   "error": ""
  },
  {
@@ -1276,9 +1276,9 @@
  {
   "name": "Jobs.ac.uk",
   "type": "page",
-  "status": "empty",
+  "status": "error",
   "count": 0,
-  "error": ""
+  "error": "HTTP 504 from https://www.jobs.ac.uk/"
  },
  {
   "name": "ODI Global Careers",
@@ -1424,7 +1424,7 @@
   "name": "JREC-IN Research Jobs",
   "type": "page",
   "status": "ok",
-  "count": 108,
+  "count": 110,
   "error": ""
  },
  {
