@@ -1,125 +1,125 @@
-Job digest 2026-11-23: 30 shown (473 more held for tomorrow)
+Job digest 2026-11-24: 30 shown (422 more held for tomorrow)
 
-Education Specialist – Gender Equality, MEL, Amman - UNjobs
-[rules 8] location unspecified; title: MEL, gender equality
-https://unjobs.org/vacancies/1795420878673
+Monitoring and Evaluation Specialist (retainer) - ChangemakerHQ
+[rules 8] location unspecified; title: monitoring and evaluation, evaluation specialist
+https://changemakerhq.org/jobs/monitoring-and-evaluation-specialist-retainer-unops-home-based-39494
 
-Child Protection Officer (NO-2), FT , #58699 Apia, Samoa (Pacific Islands) – MCP, (For Nationals of Samoa Only) - UNICEF
+AI Agent Engineer - Binance (Hong Kong,  Singapore)
+[rules 5] location: singapore
+https://jobicy.com/jobs/156835-ai-agent-engineer
+
+PBF Secretariat M&E and Communications Analyst [Open to internal and external applicants], Juba - UNjobs
+[rules 5] location unspecified; title: M&E
+https://unjobs.org/vacancies/1795514447239
+
+Education Research, Documentation, and Analysis Consultant, Mogadishu UNICEF - United Nations Children's Fund Mogadishu, Somalia - StandbyRoster
+[rules 5] location unspecified; title: education research
+https://standbyroster.org/job/91066
+
+Programme Data & M&E Associate / Executive - Humanitaire Jobs
+[rules 5] location unspecified; title: M&E
+https://www.humanitairejobs.org/en/job/devnet-308283-programme-data-m-e-associate-executive/
+
+Data Journalist, Ignites and BoardIQ - NCTJ
+[rules 5] location unspecified; title: data journalist
+https://www.nctj.com/jobs/data-journalist-ignites-and-boardiq-3/
+
+Project Child Protection Officer (Kebribeyah) - UNjobs
 [rules 4] location unspecified; title: child protection
-https://jobs.unicef.org/jobs/child-protection-officer-no-2-ft-58699-apia-samoa-pacific-islands-mcp-for-nationals-of-samoa-only-samoa
+https://unjobs.org/vacancies/1795496472281
 
-Monitoring & Evaluation Associate (G6), Baidoa, Baidoa (Baydhabo), Somalia WFP - World Food Programme Somalia - StandbyRoster
-[rules 4] location unspecified; title: evaluation associate
-https://standbyroster.org/job/90866
+Фахівець/чиня з моніторингу й оцінювання (M&E) - Humanitaire Jobs
+[rules 4] location unspecified; title: M&E
+https://www.humanitairejobs.org/en/job/prostir-774714-fakhivets-chynia-z-monitorynhu-i-otsiniuvannia-m-e/
 
-Monitoring, Reporting & Evaluation Specialist - ChangemakerHQ
-[rules 4] location unspecified; title: evaluation specialist
-https://changemakerhq.org/jobs/monitoring-reporting-evaluation-specialist-idlo-kyiv-24649
+M&E Officer Projet PRUCAC - ChangemakerHQ
+[rules 4] location unspecified; title: M&E
+https://changemakerhq.org/jobs/m-e-officer-projet-prucac-plan-international-39638
 
-Executive Assistant (Remote Central or West Coast) - Veeam Software (United States)
-[rules 3] remote; title: assistant
-https://himalayas.app/companies/veeam-software/jobs/executive-assistant-remote-central-or-west-coast?utm_source=api
+AI Impact Assessment and Human Oversight Specialist (Expert Roster) - ChangemakerHQ
+[rules 4] location unspecified; title: impact assessment
+https://changemakerhq.org/jobs/ai-impact-assessment-and-human-oversight-specialist-expert-roster-magenta-fze-39601
 
-Customer Success Associate - Spanish & English speaker - Instructure (Hungary)
-[rules 3] remote; title: associate
-https://jobicy.com/jobs/156514-customer-success-associate-spanish-english-speaker
+Business Process Analyst - SFORS (United Arab Emirates)
+[rules 3] remote; title: analyst
+https://himalayas.app/companies/sfors/jobs/business-process-analyst?utm_source=api
 
-Insights Associate - Retail - YipitData (USA)
-[rules 3] remote; title: associate
-https://jobicy.com/jobs/156625-insights-associate-retail
-
-Compliance, International Investigations Associate - Coinbase (Anywhere in the World)
-[rules 3] remote; title: associate
-https://weworkremotely.com/remote-jobs/coinbase-compliance-international-investigations-associate
-
-Research Engineer, Chip Design RL San Francisco, CA Apply - Anthropic (United States; United Kingdom; Canada)
+Research Scientist, Discovery (Engineering & Applied Sciences) San Francisco, CA Apply - Anthropic (United States; United Kingdom; Canada)
 [rules 3] location: united kingdom; title: research
-https://job-boards.greenhouse.io/anthropic/jobs/5459098008
+https://job-boards.greenhouse.io/anthropic/jobs/5468937008
 
-Research Engineer, Code RL (Reinforcement Learning) San Francisco, CA | New York City, NY Apply - Anthropic (United States; United Kingdom; Canada)
+Research Scientist, Interpretability San Francisco, CA Apply - Anthropic (United States; United Kingdom; Canada)
 [rules 3] location: united kingdom; title: research
-https://job-boards.greenhouse.io/anthropic/jobs/5254364008
+https://job-boards.greenhouse.io/anthropic/jobs/4980427008
 
-Research Engineer, Cybersecurity RL San Francisco, CA | New York City, NY Apply - Anthropic (United States; United Kingdom; Canada)
+Research Scientist, Life Sciences San Francisco, CA Apply - Anthropic (United States; United Kingdom; Canada)
 [rules 3] location: united kingdom; title: research
-https://job-boards.greenhouse.io/anthropic/jobs/5459191008
+https://job-boards.greenhouse.io/anthropic/jobs/5239733008
 
-Research Engineer, Cybersecurity RL (Reinforcement Learning) San Francisco, CA | New York City, NY Apply - Anthropic (United States; United Kingdom; Canada)
+Research Scientist, Life Sciences (Chemistry) San Francisco, CA Apply - Anthropic (United States; United Kingdom; Canada)
 [rules 3] location: united kingdom; title: research
-https://job-boards.greenhouse.io/anthropic/jobs/5463598008
+https://job-boards.greenhouse.io/anthropic/jobs/5387564008
 
-Research Engineer, Discovery San Francisco, CA Apply - Anthropic (United States; United Kingdom; Canada)
+Research Scientist, Life Sciences (Computational Chemistry) San Francisco, CA Apply - Anthropic (United States; United Kingdom; Canada)
 [rules 3] location: united kingdom; title: research
-https://job-boards.greenhouse.io/anthropic/jobs/4669581008
+https://job-boards.greenhouse.io/anthropic/jobs/5461863008
 
-Research Engineer, Finetuning San Francisco, CA | New York City, NY | Seattle, WA Apply - Anthropic (United States; United Kingdom; Canada)
+Research Scientist, Life Sciences (Computational) San Francisco, CA Apply - Anthropic (United States; United Kingdom; Canada)
 [rules 3] location: united kingdom; title: research
-https://job-boards.greenhouse.io/anthropic/jobs/5489567008
+https://job-boards.greenhouse.io/anthropic/jobs/5357739008
 
-Research Engineer, Interpretability San Francisco, CA Apply - Anthropic (United States; United Kingdom; Canada)
+Research Scientist, Life Sciences (Large Molecules, Antibody Design) San Francisco, CA Apply - Anthropic (United States; United Kingdom; Canada)
 [rules 3] location: united kingdom; title: research
-https://job-boards.greenhouse.io/anthropic/jobs/4980430008
+https://job-boards.greenhouse.io/anthropic/jobs/5467092008
 
-Research Engineer, Knowledge Team Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY Apply - Anthropic (United States; United Kingdom; Canada)
+Research Scientist, Life Sciences (Large Molecules, Process Development) San Francisco, CA Apply - Anthropic (United States; United Kingdom; Canada)
 [rules 3] location: united kingdom; title: research
-https://job-boards.greenhouse.io/anthropic/jobs/4017331008
+https://job-boards.greenhouse.io/anthropic/jobs/5467099008
 
-Research Engineer, Life Sciences San Francisco, CA Apply - Anthropic (United States; United Kingdom; Canada)
+Security Engineer / Research Engineer, RL Security San Francisco, CA | New York City, NY | Seattle, WA Apply - Anthropic (United States; United Kingdom; Canada)
 [rules 3] location: united kingdom; title: research
-https://job-boards.greenhouse.io/anthropic/jobs/5265365008
+https://job-boards.greenhouse.io/anthropic/jobs/5458420008
 
-Research Engineer, Machine Learning (Reinforcement Learning) London, UK Apply - Anthropic (United States; United Kingdom; Canada)
+Staff Research Engineer, Discovery Team San Francisco, CA Apply - Anthropic (United States; United Kingdom; Canada)
 [rules 3] location: united kingdom; title: research
-https://job-boards.greenhouse.io/anthropic/jobs/5115935008
+https://job-boards.greenhouse.io/anthropic/jobs/4593216008
 
-Research Engineer, Machine Learning (Reinforcement Learning) San Francisco, CA | New York City, NY Apply - Anthropic (United States; United Kingdom; Canada)
+Staff Research Engineer, Multi-Agent Scaling San Francisco, CA | New York City, NY | Seattle, WA Apply - Anthropic (United States; United Kingdom; Canada)
 [rules 3] location: united kingdom; title: research
-https://job-boards.greenhouse.io/anthropic/jobs/4613568008
+https://job-boards.greenhouse.io/anthropic/jobs/5442680008
 
-Research Engineer, Machine Learning (RL Velocity) London, UK Apply - Anthropic (United States; United Kingdom; Canada)
+Staff+ Research Engineer, RL Data Platform San Francisco, CA | New York City, NY Apply - Anthropic (United States; United Kingdom; Canada)
 [rules 3] location: united kingdom; title: research
-https://job-boards.greenhouse.io/anthropic/jobs/5198074008
+https://job-boards.greenhouse.io/anthropic/jobs/5404725008
 
-Research Engineer, Machine Learning (RL Velocity) Remote-Friendly (Travel-Required) | San Francisco, CA | New York City, NY Apply - Anthropic (United States; United Kingdom; Canada)
+Staff+ Research Scientist, Multi-Agent San Francisco, CA | New York City, NY | Seattle, WA Apply - Anthropic (United States; United Kingdom; Canada)
 [rules 3] location: united kingdom; title: research
-https://job-boards.greenhouse.io/anthropic/jobs/5198108008
+https://job-boards.greenhouse.io/anthropic/jobs/4017544008
 
-Research Engineer, Post-Training Model Evaluations San Francisco, CA | Seattle, WA Apply - Anthropic (United States; United Kingdom; Canada)
+Technical Program Manager, Life Sciences Research (Genetic Medicine) Boston, MA; San Francisco, CA | New York City, NY | Seattle, WA Apply - Anthropic (United States; United Kingdom; Canada)
 [rules 3] location: united kingdom; title: research
-https://job-boards.greenhouse.io/anthropic/jobs/5198255008
+https://job-boards.greenhouse.io/anthropic/jobs/5481980008
 
-Research Engineer, Pretraining London, UK Apply - Anthropic (United States; United Kingdom; Canada)
+Applied AI, Research Engineer San Francisco, CA | New York City, NY Apply - Anthropic (United States; United Kingdom; Canada)
 [rules 3] location: united kingdom; title: research
-https://job-boards.greenhouse.io/anthropic/jobs/5119713008
+https://job-boards.greenhouse.io/anthropic/jobs/5390811008
 
-Research Engineer, Pretraining Scaling San Francisco, CA Apply - Anthropic (United States; United Kingdom; Canada)
+Data Center Asset Management, Commercial Associate San Francisco, CA | New York City, NY Apply - Anthropic (United States; United Kingdom; Canada)
+[rules 3] location: united kingdom; title: associate
+https://job-boards.greenhouse.io/anthropic/jobs/5468352008
+
+Business Systems Analyst, New Product Introduction San Francisco, CA | New York City, NY | Seattle, WA Apply - Anthropic (United States; United Kingdom; Canada)
+[rules 3] location: united kingdom; title: analyst
+https://job-boards.greenhouse.io/anthropic/jobs/5416829008
+
+Finance Systems Analyst, Tax San Francisco, CA | Seattle, WA Apply - Anthropic (United States; United Kingdom; Canada)
+[rules 3] location: united kingdom; title: analyst
+https://job-boards.greenhouse.io/anthropic/jobs/5357947008
+
+Research Counsel San Francisco, CA | New York City, NY Apply - Anthropic (United States; United Kingdom; Canada)
 [rules 3] location: united kingdom; title: research
-https://job-boards.greenhouse.io/anthropic/jobs/4938432008
+https://job-boards.greenhouse.io/anthropic/jobs/5413418008
 
-Research Engineer, Pretraining Scaling - London London, UK Apply - Anthropic (United States; United Kingdom; Canada)
-[rules 3] location: united kingdom; title: research
-https://job-boards.greenhouse.io/anthropic/jobs/4938436008
-
-Research Engineer, Production Model Post-Training San Francisco, CA | New York City, NY | Seattle, WA Apply - Anthropic (United States; United Kingdom; Canada)
-[rules 3] location: united kingdom; title: research
-https://job-boards.greenhouse.io/anthropic/jobs/4613592008
-
-Research Engineer, Production Model Post-Training Zürich, CH Apply - Anthropic (United States; United Kingdom; Canada)
-[rules 3] location: united kingdom; title: research
-https://job-boards.greenhouse.io/anthropic/jobs/5112018008
-
-Research Engineer, RL Engineering San Francisco, CA | New York City, NY | Seattle, WA Apply - Anthropic (United States; United Kingdom; Canada)
-[rules 3] location: united kingdom; title: research
-https://job-boards.greenhouse.io/anthropic/jobs/4952051008
-
-Research Engineer, Visual Knowledge Work New York City, NY; San Francisco, CA; Seattle, WA Apply - Anthropic (United States; United Kingdom; Canada)
-[rules 3] location: united kingdom; title: research
-https://job-boards.greenhouse.io/anthropic/jobs/5074217008
-
-Research Operations Lead, Biology Boston, MA Apply - Anthropic (United States; United Kingdom; Canada)
-[rules 3] location: united kingdom; title: research
-https://job-boards.greenhouse.io/anthropic/jobs/5467690008
-
-Sources: 151/205 returned listings
-Problems: The Muse (error), Google DeepMind (error), Mistral AI (error), Access Now (empty), Tech Policy Press (empty), CDT (error), CIGI (error), Observer Research Foundation (error), Takshashila Institution (error), IT for Change (error), 5Rights Foundation (error), Internet Watch Foundation (error), ECPAT International (error), WeProtect Global Alliance (error), Fairplay (error), Childnet (error), Save the Children India (empty), HAQ Centre for Child Rights (error), CRY India (empty), Aarambh India (error), Cyber Peace Foundation (error), Internet Freedom Foundation (error), Teach For India (error), Pratham (error), Atlas AI Institute (error), RSIS (error), ASEAN Secretariat (empty), KISA (error), EngageMedia (error), Government Technology Agency Bhutan (error), National Commission for Women and Children Bhutan (error), Hong Kong Polytechnic University (empty), Tencent Careers (empty), FORUM-ASIA (error), Centre for Independent Journalism Malaysia (empty), Digital Rights Foundation Pakistan (error), Centre for Applied AI Governance (empty), World Vision International (error), NCAER (error), IGES Japan (error), Fairwork (error), eSafety Commissioner Australia (error), NSPCC (empty), Civic Tech Guide Jobs (empty), UK Evaluation Society Jobs and Tenders (empty), GIJN Jobs (error), Jobs.ac.uk (error), Ashoka Tech+Society Fellowship (error), NFER Careers (error), NFER Research Associates (error), Asian Development Bank Careers (error)
+Sources: 152/205 returned listings
+Problems: The Muse (error), Google DeepMind (error), Mistral AI (error), Tech Policy Press (empty), CDT (error), CIGI (error), Observer Research Foundation (error), Takshashila Institution (error), IT for Change (error), 5Rights Foundation (error), Internet Watch Foundation (error), ECPAT International (error), WeProtect Global Alliance (error), Fairplay (error), Childnet (error), Save the Children India (empty), HAQ Centre for Child Rights (error), CRY India (empty), Aarambh India (error), Cyber Peace Foundation (error), Internet Freedom Foundation (error), Teach For India (error), Pratham (error), Atlas AI Institute (error), RSIS (error), ASEAN Secretariat (empty), KISA (error), Nanyang Centre for Public Administration (error), EngageMedia (error), Government Technology Agency Bhutan (error), National Commission for Women and Children Bhutan (error), Hong Kong Polytechnic University (empty), Tencent Careers (empty), FORUM-ASIA (error), Centre for Independent Journalism Malaysia (empty), Digital Rights Foundation Pakistan (error), Centre for Applied AI Governance (empty), World Vision International (error), NCAER (error), IGES Japan (error), Fairwork (error), eSafety Commissioner Australia (error), NSPCC (empty), Civic Tech Guide Jobs (empty), GIJN Jobs (error), Jobs.ac.uk (error), Ashoka Tech+Society Fellowship (error), NFER Careers (error), NFER Research Associates (error), Asian Development Bank Careers (error)
 Skipped (no key): ReliefWeb, Adzuna India, Jooble

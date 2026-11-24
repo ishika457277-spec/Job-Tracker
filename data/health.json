@@ -3,7 +3,7 @@
   "name": "Remotive",
   "type": "remotive",
   "status": "ok",
-  "count": 16,
+  "count": 15,
   "error": ""
  },
  {
@@ -24,7 +24,7 @@
   "name": "Jobicy",
   "type": "jobicy",
   "status": "ok",
-  "count": 142,
+  "count": 57,
   "error": ""
  },
  {
@@ -73,7 +73,7 @@
   "name": "Anthropic",
   "type": "greenhouse",
   "status": "ok",
-  "count": 634,
+  "count": 630,
   "error": ""
  },
  {
@@ -87,28 +87,28 @@
   "name": "Mozilla",
   "type": "greenhouse",
   "status": "ok",
-  "count": 138,
+  "count": 142,
   "error": ""
  },
  {
   "name": "Wikimedia",
   "type": "greenhouse",
   "status": "ok",
-  "count": 11,
+  "count": 12,
   "error": ""
  },
  {
   "name": "OpenAI",
   "type": "ashby",
   "status": "ok",
-  "count": 852,
+  "count": 863,
   "error": ""
  },
  {
   "name": "Cohere",
   "type": "ashby",
   "status": "ok",
-  "count": 123,
+  "count": 124,
   "error": ""
  },
  {
@@ -142,8 +142,8 @@
  {
   "name": "Access Now",
   "type": "page",
-  "status": "empty",
-  "count": 0,
+  "status": "ok",
+  "count": 61,
   "error": ""
  },
  {
@@ -171,14 +171,14 @@
   "name": "Impactpool",
   "type": "page",
   "status": "ok",
-  "count": 50,
+  "count": 48,
   "error": ""
  },
  {
   "name": "Wantedly",
   "type": "page",
   "status": "ok",
-  "count": 25,
+  "count": 23,
   "error": ""
  },
  {
@@ -220,7 +220,7 @@
   "name": "ARTICLE 19",
   "type": "page",
   "status": "ok",
-  "count": 33,
+  "count": 34,
   "error": ""
  },
  {
@@ -276,42 +276,42 @@
   "name": "Roblox",
   "type": "greenhouse",
   "status": "ok",
-  "count": 259,
+  "count": 255,
   "error": ""
  },
  {
   "name": "Pinterest",
   "type": "greenhouse",
   "status": "ok",
-  "count": 173,
+  "count": 169,
   "error": ""
  },
  {
   "name": "Duolingo",
   "type": "greenhouse",
   "status": "ok",
-  "count": 54,
+  "count": 53,
   "error": ""
  },
  {
   "name": "Khan Academy",
   "type": "greenhouse",
   "status": "ok",
-  "count": 3,
+  "count": 4,
   "error": ""
  },
  {
   "name": "Coursera",
   "type": "greenhouse",
   "status": "ok",
-  "count": 34,
+  "count": 33,
   "error": ""
  },
  {
   "name": "UNICEF",
   "type": "page",
   "status": "ok",
-  "count": 30,
+  "count": 29,
   "error": ""
  },
  {
@@ -346,7 +346,7 @@
   "name": "Common Sense Media",
   "type": "page",
   "status": "ok",
-  "count": 32,
+  "count": 33,
   "error": ""
  },
  {
@@ -382,7 +382,7 @@
   "type": "page",
   "status": "error",
   "count": 0,
-  "error": "HTTPSConnectionPool(host='www.haqcrc.org', port=443): Max retries exceeded with url: /careers/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.haqcrc.org', port=443) at 0x720a2ca8b590>, 'Con"
+  "error": "HTTPSConnectionPool(host='www.haqcrc.org', port=443): Max retries exceeded with url: /careers/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.haqcrc.org', port=443) at 0x77847cb3b410>, 'Con"
  },
  {
   "name": "CRY India",
@@ -486,14 +486,14 @@
   "name": "KISDI",
   "type": "page",
   "status": "ok",
-  "count": 34,
+  "count": 33,
   "error": ""
  },
  {
   "name": "Institute for AI Policy and Strategy",
   "type": "page",
   "status": "ok",
-  "count": 6,
+  "count": 7,
   "error": ""
  },
  {
@@ -562,9 +562,9 @@
  {
   "name": "Nanyang Centre for Public Administration",
   "type": "page",
-  "status": "ok",
-  "count": 33,
-  "error": ""
+  "status": "error",
+  "count": 0,
+  "error": "HTTP 403 from https://www.ntu.edu.sg/ncpa"
  },
  {
   "name": "EngageMedia",
@@ -592,13 +592,13 @@
   "type": "page",
   "status": "error",
   "count": 0,
-  "error": "HTTPSConnectionPool(host='ncwc.gov.bt', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='ncwc.gov.bt', port=443) at 0x720a344ad6d0>, 'Connection to ncw"
+  "error": "HTTPSConnectionPool(host='ncwc.gov.bt', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='ncwc.gov.bt', port=443) at 0x77847cb38f50>, 'Connection to ncw"
  },
  {
   "name": "Bhutan Media Foundation",
   "type": "page",
   "status": "ok",
-  "count": 49,
+  "count": 48,
   "error": ""
  },
  {
@@ -829,7 +829,7 @@
   "name": "CAPRI Taiwan",
   "type": "page",
   "status": "ok",
-  "count": 56,
+  "count": 57,
   "error": ""
  },
  {
@@ -899,7 +899,7 @@
   "name": "Anthropic Economics and Policy Fellows",
   "type": "page",
   "status": "ok",
-  "count": 630,
+  "count": 626,
   "error": ""
  },
  {
@@ -997,14 +997,14 @@
   "name": "Idealist Research and Social Science Jobs",
   "type": "page",
   "status": "ok",
-  "count": 57,
+  "count": 58,
   "error": ""
  },
  {
   "name": "Remote Impact",
   "type": "page",
   "status": "ok",
-  "count": 119,
+  "count": 121,
   "error": ""
  },
  {
@@ -1025,7 +1025,7 @@
   "name": "Fast Forward Jobs",
   "type": "page",
   "status": "ok",
-  "count": 51,
+  "count": 49,
   "error": ""
  },
  {
@@ -1059,15 +1059,15 @@
  {
   "name": "UK Evaluation Society Jobs and Tenders",
   "type": "page",
-  "status": "empty",
-  "count": 0,
+  "status": "ok",
+  "count": 19,
   "error": ""
  },
  {
   "name": "StandbyRoster M&E",
   "type": "page",
   "status": "ok",
-  "count": 79,
+  "count": 82,
   "error": ""
  },
  {
@@ -1081,21 +1081,21 @@
   "name": "Humanitaire Jobs M&E",
   "type": "page",
   "status": "ok",
-  "count": 312,
+  "count": 226,
   "error": ""
  },
  {
   "name": "ChangemakerHQ M&E and Research",
   "type": "page",
   "status": "ok",
-  "count": 77,
+  "count": 78,
   "error": ""
  },
  {
   "name": "UN Careers Hub M&E",
   "type": "page",
   "status": "ok",
-  "count": 43,
+  "count": 48,
   "error": ""
  },
  {
@@ -1137,14 +1137,14 @@
   "name": "FHI 360 Careers",
   "type": "page",
   "status": "ok",
-  "count": 54,
+  "count": 53,
   "error": ""
  },
  {
   "name": "FHI 360 Consultancy Opportunities",
   "type": "page",
   "status": "ok",
-  "count": 51,
+  "count": 50,
   "error": ""
  },
  {
@@ -1158,14 +1158,14 @@
   "name": "UNFPA Careers",
   "type": "page",
   "status": "ok",
-  "count": 109,
+  "count": 110,
   "error": ""
  },
  {
   "name": "WRI Careers",
   "type": "page",
   "status": "ok",
-  "count": 80,
+  "count": 81,
   "error": ""
  },
  {
@@ -1193,21 +1193,21 @@
   "name": "GFMD Career Opportunities",
   "type": "page",
   "status": "ok",
-  "count": 36,
+  "count": 35,
   "error": ""
  },
  {
   "name": "Journo Resources Jobs",
   "type": "page",
   "status": "ok",
-  "count": 184,
+  "count": 175,
   "error": ""
  },
  {
   "name": "NCTJ Jobs Board",
   "type": "page",
   "status": "ok",
-  "count": 66,
+  "count": 73,
   "error": ""
  },
  {
@@ -1242,7 +1242,7 @@
   "name": "ICFJ Opportunities",
   "type": "page",
   "status": "ok",
-  "count": 40,
+  "count": 41,
   "error": ""
  },
  {
@@ -1270,7 +1270,7 @@
   "name": "EURAXESS Research Jobs",
   "type": "page",
   "status": "ok",
-  "count": 149,
+  "count": 163,
   "error": ""
  },
  {
@@ -1278,7 +1278,7 @@
   "type": "page",
   "status": "error",
   "count": 0,
-  "error": "HTTP 504 from https://www.jobs.ac.uk/"
+  "error": "HTTP 500 from https://www.jobs.ac.uk/"
  },
  {
   "name": "ODI Global Careers",
@@ -1424,7 +1424,7 @@
   "name": "JREC-IN Research Jobs",
   "type": "page",
   "status": "ok",
-  "count": 110,
+  "count": 113,
   "error": ""
  },
  {
