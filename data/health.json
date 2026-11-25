@@ -24,7 +24,7 @@
   "name": "Jobicy",
   "type": "jobicy",
   "status": "ok",
-  "count": 57,
+  "count": 148,
   "error": ""
  },
  {
@@ -73,7 +73,7 @@
   "name": "Anthropic",
   "type": "greenhouse",
   "status": "ok",
-  "count": 630,
+  "count": 636,
   "error": ""
  },
  {
@@ -87,28 +87,28 @@
   "name": "Mozilla",
   "type": "greenhouse",
   "status": "ok",
-  "count": 142,
+  "count": 136,
   "error": ""
  },
  {
   "name": "Wikimedia",
   "type": "greenhouse",
   "status": "ok",
-  "count": 12,
+  "count": 13,
   "error": ""
  },
  {
   "name": "OpenAI",
   "type": "ashby",
   "status": "ok",
-  "count": 863,
+  "count": 877,
   "error": ""
  },
  {
   "name": "Cohere",
   "type": "ashby",
   "status": "ok",
-  "count": 124,
+  "count": 123,
   "error": ""
  },
  {
@@ -150,7 +150,7 @@
   "name": "AlgorithmWatch",
   "type": "page",
   "status": "ok",
-  "count": 19,
+  "count": 18,
   "error": ""
  },
  {
@@ -171,7 +171,7 @@
   "name": "Impactpool",
   "type": "page",
   "status": "ok",
-  "count": 48,
+  "count": 52,
   "error": ""
  },
  {
@@ -283,7 +283,7 @@
   "name": "Pinterest",
   "type": "greenhouse",
   "status": "ok",
-  "count": 169,
+  "count": 168,
   "error": ""
  },
  {
@@ -297,14 +297,14 @@
   "name": "Khan Academy",
   "type": "greenhouse",
   "status": "ok",
-  "count": 4,
+  "count": 5,
   "error": ""
  },
  {
   "name": "Coursera",
   "type": "greenhouse",
   "status": "ok",
-  "count": 33,
+  "count": 35,
   "error": ""
  },
  {
@@ -382,7 +382,7 @@
   "type": "page",
   "status": "error",
   "count": 0,
-  "error": "HTTPSConnectionPool(host='www.haqcrc.org', port=443): Max retries exceeded with url: /careers/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.haqcrc.org', port=443) at 0x77847cb3b410>, 'Con"
+  "error": "HTTP 403 from https://www.haqcrc.org/careers/"
  },
  {
   "name": "CRY India",
@@ -437,7 +437,7 @@
   "name": "AIFOD",
   "type": "page",
   "status": "ok",
-  "count": 60,
+  "count": 62,
   "error": ""
  },
  {
@@ -506,8 +506,8 @@
  {
   "name": "NUS Institute of Policy Studies",
   "type": "page",
-  "status": "ok",
-  "count": 163,
+  "status": "empty",
+  "count": 0,
   "error": ""
  },
  {
@@ -542,7 +542,7 @@
   "name": "NAAMII Nepal",
   "type": "page",
   "status": "ok",
-  "count": 49,
+  "count": 51,
   "error": ""
  },
  {
@@ -556,15 +556,15 @@
   "name": "NKIS Korea",
   "type": "page",
   "status": "ok",
-  "count": 55,
+  "count": 54,
   "error": ""
  },
  {
   "name": "Nanyang Centre for Public Administration",
   "type": "page",
-  "status": "error",
-  "count": 0,
-  "error": "HTTP 403 from https://www.ntu.edu.sg/ncpa"
+  "status": "ok",
+  "count": 33,
+  "error": ""
  },
  {
   "name": "EngageMedia",
@@ -592,13 +592,13 @@
   "type": "page",
   "status": "error",
   "count": 0,
-  "error": "HTTPSConnectionPool(host='ncwc.gov.bt', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='ncwc.gov.bt', port=443) at 0x77847cb38f50>, 'Connection to ncw"
+  "error": "HTTPSConnectionPool(host='ncwc.gov.bt', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='ncwc.gov.bt', port=443) at 0x7daa34833cb0>, 'Connection to ncw"
  },
  {
   "name": "Bhutan Media Foundation",
   "type": "page",
   "status": "ok",
-  "count": 48,
+  "count": 49,
   "error": ""
  },
  {
@@ -668,7 +668,7 @@
   "name": "DSET Taiwan",
   "type": "page",
   "status": "ok",
-  "count": 24,
+  "count": 25,
   "error": ""
  },
  {
@@ -801,7 +801,7 @@
   "name": "Family Online Safety Institute",
   "type": "page",
   "status": "ok",
-  "count": 33,
+  "count": 31,
   "error": ""
  },
  {
@@ -899,7 +899,7 @@
   "name": "Anthropic Economics and Policy Fellows",
   "type": "page",
   "status": "ok",
-  "count": 626,
+  "count": 631,
   "error": ""
  },
  {
@@ -990,28 +990,28 @@
   "name": "Idealist Research Jobs",
   "type": "page",
   "status": "ok",
-  "count": 54,
+  "count": 57,
   "error": ""
  },
  {
   "name": "Idealist Research and Social Science Jobs",
   "type": "page",
   "status": "ok",
-  "count": 58,
+  "count": 60,
   "error": ""
  },
  {
   "name": "Remote Impact",
   "type": "page",
   "status": "ok",
-  "count": 121,
+  "count": 123,
   "error": ""
  },
  {
   "name": "ImpactRoles",
   "type": "page",
   "status": "ok",
-  "count": 71,
+  "count": 69,
   "error": ""
  },
  {
@@ -1025,7 +1025,7 @@
   "name": "Fast Forward Jobs",
   "type": "page",
   "status": "ok",
-  "count": 49,
+  "count": 55,
   "error": ""
  },
  {
@@ -1046,7 +1046,7 @@
   "name": "UNjobs Impact Evaluation",
   "type": "page",
   "status": "ok",
-  "count": 47,
+  "count": 48,
   "error": ""
  },
  {
@@ -1067,21 +1067,21 @@
   "name": "StandbyRoster M&E",
   "type": "page",
   "status": "ok",
-  "count": 82,
+  "count": 81,
   "error": ""
  },
  {
   "name": "StandbyRoster Research",
   "type": "page",
   "status": "ok",
-  "count": 79,
+  "count": 83,
   "error": ""
  },
  {
   "name": "Humanitaire Jobs M&E",
   "type": "page",
   "status": "ok",
-  "count": 226,
+  "count": 222,
   "error": ""
  },
  {
@@ -1095,7 +1095,7 @@
   "name": "UN Careers Hub M&E",
   "type": "page",
   "status": "ok",
-  "count": 48,
+  "count": 42,
   "error": ""
  },
  {
@@ -1109,7 +1109,7 @@
   "name": "IPA Current Opportunities",
   "type": "page",
   "status": "ok",
-  "count": 87,
+  "count": 88,
   "error": ""
  },
  {
@@ -1158,21 +1158,21 @@
   "name": "UNFPA Careers",
   "type": "page",
   "status": "ok",
-  "count": 110,
+  "count": 111,
   "error": ""
  },
  {
   "name": "WRI Careers",
   "type": "page",
   "status": "ok",
-  "count": 81,
+  "count": 82,
   "error": ""
  },
  {
   "name": "IFPRI Careers",
   "type": "page",
-  "status": "ok",
-  "count": 58,
+  "status": "empty",
+  "count": 0,
   "error": ""
  },
  {
@@ -1200,7 +1200,7 @@
   "name": "Journo Resources Jobs",
   "type": "page",
   "status": "ok",
-  "count": 175,
+  "count": 93,
   "error": ""
  },
  {
@@ -1242,7 +1242,7 @@
   "name": "ICFJ Opportunities",
   "type": "page",
   "status": "ok",
-  "count": 41,
+  "count": 40,
   "error": ""
  },
  {
@@ -1368,7 +1368,7 @@
   "name": "IFF Research Careers",
   "type": "page",
   "status": "ok",
-  "count": 45,
+  "count": 44,
   "error": ""
  },
  {
@@ -1410,7 +1410,7 @@
   "name": "Telum Media Journalism Jobs",
   "type": "page",
   "status": "ok",
-  "count": 27,
+  "count": 28,
   "error": ""
  },
  {
@@ -1424,7 +1424,7 @@
   "name": "JREC-IN Research Jobs",
   "type": "page",
   "status": "ok",
-  "count": 113,
+  "count": 102,
   "error": ""
  },
  {
