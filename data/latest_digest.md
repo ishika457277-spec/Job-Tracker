@@ -1,125 +1,125 @@
-Job digest 2026-11-27: 30 shown (326 more held for tomorrow)
+Job digest 2026-11-28: 30 shown (327 more held for tomorrow)
 
-Planning, Monitoring and Evaluation Specialist - ImpactRoles
+Planning, Monitoring and Evaluation Specialist UNV - United Nations Volunteers Panama City Junior Closes 07 Dec 2026 - StandbyRoster
 [rules 8] location unspecified; title: monitoring and evaluation, evaluation specialist
-https://impactroles.org/jobs/planning-monitoring-and-evaluation-specialist-at-unv-1784888021274403
+https://standbyroster.org/job/93156
 
-Monitoring and Evaluation Officer CBM - Christian Blind Mission Togo Mid Closes 10 Dec 2026 - StandbyRoster
-[rules 8] location unspecified; title: monitoring and evaluation, evaluation officer
-https://standbyroster.org/job/92707
+Planning, Monitoring and Evaluation Specialist, Panama City UNFPA - United Nations Population Fund Panama City, Panama - StandbyRoster
+[rules 8] location unspecified; title: monitoring and evaluation, evaluation specialist
+https://standbyroster.org/job/92976
 
-AI Governance - Centre for Applied AI Governance (Remote)
-[rules 5] remote; title: AI governance
-https://appliedaigovernance.org/ai-governance
+Planning, Monitoring and Evaluation Specialist - ChangemakerHQ
+[rules 8] location unspecified; title: monitoring and evaluation, evaluation specialist
+https://changemakerhq.org/jobs/planning-monitoring-and-evaluation-specialist-unv-41163
 
-Monitoring and Evaluation jobs in South Sudan 8 - StandbyRoster
-[rules 5] location unspecified; title: monitoring and evaluation
-https://standbyroster.org/jobs/monitoring-evaluation/south-sudan
+Digital Web Research Analyst - Veeam Software (USA)
+[rules 5] remote; title: research, analyst
+https://jobicy.com/jobs/157638-digital-web-research-analyst
 
-National Business Analyst on Case and Information Management (seconded to the Ministry of Social Policy of Ukraine) - Humanitaire Jobs
-[rules 5] location unspecified; title: social policy
-https://www.humanitairejobs.org/en/job/oim-24302-national-business-analyst-on-case-and-information-management-seconded/
+Monitoring, Evaluation and Learning Associate - UNjobs
+[rules 5] location unspecified; title: monitoring, evaluation and learning
+https://unjobs.org/vacancies/1795850273940
 
-Support in Monitoring and Evaluation - ChangemakerHQ
-[rules 5] location unspecified; title: monitoring and evaluation
-https://changemakerhq.org/jobs/support-in-monitoring-and-evaluation-unv-41117
+Data Assistant (M&E) - Humanitaire Jobs
+[rules 5] location unspecified; title: M&E
+https://www.humanitairejobs.org/en/job/devnet-308870-data-assistant-m-e/
 
-KYB/AML Analyst, Sweden - Ramp (Sweden)
-[rules 4] location: sweden; title: analyst
-https://jobicy.com/jobs/157398-kyb-aml-analyst-sweden
+Technical AI Governance Researcher - CeSIA
+[rules 5] location unspecified; title: AI governance
+https://cesia.org/en/careers/technical-ai-governance-researcher/
 
-Evaluation Specialist, P-3, Temporary Position, 364 days, #00129436, Regional Services Div (ESAR)- Prog Section, Nairobi - UNjobs
-[rules 4] location unspecified; title: evaluation specialist
-https://unjobs.org/vacancies/1795712454261
+Payroll Tax Analyst - Jamf (USA)
+[rules 4] remote; title: analyst
+https://jobicy.com/jobs/164535-payroll-tax-analyst
 
-Illegal Markets Evaluation Specialist - UK Evaluation Society
-[rules 4] location unspecified; title: evaluation specialist
-https://evaluation.org.uk/jobs-and-tenders/jobs/illegal-markets-evaluation-specialist/
+Financial Analyst - Jamf (USA)
+[rules 4] remote; title: analyst
+https://jobicy.com/jobs/164528-financial-analyst-7
 
-M&E Officer IRC - International Rescue Committee Juba, South Sudan Mid - StandbyRoster
+Finance & Strategy Analyst, Product - Coinbase (Anywhere in the World)
+[rules 4] remote; title: analyst
+https://weworkremotely.com/remote-jobs/coinbase-finance-strategy-analyst-product
+
+European Network for AI Safety (ENAIS) - Remote Impact
+[rules 4] location unspecified; title: AI safety
+https://remoteimpact.org/org/european-network-for-ai-safety-enais/
+
+Specialist, Public Health and M&E - GL D - Temporary until December 2027 - French and/or Spanish Desirable, Geneva - UNjobs
 [rules 4] location unspecified; title: M&E
-https://standbyroster.org/job/92608
+https://unjobs.org/vacancies/1795842113462
 
-Monitoring & Evaluation Specialist - Humanitaire Jobs
+Protection Case Worker - Child Protection, Bekaa, Lebanon - UNjobs
+[rules 4] location unspecified; title: child protection
+https://unjobs.org/vacancies/1795842140941
+
+Data Management and Evaluation Specialist FAO - Food and Agriculture Organization of the United Nations Remote Consultant Closes 11 Dec 2026 - StandbyRoster
 [rules 4] location unspecified; title: evaluation specialist
-https://www.humanitairejobs.org/en/job/pnud-37862-monitoring-evaluation-specialist/
+https://standbyroster.org/job/93201
 
-Policy Analyst - Humanitaire Jobs
-[rules 4] location unspecified; title: policy analyst
-https://www.humanitairejobs.org/en/job/pnud-38280-policy-analyst/
-
-M&E Officer - ChangemakerHQ
+Specialist, Public Health and M&E - GL D - Temporary until December 2027 - French and/or Spanish Desirable - ChangemakerHQ
 [rules 4] location unspecified; title: M&E
-https://changemakerhq.org/jobs/m-e-officer-irc-juba-40864
+https://changemakerhq.org/jobs/specialist-public-health-and-m-e-gl-d-temporary-until-december-2027-french-and-41285
 
-Research Initiatives - Centre for Policy Research (India)
-[rules 3] location: india; title: research
-https://cprindia.org/research-initiatives/
+Data Management and Evaluation Specialist - ChangemakerHQ
+[rules 4] location unspecified; title: evaluation specialist
+https://changemakerhq.org/jobs/data-management-and-evaluation-specialist-fao-based-41151
 
-Children's Rights in Laws, Policies and Practice - Children's Rights Alliance
-[rules 3] location unspecified; title: children's rights
-https://childrensrights.ie/our-work/law-policies-and-practice/
+Implementation Research and Learning Advisor - ChangemakerHQ
+[rules 4] location unspecified; title: research and learning
+https://changemakerhq.org/jobs/implementation-research-and-learning-advisor-jhpiego-nairobi-21098
 
-Research Papers - SPRF (India)
-[rules 3] location: india; title: research
-https://sprf.in/category/research-papers/
+(English C1) Technical Support Consultant, VPS & Trading - SupportYourApp (Cyprus)
+[rules 3] remote; title: consultant
+https://himalayas.app/companies/supportyourapp/jobs/english-c1-technical-support-consultant-vps-trading-8590205293?utm_source=api
 
-Media Monitoring - Telum Media (Asia-Pacific)
-[rules 3] location: asia-pacific; title: monitoring
-https://connect.telummedia.com/media-monitoring
+C Developer Intern (remote work) - TuxCare Inc. (Georgia)
+[rules 3] remote; title: intern
+https://himalayas.app/companies/tuxcare-inc/jobs/c-developer-intern-remote-work?utm_source=api
 
-Podcast Producer, The Conversation AU / NZ Australia Journalism Full Time Paid Online Posted 26/11/2026 Closing date 09/12/2026 - Telum Media (Asia-Pacific)
-[rules 3] location: asia-pacific; title: producer
-https://www.telummedia.com/jobs/view/australia-podcast-producer-the-conversation-au-nz/4n17zz20v7
+Workforce Management Planning Analyst - Thumbtack (Philippines)
+[rules 3] remote; title: analyst
+https://jobicy.com/jobs/164562-workforce-management-planning-analyst
 
-Digital Investigation Journalist, Agence France-Presse Thailand Journalism Full Time Paid Newswire Posted 25/11/2026 Closing date 16/12/2026 - Telum Media (Asia-Pacific)
-[rules 3] location: asia-pacific; title: journalist
-https://www.telummedia.com/jobs/view/thailand-digital-investigation-journalist-agence-france-presse/g5lryy4g1p
+Detection Analyst - Zscaler (Anywhere in the World)
+[rules 3] remote; title: analyst
+https://weworkremotely.com/remote-jobs/zscaler-detection-analyst
 
-Associate Producer, Business News (Asia) LLP Singapore Journalism Full Time Paid Broadcast Posted 03/11/2026 Closing date 03/12/2026 - Telum Media (Asia-Pacific)
-[rules 3] location: asia-pacific; title: associate, producer
-https://www.telummedia.com/jobs/view/singapore-associate-producer-business-news-asia-llp-2/e5l366p7lk
+Open Position: Quantum Network Researcher - JREC-IN (Japan)
+[rules 3] location: japan; title: researcher
+https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D126111548
 
-internship etc. list - JREC-IN (Japan)
-[rules 3] location: japan; title: internship
-https://jrecin.jst.go.jp/seek/SeekTitleContent?id=6
+Researcher (Emerging Technology and Industry Practice) - Ada Lovelace Institute
+[rules 1] location unspecified; title: researcher
+https://www.adalovelaceinstitute.org/job/researcher-emerging-technology-and-industry-practice/
 
-Research Administration (7 job postings) Research Administrator, Evaluator, Program Officer, R&D management personnel, Coordinator, etc. - JREC-IN (Japan)
-[rules 3] location: japan; title: research, evaluator
-https://jrecin.jst.go.jp/seek/SeekJorSearch?fn=0&&jobkind=00018
+Transport Policy Analysts OECD - Organisation for Economic Co-operation and Development Paris PAL4 - Junior level - Impactpool
+[rules 1] location unspecified; title: junior
+https://www.impactpool.org/jobs/1249848
 
-Teacher (4 job postings) Instructor at a professional training school, Teacher at an elementary/junior high/high school, etc. - JREC-IN (Japan)
-[rules 3] location: japan; title: junior
-https://jrecin.jst.go.jp/seek/SeekJorSearch?fn=0&&jobkind=00020
+E T Consultant (IT Policy & Compliance) World Bank Group Washington D.C. EC2 - Extended Term Consultant Appointment - Consultancy - Impactpool
+[rules 1] location unspecified; title: consultant
+https://www.impactpool.org/jobs/1249564
 
-Communicator (3 job postings) Public Relations, Science Communicator, Specialist for Sci. & Tech., Journalist for Sci. & Tech., etc. - JREC-IN (Japan)
-[rules 3] location: japan; title: journalist
-https://jrecin.jst.go.jp/seek/SeekJorSearch?fn=0&&jobkind=00021
+Associate, Economics & Policy UNIRMCT - United Nations International Residual Mechanism for Criminal Tribunals Baghdad Mid - Impactpool
+[rules 1] location unspecified; title: associate
+https://www.impactpool.org/jobs/1248524
 
-List of research fields - JREC-IN (Japan)
-[rules 3] location: japan; title: research
-https://jrecin.jst.go.jp/html/app/seek/dsc_researchfield_e.html?extFlg=1
+Programme Policy Officer-Planning and Operations UNV - United Nations Volunteers Democratic Republic of Congo Junior - Impactpool
+[rules 1] location unspecified; title: junior
+https://www.impactpool.org/jobs/1250217
 
-Research - Centre for Applied AI Governance (Remote)
-[rules 2] remote; title: research
-https://appliedaigovernance.org/research
+Analyst, Economics & Policy UNIRMCT - United Nations International Residual Mechanism for Criminal Tribunals Abidjan Junior - Impactpool
+[rules 1] location unspecified; title: analyst, junior
+https://www.impactpool.org/jobs/1248922
 
-Fellowship - Centre for Applied AI Governance (Remote)
-[rules 2] remote; title: fellowship
-https://appliedaigovernance.org/fellowship
+Strategic Policy & Coordination Officer WFP - World Food Programme Kinshasa Junior - Impactpool
+[rules 1] location unspecified; title: junior
+https://www.impactpool.org/jobs/1249966
 
-Data Analysis Associate - Humanitaire Jobs
-[rules 2] location unspecified; title: associate
-https://www.humanitairejobs.org/en/job/unops-5224-data-analysis-associate/
+New job: Policy Coherence and Sustainable Food Systems Consultant UNEP - United Nations Environment Programme Nairobi CON - Impactpool
+[rules 1] location unspecified; title: consultant
+https://www.impactpool.org/jobs/1250483
 
-Consultant: Consultant on Regional Environmental Assessment, Monitoring and Data Analysis - Humanitaire Jobs
-[rules 2] location unspecified; title: consultant, monitoring
-https://www.humanitairejobs.org/en/job/un-288817-consultant-consultant-on-regional-environmental-assessment-monitoring/
-
-Data Analysis Assistant, G6 - Humanitaire Jobs
-[rules 2] location unspecified; title: assistant
-https://www.humanitairejobs.org/en/job/un-284442-data-analysis-assistant-g6/
-
-Sources: 155/205 returned listings
-Problems: The Muse (error), Google DeepMind (error), Mistral AI (error), Tech Policy Press (empty), CDT (error), CIGI (error), Observer Research Foundation (error), Takshashila Institution (error), IT for Change (error), 5Rights Foundation (error), Internet Watch Foundation (error), ECPAT International (error), WeProtect Global Alliance (error), Fairplay (error), Childnet (error), Save the Children India (empty), HAQ Centre for Child Rights (error), CRY India (empty), Aarambh India (error), Cyber Peace Foundation (error), Internet Freedom Foundation (error), Teach For India (error), Pratham (error), Atlas AI Institute (error), RSIS (error), ASEAN Secretariat (empty), KISA (error), EngageMedia (error), Government Technology Agency Bhutan (error), National Commission for Women and Children Bhutan (error), Hong Kong Polytechnic University (empty), Tencent Careers (empty), FORUM-ASIA (error), Centre for Independent Journalism Malaysia (empty), Digital Rights Foundation Pakistan (error), World Vision International (error), NCAER (error), IGES Japan (error), Fairwork (error), eSafety Commissioner Australia (error), NSPCC (empty), Civic Tech Guide Jobs (empty), GIJN Jobs (error), Ashoka Tech+Society Fellowship (error), NFER Careers (error), NFER Research Associates (error), Asian Development Bank Careers (error)
+Sources: 154/205 returned listings
+Problems: The Muse (error), Google DeepMind (error), Mistral AI (error), Tech Policy Press (empty), CDT (error), CIGI (error), Observer Research Foundation (error), Takshashila Institution (error), IT for Change (error), 5Rights Foundation (error), Internet Watch Foundation (error), ECPAT International (error), WeProtect Global Alliance (error), Fairplay (error), Childnet (error), Save the Children India (empty), HAQ Centre for Child Rights (error), CRY India (empty), Aarambh India (error), Cyber Peace Foundation (error), Internet Freedom Foundation (error), Teach For India (error), Pratham (error), Atlas AI Institute (error), RSIS (error), ASEAN Secretariat (empty), KISA (error), EngageMedia (error), Government Technology Agency Bhutan (error), National Commission for Women and Children Bhutan (error), Hong Kong Polytechnic University (empty), Tencent Careers (empty), FORUM-ASIA (error), Centre for Independent Journalism Malaysia (empty), Digital Rights Foundation Pakistan (error), World Vision International (error), NCAER (error), IGES Japan (error), Fairwork (error), eSafety Commissioner Australia (error), NSPCC (empty), Civic Tech Guide Jobs (empty), GIJN Jobs (error), On Think Tanks Jobs (error), Ashoka Tech+Society Fellowship (error), NFER Careers (error), NFER Research Associates (error), Asian Development Bank Careers (error)
 Skipped (no key): ReliefWeb, Adzuna India, Jooble
